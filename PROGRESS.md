@@ -1,6 +1,6 @@
 # 50-State Corrections Research Progress Tracker
 **Project:** New Staff Orientation & Union Benefits Study  
-**Overall Progress:** `19 / 50 States Completed (38.0%)`
+**Overall Progress:** `20 / 50 States Completed (40.0%)`
 
 | State Code | State Name | Official Agency | Research Status | Reference Dossier |
 | :---: | :--- | :--- | :---: | :--- |
@@ -23,7 +23,7 @@
 | KY | Kentucky | Kentucky Department of Corrections (DOC) | ✅ Complete (Verified) | [KY_kentucky.md](file:///home/gcloud/projects/corrections-union-research/states/KY_kentucky.md) |
 | LA | Louisiana | Louisiana Department of Public Safety and Corrections (DPS&C) | ✅ Complete (Verified) | [LA_louisiana.md](file:///home/gcloud/projects/corrections-union-research/states/LA_louisiana.md) |
 | ME | Maine | Maine Department of Corrections (MDOC) | ✅ Complete (Verified) | [ME_maine.md](file:///home/gcloud/projects/corrections-union-research/states/ME_maine.md) |
-| MD | Maryland | Maryland Department of Public Safety and Correctional Services (DPSCS) | ⏳ Pending | - |
+| MD | Maryland | Maryland Department of Public Safety and Correctional Services (DPSCS) | ✅ Complete (Verified) | [MD_maryland.md](file:///home/gcloud/projects/corrections-union-research/states/MD_maryland.md) |
 | MA | Massachusetts | Massachusetts Department of Correction (MADOC) | ⏳ Pending | - |
 | MI | Michigan | Michigan Department of Corrections (MDOC) | ⏳ Pending | - |
 | MN | Minnesota | Minnesota Department of Corrections (MNDOC) | ⏳ Pending | - |
@@ -55,4 +55,4 @@
 | WI | Wisconsin | Wisconsin Department of Corrections (DOC) | ⏳ Pending | - |
 | WY | Wyoming | Wyoming Department of Corrections (WDOC) | ⏳ Pending | - |
 
-*Updated: 2026-08-22 22:13:11*
+*Updated: 2026-08-22 22:17:52*
