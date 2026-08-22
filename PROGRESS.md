@@ -1,6 +1,6 @@
 # 50-State Corrections Research Progress Tracker
 **Project:** New Staff Orientation & Union Benefits Study  
-**Overall Progress:** `42 / 50 States Completed (84.0%)`
+**Overall Progress:** `43 / 50 States Completed (86.0%)`
 
 | State Code | State Name | Official Agency | Research Status | Reference Dossier |
 | :---: | :--- | :--- | :---: | :--- |
@@ -46,7 +46,7 @@
 | SC | South Carolina | South Carolina Department of Corrections (SCDC) | ✅ Complete (Verified) | [SC_south_carolina.md](file:///home/gcloud/projects/corrections-union-research/states/SC_south_carolina.md) |
 | SD | South Dakota | South Dakota Department of Corrections (DOC) | ✅ Complete (Verified) | [SD_south_dakota.md](file:///home/gcloud/projects/corrections-union-research/states/SD_south_dakota.md) |
 | TN | Tennessee | Tennessee Department of Correction (TDOC) | ✅ Complete (Verified) | [TN_tennessee.md](file:///home/gcloud/projects/corrections-union-research/states/TN_tennessee.md) |
-| TX | Texas | Texas Department of Criminal Justice (TDCJ) | ⏳ Pending | - |
+| TX | Texas | Texas Department of Criminal Justice (TDCJ) | ✅ Complete (Verified) | [TX_texas.md](file:///home/gcloud/projects/corrections-union-research/states/TX_texas.md) |
 | UT | Utah | Utah Department of Corrections (UDC) | ⏳ Pending | - |
 | VT | Vermont | Vermont Department of Corrections (VDOC) | ⏳ Pending | - |
 | VA | Virginia | Virginia Department of Corrections (VADOC) | ⏳ Pending | - |
@@ -55,4 +55,4 @@
 | WI | Wisconsin | Wisconsin Department of Corrections (DOC) | ⏳ Pending | - |
 | WY | Wyoming | Wyoming Department of Corrections (WDOC) | ⏳ Pending | - |
 
-*Updated: 2026-08-22 23:47:54*
+*Updated: 2026-08-22 23:52:51*
