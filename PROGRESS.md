@@ -1,6 +1,6 @@
 # 50-State Corrections Research Progress Tracker
 **Project:** New Staff Orientation & Union Benefits Study  
-**Overall Progress:** `29 / 50 States Completed (58.0%)`
+**Overall Progress:** `30 / 50 States Completed (60.0%)`
 
 | State Code | State Name | Official Agency | Research Status | Reference Dossier |
 | :---: | :--- | :--- | :---: | :--- |
@@ -33,7 +33,7 @@
 | NE | Nebraska | Nebraska Department of Correctional Services (NDCS) | ✅ Complete (Verified) | [NE_nebraska.md](file:///home/gcloud/projects/corrections-union-research/states/NE_nebraska.md) |
 | NV | Nevada | Nevada Department of Corrections (NDOC) | ✅ Complete (Verified) | [NV_nevada.md](file:///home/gcloud/projects/corrections-union-research/states/NV_nevada.md) |
 | NH | New Hampshire | New Hampshire Department of Corrections (NHDOC) | ✅ Complete (Verified) | [NH_new_hampshire.md](file:///home/gcloud/projects/corrections-union-research/states/NH_new_hampshire.md) |
-| NJ | New Jersey | New Jersey Department of Corrections (NJDOC) | ⏳ Pending | - |
+| NJ | New Jersey | New Jersey Department of Corrections (NJDOC) | ✅ Complete (Verified) | [NJ_new_jersey.md](file:///home/gcloud/projects/corrections-union-research/states/NJ_new_jersey.md) |
 | NM | New Mexico | New Mexico Corrections Department (NMCD) | ⏳ Pending | - |
 | NY | New York | New York State Department of Corrections and Community Supervision (DOCCS) | ⏳ Pending | - |
 | NC | North Carolina | North Carolina Department of Adult Correction (NCDAC) | ⏳ Pending | - |
@@ -55,4 +55,4 @@
 | WI | Wisconsin | Wisconsin Department of Corrections (DOC) | ⏳ Pending | - |
 | WY | Wyoming | Wyoming Department of Corrections (WDOC) | ⏳ Pending | - |
 
-*Updated: 2026-08-22 22:56:22*
+*Updated: 2026-08-22 23:02:07*
