@@ -1,6 +1,6 @@
 # 50-State Corrections Research Progress Tracker
 **Project:** New Staff Orientation & Union Benefits Study  
-**Overall Progress:** `27 / 50 States Completed (54.0%)`
+**Overall Progress:** `28 / 50 States Completed (56.0%)`
 
 | State Code | State Name | Official Agency | Research Status | Reference Dossier |
 | :---: | :--- | :--- | :---: | :--- |
@@ -31,7 +31,7 @@
 | MO | Missouri | Missouri Department of Corrections (MODOC) | ✅ Complete (Verified) | [MO_missouri.md](file:///home/gcloud/projects/corrections-union-research/states/MO_missouri.md) |
 | MT | Montana | Montana Department of Corrections (MT DOC) | ✅ Complete (Verified) | [MT_montana.md](file:///home/gcloud/projects/corrections-union-research/states/MT_montana.md) |
 | NE | Nebraska | Nebraska Department of Correctional Services (NDCS) | ✅ Complete (Verified) | [NE_nebraska.md](file:///home/gcloud/projects/corrections-union-research/states/NE_nebraska.md) |
-| NV | Nevada | Nevada Department of Corrections (NDOC) | ⏳ Pending | - |
+| NV | Nevada | Nevada Department of Corrections (NDOC) | ✅ Complete (Verified) | [NV_nevada.md](file:///home/gcloud/projects/corrections-union-research/states/NV_nevada.md) |
 | NH | New Hampshire | New Hampshire Department of Corrections (NHDOC) | ⏳ Pending | - |
 | NJ | New Jersey | New Jersey Department of Corrections (NJDOC) | ⏳ Pending | - |
 | NM | New Mexico | New Mexico Corrections Department (NMCD) | ⏳ Pending | - |
@@ -55,4 +55,4 @@
 | WI | Wisconsin | Wisconsin Department of Corrections (DOC) | ⏳ Pending | - |
 | WY | Wyoming | Wyoming Department of Corrections (WDOC) | ⏳ Pending | - |
 
-*Updated: 2026-08-22 22:49:23*
+*Updated: 2026-08-22 22:51:52*
