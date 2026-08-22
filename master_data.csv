@@ -1,0 +1,3 @@
+state_code,state_name,official_agency,union_status,union_name,right_to_work,cadet_hourly,starting_annual,top_annual,years_to_top,pension_system,pension_type,pension_multiplier,vesting_years
+AL,Alabama,Alabama Department of Corrections (ADOC),Unionized (Collective Bargaining),"American Federation of State, County and Municipal Employees (AFSCME) Council 75",Yes,$12.36,$25728,"$48,000",10,Alabama State Employees' Retirement System (ASERS),Defined Benefit,2.5% at 57,10
+AK,Alaska,Alaska Department of Corrections,Unionized (Collective Bargaining),Alaska Correctional Officers Association,No,Not specified,Not specified,Not specified,Not specified,Not specified,Not specified,Not specified,Not specified
