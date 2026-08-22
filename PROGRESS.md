@@ -1,6 +1,6 @@
 # 50-State Corrections Research Progress Tracker
 **Project:** New Staff Orientation & Union Benefits Study  
-**Overall Progress:** `14 / 50 States Completed (28.0%)`
+**Overall Progress:** `15 / 50 States Completed (30.0%)`
 
 | State Code | State Name | Official Agency | Research Status | Reference Dossier |
 | :---: | :--- | :--- | :---: | :--- |
@@ -18,7 +18,7 @@
 | ID | Idaho | Idaho Department of Correction (IDOC) | ✅ Complete (Verified) | [ID_idaho.md](file:///home/gcloud/projects/corrections-union-research/states/ID_idaho.md) |
 | IL | Illinois | Illinois Department of Corrections (IDOC) | ✅ Complete (Verified) | [IL_illinois.md](file:///home/gcloud/projects/corrections-union-research/states/IL_illinois.md) |
 | IN | Indiana | Indiana Department of Correction (IDOC) | ✅ Complete (Verified) | [IN_indiana.md](file:///home/gcloud/projects/corrections-union-research/states/IN_indiana.md) |
-| IA | Iowa | Iowa Department of Corrections (IDOC) | ⏳ Pending | - |
+| IA | Iowa | Iowa Department of Corrections (IDOC) | ✅ Complete (Verified) | [IA_iowa.md](file:///home/gcloud/projects/corrections-union-research/states/IA_iowa.md) |
 | KS | Kansas | Kansas Department of Corrections (KDOC) | ⏳ Pending | - |
 | KY | Kentucky | Kentucky Department of Corrections (DOC) | ⏳ Pending | - |
 | LA | Louisiana | Louisiana Department of Public Safety and Corrections (DPS&C) | ⏳ Pending | - |
@@ -55,4 +55,4 @@
 | WI | Wisconsin | Wisconsin Department of Corrections (DOC) | ⏳ Pending | - |
 | WY | Wyoming | Wyoming Department of Corrections (WDOC) | ⏳ Pending | - |
 
-*Updated: 2026-08-22 21:55:00*
+*Updated: 2026-08-22 21:57:23*
