@@ -1,6 +1,6 @@
 # 50-State Corrections Research Progress Tracker
 **Project:** New Staff Orientation & Union Benefits Study  
-**Overall Progress:** `6 / 50 States Completed (12.0%)`
+**Overall Progress:** `7 / 50 States Completed (14.0%)`
 
 | State Code | State Name | Official Agency | Research Status | Reference Dossier |
 | :---: | :--- | :--- | :---: | :--- |
@@ -10,7 +10,7 @@
 | AR | Arkansas | Arkansas Division of Correction (ADC) | ✅ Complete (Verified) | [AR_arkansas.md](file:///home/gcloud/projects/corrections-union-research/states/AR_arkansas.md) |
 | CA | California | California Department of Corrections and Rehabilitation (CDCR) | ✅ Complete (Verified) | [CA_california.md](file:///home/gcloud/projects/corrections-union-research/states/CA_california.md) |
 | CO | Colorado | Colorado Department of Corrections (CDOC) | ✅ Complete (Verified) | [CO_colorado.md](file:///home/gcloud/projects/corrections-union-research/states/CO_colorado.md) |
-| CT | Connecticut | Connecticut Department of Correction (CT DOC) | ⏳ Pending | - |
+| CT | Connecticut | Connecticut Department of Correction (CT DOC) | ✅ Complete (Verified) | [CT_connecticut.md](file:///home/gcloud/projects/corrections-union-research/states/CT_connecticut.md) |
 | DE | Delaware | Delaware Department of Correction (DOC) | ⏳ Pending | - |
 | FL | Florida | Florida Department of Corrections (FDC) | ⏳ Pending | - |
 | GA | Georgia | Georgia Department of Corrections (GDC) | ⏳ Pending | - |
@@ -55,4 +55,4 @@
 | WI | Wisconsin | Wisconsin Department of Corrections (DOC) | ⏳ Pending | - |
 | WY | Wyoming | Wyoming Department of Corrections (WDOC) | ⏳ Pending | - |
 
-*Updated: 2026-08-22 21:15:24*
+*Updated: 2026-08-22 21:21:18*
