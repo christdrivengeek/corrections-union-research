@@ -1,6 +1,6 @@
 # 50-State Corrections Research Progress Tracker
 **Project:** New Staff Orientation & Union Benefits Study  
-**Overall Progress:** `13 / 50 States Completed (26.0%)`
+**Overall Progress:** `14 / 50 States Completed (28.0%)`
 
 | State Code | State Name | Official Agency | Research Status | Reference Dossier |
 | :---: | :--- | :--- | :---: | :--- |
@@ -17,7 +17,7 @@
 | HI | Hawaii | Hawaii Department of Corrections and Rehabilitation (DCR) | ✅ Complete (Verified) | [HI_hawaii.md](file:///home/gcloud/projects/corrections-union-research/states/HI_hawaii.md) |
 | ID | Idaho | Idaho Department of Correction (IDOC) | ✅ Complete (Verified) | [ID_idaho.md](file:///home/gcloud/projects/corrections-union-research/states/ID_idaho.md) |
 | IL | Illinois | Illinois Department of Corrections (IDOC) | ✅ Complete (Verified) | [IL_illinois.md](file:///home/gcloud/projects/corrections-union-research/states/IL_illinois.md) |
-| IN | Indiana | Indiana Department of Correction (IDOC) | ⏳ Pending | - |
+| IN | Indiana | Indiana Department of Correction (IDOC) | ✅ Complete (Verified) | [IN_indiana.md](file:///home/gcloud/projects/corrections-union-research/states/IN_indiana.md) |
 | IA | Iowa | Iowa Department of Corrections (IDOC) | ⏳ Pending | - |
 | KS | Kansas | Kansas Department of Corrections (KDOC) | ⏳ Pending | - |
 | KY | Kentucky | Kentucky Department of Corrections (DOC) | ⏳ Pending | - |
@@ -55,4 +55,4 @@
 | WI | Wisconsin | Wisconsin Department of Corrections (DOC) | ⏳ Pending | - |
 | WY | Wyoming | Wyoming Department of Corrections (WDOC) | ⏳ Pending | - |
 
-*Updated: 2026-08-22 21:51:27*
+*Updated: 2026-08-22 21:55:00*
