@@ -1,6 +1,6 @@
 # 50-State Corrections Research Progress Tracker
 **Project:** New Staff Orientation & Union Benefits Study  
-**Overall Progress:** `36 / 50 States Completed (72.0%)`
+**Overall Progress:** `37 / 50 States Completed (74.0%)`
 
 | State Code | State Name | Official Agency | Research Status | Reference Dossier |
 | :---: | :--- | :--- | :---: | :--- |
@@ -40,7 +40,7 @@
 | ND | North Dakota | North Dakota Department of Corrections and Rehabilitation (DOCR) | ✅ Complete (Verified) | [ND_north_dakota.md](file:///home/gcloud/projects/corrections-union-research/states/ND_north_dakota.md) |
 | OH | Ohio | Ohio Department of Rehabilitation and Correction (ODRC) | ✅ Complete (Verified) | [OH_ohio.md](file:///home/gcloud/projects/corrections-union-research/states/OH_ohio.md) |
 | OK | Oklahoma | Oklahoma Department of Corrections (ODOC) | ✅ Complete (Verified) | [OK_oklahoma.md](file:///home/gcloud/projects/corrections-union-research/states/OK_oklahoma.md) |
-| OR | Oregon | Oregon Department of Corrections (ODOC) | ⏳ Pending | - |
+| OR | Oregon | Oregon Department of Corrections (ODOC) | ✅ Complete (Verified) | [OR_oregon.md](file:///home/gcloud/projects/corrections-union-research/states/OR_oregon.md) |
 | PA | Pennsylvania | Pennsylvania Department of Corrections (PADOC) | ⏳ Pending | - |
 | RI | Rhode Island | Rhode Island Department of Corrections (RIDOC) | ⏳ Pending | - |
 | SC | South Carolina | South Carolina Department of Corrections (SCDC) | ⏳ Pending | - |
@@ -55,4 +55,4 @@
 | WI | Wisconsin | Wisconsin Department of Corrections (DOC) | ⏳ Pending | - |
 | WY | Wyoming | Wyoming Department of Corrections (WDOC) | ⏳ Pending | - |
 
-*Updated: 2026-08-22 23:21:38*
+*Updated: 2026-08-22 23:23:58*
