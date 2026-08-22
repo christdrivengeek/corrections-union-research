@@ -1,12 +1,12 @@
 # 50-State Corrections Research Progress Tracker
 **Project:** New Staff Orientation & Union Benefits Study  
-**Overall Progress:** `2 / 50 States Completed (4.0%)`
+**Overall Progress:** `3 / 50 States Completed (6.0%)`
 
 | State Code | State Name | Official Agency | Research Status | Reference Dossier |
 | :---: | :--- | :--- | :---: | :--- |
 | AL | Alabama | Alabama Department of Corrections (ADOC) | ✅ Complete (Verified) | [AL_alabama.md](file:///home/gcloud/projects/corrections-union-research/states/AL_alabama.md) |
 | AK | Alaska | Alaska Department of Corrections | ✅ Complete (Verified) | [AK_alaska.md](file:///home/gcloud/projects/corrections-union-research/states/AK_alaska.md) |
-| AZ | Arizona | Arizona Department of Corrections, Rehabilitation and Reentry (ADCRR) | ⏳ Pending | - |
+| AZ | Arizona | Arizona Department of Corrections, Rehabilitation and Reentry (ADCRR) | ✅ Complete (Verified) | [AZ_arizona.md](file:///home/gcloud/projects/corrections-union-research/states/AZ_arizona.md) |
 | AR | Arkansas | Arkansas Division of Correction (ADC) | ⏳ Pending | - |
 | CA | California | California Department of Corrections and Rehabilitation (CDCR) | ⏳ Pending | - |
 | CO | Colorado | Colorado Department of Corrections (CDOC) | ⏳ Pending | - |
@@ -55,4 +55,4 @@
 | WI | Wisconsin | Wisconsin Department of Corrections (DOC) | ⏳ Pending | - |
 | WY | Wyoming | Wyoming Department of Corrections (WDOC) | ⏳ Pending | - |
 
-*Updated: 2026-08-22 20:52:15*
+*Updated: 2026-08-22 20:56:42*
