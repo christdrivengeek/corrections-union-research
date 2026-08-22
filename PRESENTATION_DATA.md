@@ -10,8 +10,8 @@
 * **Defined Benefit Pensions:** Union contracts consistently defend defined benefit multipliers (e.g. 2.5% - 3.0% per year of service) and early hazardous duty retirement ages (e.g. Rule of 80 / Age 50-55).
 * **Vesting & Contributions:** Collective bargaining agreements lock in state contribution rates against unilateral cuts.
 
-### 3. Current Dataset Summary (49 States Analyzed)
-* **Union States Analyzed:** 49
+### 3. Current Dataset Summary (50 States Analyzed)
+* **Union States Analyzed:** 50
 * **Non-Union States Analyzed:** 0
 
 *See full state-by-state dossiers in the `states/` directory for exact primary document quotes and CBA references.*
