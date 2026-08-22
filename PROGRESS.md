@@ -1,6 +1,6 @@
 # 50-State Corrections Research Progress Tracker
 **Project:** New Staff Orientation & Union Benefits Study  
-**Overall Progress:** `32 / 50 States Completed (64.0%)`
+**Overall Progress:** `33 / 50 States Completed (66.0%)`
 
 | State Code | State Name | Official Agency | Research Status | Reference Dossier |
 | :---: | :--- | :--- | :---: | :--- |
@@ -36,7 +36,7 @@
 | NJ | New Jersey | New Jersey Department of Corrections (NJDOC) | ✅ Complete (Verified) | [NJ_new_jersey.md](file:///home/gcloud/projects/corrections-union-research/states/NJ_new_jersey.md) |
 | NM | New Mexico | New Mexico Corrections Department (NMCD) | ✅ Complete (Verified) | [NM_new_mexico.md](file:///home/gcloud/projects/corrections-union-research/states/NM_new_mexico.md) |
 | NY | New York | New York State Department of Corrections and Community Supervision (DOCCS) | ✅ Complete (Verified) | [NY_new_york.md](file:///home/gcloud/projects/corrections-union-research/states/NY_new_york.md) |
-| NC | North Carolina | North Carolina Department of Adult Correction (NCDAC) | ⏳ Pending | - |
+| NC | North Carolina | North Carolina Department of Adult Correction (NCDAC) | ✅ Complete (Verified) | [NC_north_carolina.md](file:///home/gcloud/projects/corrections-union-research/states/NC_north_carolina.md) |
 | ND | North Dakota | North Dakota Department of Corrections and Rehabilitation (DOCR) | ⏳ Pending | - |
 | OH | Ohio | Ohio Department of Rehabilitation and Correction (ODRC) | ⏳ Pending | - |
 | OK | Oklahoma | Oklahoma Department of Corrections (ODOC) | ⏳ Pending | - |
@@ -55,4 +55,4 @@
 | WI | Wisconsin | Wisconsin Department of Corrections (DOC) | ⏳ Pending | - |
 | WY | Wyoming | Wyoming Department of Corrections (WDOC) | ⏳ Pending | - |
 
-*Updated: 2026-08-22 23:08:52*
+*Updated: 2026-08-22 23:12:54*
