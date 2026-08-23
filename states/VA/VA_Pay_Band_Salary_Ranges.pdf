@@ -1,0 +1,453 @@
+ <!DOCTYPE html> <html lang="en"> <head> <meta charset="utf-8" /> <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no"> <title>
+	Page Not Found
+</title> <link href="/ResourcePackages/Bootstrap4/assets/dist/css/main.min.css?package=Bootstrap4" rel="stylesheet" type="text/css" /> 
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+
+<meta property="og:title" content="Page Not Found" /><meta property="og:url" content="https://www.dhrm.virginia.gov/pagenotfound" /><meta property="og:type" content="website" /><meta property="og:site_name" content="DHRMWeb" /><link href="/ResourcePackages/Bootstrap4/assets/dist/css/all.css" media="all" rel="stylesheet" type="text/css" /><link href="/ResourcePackages/Bootstrap4/assets/dist/css/dhrmcustom2025.css" media="all" rel="stylesheet" type="text/css" /><style type="text/css" media="all">.btn-primary{background-color:#042A62 !important; color:#ffffff; font-weight: 600; border:none;}
+
+.sf-breadscrumb{background-color:#f8f9fa !important;}
+
+.breadcrumb-item a{color:#184c80; text-decoration:underline;}
+.breadcrumb-item {color:#000000 !important;}
+
+.border-nav-separator {
+    border-right: 1px solid #000; 
+}
+
+
+.dropdown:hover>.dropdown-menu {
+  display: block;
+}
+
+
+.dropdown-menu {
+    margin-top: -1px !important;}
+.dropdown-item {color:#184c80;}
+.dropdown-item:hover{background-color:#ccc;}
+.dropdown-item a {color:#184c80;}
+
+@media only screen and (max-width:480px) {
+  .dropdown-item {
+    color: #FFFFFF;
+  }
+}
+
+
+.navbar-light .navbar-nav .nav-link{color:#FFF; font-size:16px;}
+
+.navbar-light .navbar-nav .nav-link:hover{transition: 0.4s; background-color:#C9863D;}
+
+/*.quicklinks{text-align:right;}*/
+
+.quicklinksbox{width:85%;
+ background-color:transparent;
+border:solid;
+border-color:#ccc;
+border-width:1px;}
+
+.quicklinksspace{margin-left: 2px;}
+
+@media (max-width: 576px){
+.quicklinksbox{width:55%;
+  background-color:transparent;
+border:solid;
+border-color:#ccc;
+border-width:1px;}
+  
+.quicklinksspace{
+  text-align:left;}
+}
+
+.navlink-3 {
+  transition: 0.4s;
+ color: #000;
+  /*font-size: 20px;*/
+  /*text-decoration: none;*/
+  /*padding: 0 10px;*/
+  /*margin: 0 10px;*/
+}
+.navlink-3:hover {
+  /*background-color: #000;*/
+  border-top: 2px solid #000;
+   /*border-bottom: 1px solid #000;*/
+    
+  /*color: #EEA200;*/
+    color: #fff;
+ /* padding: 24px 10px;*/
+}
+
+.bg-image-gray {
+
+   background-image: url("/images/default-source/siteassets/bannerbackgroundV5.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center center; }
+
+.back-to-top {
+    position: fixed;
+    bottom: 25px;
+    right: 25px;
+    display: none;
+    z-index: 99;
+}
+
+.bg-image-1 {
+ /* background-image: url(images/bg/1.jpg);*/
+  /* background-image: url("http://localhost:58340/images/default-source/default-album/adobestock_84478039.jpg");*/
+   background-image: url("/images/default-source/default-album/adobestock_84478039.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center center; }
+
+.bg-image-2 {
+   background-image: url("/images/default-source/siteassets/bannerbackground.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center center; }
+
+.bg-image-5 {
+   background-image: url("/images/default-source/siteassets/bannerbackgroundV5.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center center; }
+
+.bg-image-blue {
+   background-image: url("/images/default-source/siteassets/bluebackground.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center center; }
+
+
+
+.bannerheader-blue {
+    color: #184C80;
+    font-size: 20px;
+}
+.agylogo {padding-right:30px;}
+
+.agencyname-blue {
+    color: #184C80;
+  font-size: 24px;
+    font-weight: 700; 
+  font-family: 'Montserrat', sans-serif;
+   
+}
+@media (max-width: 400px){
+.agencyname-blue{
+    font-size: 14px;
+    white-space: nowrap;
+    align:center;
+  }
+  .agylogo{visibility: hidden;}
+}
+
+</style><link href="https://fonts.googleapis.com/css?family=Montserrat&amp;display=swap" media="all" rel="stylesheet" type="text/css" /><script type="text/javascript" src="/ResourcePackages/Bootstrap4/assets/dist/js/popper.min.js"></script><script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script><script type="text/javascript" src="/ResourcePackages/Bootstrap4/assets/dist/js/bootstrap.min.js"></script><script type="text/javascript">
+$(document).ready(function(){
+	$(window).scroll(function () {
+			if ($(this).scrollTop() > 40) {
+				$('#back-to-top').fadeIn();
+			} else {
+				$('#back-to-top').fadeOut();
+			}
+		});
+		// scroll body to 0px on click
+		$('#back-to-top').click(function () {
+			$('body,html').animate({
+				scrollTop: 0
+			}, 400);
+			return false;
+		});
+});
+</script><script type="text/javascript" src="https://siteimproveanalytics.com/js/siteanalyze_6289812.js"></script><script type="text/javascript" src="https://www.developer.virginia.gov/media/developer/resources/branding-bar/brandingbar.js" data-item="va_aabrandingbar" data-aaname="Virginia Department of Human Resource Management" data-aatheme="aatheme-black" data-aatranslate="true" defer="" >"></script><meta name="Generator" content="Sitefinity 13.1.7400.0 PE" /><link rel="canonical" href="https://www.dhrm.virginia.gov/pagenotfound" /><link href="/Telerik.Web.UI.WebResource.axd?d=PMrIT5dOWaVYIcpFWUE4nPX9E5FPV_Xv_PJlAnauha1IIBHJQecCLado1LP3OSEoCOJoGZ16A22YJt5R8VIz2QErRbeoWKtMTI93K1LcvyFBz2Ja0&amp;t=638840910637275692&amp;compress=0&amp;_TSM_CombinedScripts_=%3b%3bTelerik.Sitefinity.Resources%2c+Version%3d13.1.7400.0%2c+Culture%3dneutral%2c+PublicKeyToken%3db28c218413bdf563%3aen%3a0dec1e67-e5eb-4230-bbba-44855aca3fcb%3a7a90d6a" type="text/css" rel="stylesheet" /></head> <body><form method="post" action="./pagenotfound?aspxerrorpath=%2fdocs%2fdefault-source%2fcompensationpolicyandadmin%2fcompensation%2fcomp-payband-salary-ranges.pdf" id="aspnetForm">
+<div class="aspNetHidden">
+<input type="hidden" name="ctl06_TSM" id="ctl06_TSM" value="" />
+<input type="hidden" name="ctl07_TSSM" id="ctl07_TSSM" value="" />
+<input type="hidden" name="__EVENTTARGET" id="__EVENTTARGET" value="" />
+<input type="hidden" name="__EVENTARGUMENT" id="__EVENTARGUMENT" value="" />
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="zpIm8ki8WemeBwfRpr5Q/vFfgZ/8PqkBDIZ6c/MssxEURm1xhHwtxauulRgJrMLrCvkZT5xJ4t424ky+1TcsFUEwzKQ=" />
+</div>
+
+<script type="text/javascript">
+//<![CDATA[
+var theForm = document.forms['aspnetForm'];
+if (!theForm) {
+    theForm = document.aspnetForm;
+}
+function __doPostBack(eventTarget, eventArgument) {
+    if (!theForm.onsubmit || (theForm.onsubmit() != false)) {
+        theForm.__EVENTTARGET.value = eventTarget;
+        theForm.__EVENTARGUMENT.value = eventArgument;
+        theForm.submit();
+    }
+}
+//]]>
+</script>
+
+
+<script src="/WebResource.axd?d=pynGkmcFUV13He1Qd6_TZJFph2oqyi0IHsro4F_LL_OOOFKDghW50TLBQ36temO3vCXBQQ2&amp;t=638901392248157332" type="text/javascript"></script>
+
+
+<script type="text/javascript">
+//<![CDATA[
+var __cultureInfo = {"name":"en","numberFormat":{"CurrencyDecimalDigits":2,"CurrencyDecimalSeparator":".","IsReadOnly":true,"CurrencyGroupSizes":[3],"NumberGroupSizes":[3],"PercentGroupSizes":[3],"CurrencyGroupSeparator":",","CurrencySymbol":"$","NaNSymbol":"NaN","CurrencyNegativePattern":0,"NumberNegativePattern":1,"PercentPositivePattern":1,"PercentNegativePattern":1,"NegativeInfinitySymbol":"-∞","NegativeSign":"-","NumberDecimalDigits":2,"NumberDecimalSeparator":".","NumberGroupSeparator":",","CurrencyPositivePattern":0,"PositiveInfinitySymbol":"∞","PositiveSign":"+","PercentDecimalDigits":2,"PercentDecimalSeparator":".","PercentGroupSeparator":",","PercentSymbol":"%","PerMilleSymbol":"‰","NativeDigits":["0","1","2","3","4","5","6","7","8","9"],"DigitSubstitution":1},"dateTimeFormat":{"AMDesignator":"AM","Calendar":{"MinSupportedDateTime":"\/Date(-62135578800000)\/","MaxSupportedDateTime":"\/Date(253402300799999)\/","AlgorithmType":1,"CalendarType":1,"Eras":[1],"TwoDigitYearMax":2029,"IsReadOnly":true},"DateSeparator":"/","FirstDayOfWeek":0,"CalendarWeekRule":0,"FullDateTimePattern":"dddd, MMMM d, yyyy h:mm:ss tt","LongDatePattern":"dddd, MMMM d, yyyy","LongTimePattern":"h:mm:ss tt","MonthDayPattern":"MMMM d","PMDesignator":"PM","RFC1123Pattern":"ddd, dd MMM yyyy HH\u0027:\u0027mm\u0027:\u0027ss \u0027GMT\u0027","ShortDatePattern":"M/d/yyyy","ShortTimePattern":"h:mm tt","SortableDateTimePattern":"yyyy\u0027-\u0027MM\u0027-\u0027dd\u0027T\u0027HH\u0027:\u0027mm\u0027:\u0027ss","TimeSeparator":":","UniversalSortableDateTimePattern":"yyyy\u0027-\u0027MM\u0027-\u0027dd HH\u0027:\u0027mm\u0027:\u0027ss\u0027Z\u0027","YearMonthPattern":"MMMM yyyy","AbbreviatedDayNames":["Sun","Mon","Tue","Wed","Thu","Fri","Sat"],"ShortestDayNames":["Su","Mo","Tu","We","Th","Fr","Sa"],"DayNames":["Sunday","Monday","Tuesday","Wednesday","Thursday","Friday","Saturday"],"AbbreviatedMonthNames":["Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec",""],"MonthNames":["January","February","March","April","May","June","July","August","September","October","November","December",""],"IsReadOnly":true,"NativeCalendarName":"Gregorian Calendar","AbbreviatedMonthGenitiveNames":["Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec",""],"MonthGenitiveNames":["January","February","March","April","May","June","July","August","September","October","November","December",""]},"eras":[1,"A.D.",null,0]};//]]>
+</script>
+
+<script src="/Telerik.Web.UI.WebResource.axd?_TSM_HiddenField_=ctl06_TSM&amp;compress=0&amp;_TSM_CombinedScripts_=%3b%3bSystem.Web.Extensions%2c+Version%3d4.0.0.0%2c+Culture%3dneutral%2c+PublicKeyToken%3d31bf3856ad364e35%3aen%3aa8328cc8-0a99-4e41-8fe3-b58afac64e45%3aea597d4b%3ab25378d2" type="text/javascript"></script>
+<script src="/ScriptResource.axd?d=Aiou82OGmQ_WLhX-d8glmJMbc__aUb6s-f62E0yL4e3j17dt2CWYRIOI0UV5wt7F1AbskxmxmOULi9PBLlgKq6VdIjNC30zsaDOtOOIMEfIJsOl2LEsOQ93druHFsSp0B8-AEs3EOt-ZMTVyon-ARm9fFDuz6FdrgvbYpGcS9i9kxG7p0&amp;t=cf38560" type="text/javascript"></script>
+<script src="/Telerik.Web.UI.WebResource.axd?_TSM_HiddenField_=ctl06_TSM&amp;compress=0&amp;_TSM_CombinedScripts_=%3b%3bTelerik.Sitefinity.Resources%3aen%3a0dec1e67-e5eb-4230-bbba-44855aca3fcb%3ab162b7a1%3acda154af" type="text/javascript"></script>
+<script src="/Frontend-Assembly/Telerik.Sitefinity.Frontend.Search/Mvc/Scripts/SearchBox/Search-box.min.js?package=Bootstrap4&amp;v=MTMuMS43NDAwLjA%3d" type="text/javascript"></script>
+<div class="aspNetHidden">
+
+	<input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="0E42277B" />
+</div><script type="text/javascript">
+//<![CDATA[
+Sys.WebForms.PageRequestManager._initialize('ctl00$ctl06', 'aspnetForm', [], [], [], 90, 'ctl00');
+//]]>
+</script>
+<input type="hidden" name="ctl00$ctl06" id="ctl06" />
+<script type="text/javascript">
+//<![CDATA[
+Sys.Application.setServerId("ctl06", "ctl00$ctl06");
+Sys.Application._enableHistoryInScriptManager();
+//]]>
+</script>
+  <div> 
+
+<div >
+    <div ></div>    
+</div><div id="Contentplaceholder1_T67C1BFB4155_Col00" class="sf_colsIn container-fluid bg-image-gray" data-sf-element="Container" data-placeholder-label="Container-wrapper"><div id="Contentplaceholder1_T67C1BFB4156_Col00" class="sf_colsIn container" data-sf-element="Container" data-placeholder-label="Container-headercontents"><div class="row pb-3  pt-4" data-sf-element="Row">
+    <div id="Contentplaceholder1_T67C1BFB4171_Col00" class="sf_colsIn col-lg-9" data-sf-element="Column 1" data-placeholder-label="Column 1">
+<div >
+    <div ><div><a href="/index"><img class="agylogo" src="/images/default-source/siteassets/dhrmlogotrans.png?sfvrsn=b20afe42_2" alt="DHRM Logo for Home Page" title="DHRM Home" data-displaymode="Original"></a>
+ <span class="agencyname-blue ">Virginia Department of Human Resource Management</span>
+</div></div>    
+</div>
+    </div>
+    <div id="Contentplaceholder1_T67C1BFB4171_Col01" class="sf_colsIn col-lg-3" data-sf-element="Column 2" data-placeholder-label="Column 2">
+<div class="form-inline">
+<div class="form-group sf-search-input-wrapper" role="search">
+    <input type="search" title="Search input" placeholder="Search" id="4ccbacb3-59ea-4ca7-aa5f-d308a9f8da7e" class="form-control" value="" aria-autocomplete="both" aria-describedby='SearchInfo-1' />
+    <button type="button" class="btn btn-primary ml-2" id="5acc669c-1384-4831-94ad-5b289bfdedca" >Search</button>
+    <span id='SearchInfo-1' aria-hidden="true" hidden>When autocomplete results are available use up and down arrows to review and enter to select.</span>
+</div>
+
+<input type="hidden" data-sf-role="resultsUrl" value="/search-results" />
+<input type="hidden" data-sf-role="indexCatalogue" value="webpagesearch" />
+<input type="hidden" data-sf-role="wordsMode" value="AllWords" />
+<input type="hidden" data-sf-role="disableSuggestions" value='false' />
+<input type="hidden" data-sf-role="minSuggestionLength" value="3" />
+<input type="hidden" data-sf-role="suggestionFields" value="Title,Content" />
+<input type="hidden" data-sf-role="language" />
+<input type="hidden" data-sf-role="siteId" value="fe9e59e4-171b-4f1a-bd36-66bbf8d2aad8" />
+<input type="hidden" data-sf-role="suggestionsRoute" value="/restapi/search/suggestions" />
+<input type="hidden" data-sf-role="searchTextBoxId" value='#4ccbacb3-59ea-4ca7-aa5f-d308a9f8da7e' />
+<input type="hidden" data-sf-role="searchButtonId" value='#5acc669c-1384-4831-94ad-5b289bfdedca' />
+</div>
+
+
+
+
+
+    </div>
+</div>
+
+</div>
+
+</div>
+
+<div class="border-blue" >
+    <div >
+<div class="bg-image-blue"><div class="container "><div class="row"><div class="col-lg-12">
+
+ <nav class="navbar navbar-expand-lg  navbar-light justify-content-left text-dark">
+ 
+
+
+ 
+ <button class="navbar-toggler text-white" type="button" data-toggle="collapse" data-target="#collapsibleNavbar">
+Menu</button>
+ <div class="collapse navbar-collapse" id="collapsibleNavbar">
+ <ul class="navbar-nav "><li class="nav-item dropdown border-nav-separator"><a class="nav-link dropdown-toggle" href="#" data-toggle="dropdown"><span style="color: rgba(255, 255, 255, 1)">Work For VA</span></a>
+
+ <div class="dropdown-menu"><a class="dropdown-item" href="https://www.jobs.virginia.gov">Employment Opportunities</a>
+ <a class="dropdown-item" href="/jobs-and-careers/jobs-and-salary-structure">Salary and Job Structure</a>
+ <a class="dropdown-item" href="/employeebenefits">Employee Benefits</a>
+ <a class="dropdown-item " href="https://www.jobs.virginia.gov">Internships</a>
+ <a class="dropdown-item " href="/cova-internship-connection">COVA Internship Connection</a>
+ <a class="dropdown-item " href="https://www.jobs.virginia.gov/veterans-hiring-resources">Veteran Resources</a>
+ <a class="dropdown-item " href="https://studentaid.gov/pslf/">Public Service Student Loan Forgiveness Program</a>
+ </div></li><li class="nav-item dropdown border-nav-separator "><a class="nav-link dropdown-toggle" href="#" data-toggle="dropdown"><span style="color: rgba(255, 255, 255, 1)">State Employees</span></a>
+ <div class="dropdown-menu"><a class="dropdown-item" href="/employee-resourcesv3">State Employee Resources</a><a class="dropdown-item " href="/employeebenefits">Benefits</a> <a class="dropdown-item" href="/employeediscounts">Employee Discounts Program</a> <a class="dropdown-item" href="/payandholidaycalendar">Pay and Holiday Calendar</a>
+
+
+
+
+
+
+
+ 
+
+
+ </div></li><li class="nav-item border-nav-separator
+                                        "><a class="nav-link" href="/hr-partners"><span style="color: rgba(255, 255, 255, 1)">HR Partners</span></a></li><li class="nav-item dropdown border-nav-separator "><a class="nav-link dropdown-toggle" href="#" data-toggle="dropdown"><span style="color: rgba(255, 255, 255, 1)">Policies and Resources</span></a>
+ <div class="dropdown-menu"><a class="dropdown-item" href="/hrpolicies">HR Policies</a> <a class="dropdown-item" href="/forms">Forms</a> <a class="dropdown-item " href="/reports">Reports</a>
+ <a class="dropdown-item " href="/executiveresources">Executive Resources</a>
+
+
+ </div></li><li class="nav-item
+                                        dropdown border-nav-separator "><a class="nav-link dropdown-toggle" href="#" data-toggle="dropdown"><span style="color: rgba(255, 255, 255, 1)">Public Interest</span></a>
+ <div class="dropdown-menu "><a class="dropdown-item" href="/public-interest/foia">Freedom of Information Request</a> <a class="dropdown-item " href="/public-interest/procurement">Procurement</a>
+ <a class="dropdown-item " href="/public-interest/contractor-sexual-harassment-training">Contractor Training</a>
+ <a class="dropdown-item " href="https://www.datapoint.apa.virginia.gov/dashboard.php">DHRM Commonwealth Data Point</a> </div></li><li class="nav-item border-nav-separator "><a class="nav-link" href="/public-interest/about-dhrm"><span style="color: rgba(255, 255, 255, 1)">About DHRM</span></a> </li><li class="nav-item
+                                        "><a class="nav-link" href="/contactus"><span style="color: rgba(255, 255, 255, 1)">Contact Us</span></a></li>
+ </ul></div></nav></div></div></div></div></div>    
+</div><div id="Contentplaceholder1_TEFE1B788123_Col00" class="sf_colsIn container-fluid bg-light shadow-sm" data-sf-element="Container" data-placeholder-label="Container for the breadcrumb wrapper do not delete"><div id="Contentplaceholder1_TEFE1B788124_Col00" class="sf_colsIn container" data-sf-element="Container" data-placeholder-label="Container mybreadcrumb">
+<div>
+    <nav aria-label="Full path to the current page">
+        <ol class="sf-breadscrumb breadcrumb">
+                    <li class="breadcrumb-item"><a href="/">DHRM Home </a></li>
+                    <li class="breadcrumb-item active" aria-current="page">Page Not Found</li>
+        </ol>
+    </nav>
+</div>
+</div>
+
+</div>
+<div id="Contentplaceholder1_T404E89DA025_Col00" class="sf_colsIn container" data-sf-element="Container" data-placeholder-label="Main Container"><div class="row" data-sf-element="Row">
+    <div id="Contentplaceholder1_T3A5AEA76008_Col00" class="sf_colsIn col-lg-12 mt-4" data-sf-element="Column 1" data-placeholder-label="Parent Page Header">
+<div >
+    <div ><h1>Page Not Found</h1></div>    
+</div>
+    </div>
+</div>
+
+
+
+
+
+
+
+
+<div class="row" data-sf-element="Row">
+    <div id="Contentplaceholder1_T3A5AEA76010_Col00" class="sf_colsIn col-lg-12  text-center" data-sf-element="Column 1" data-placeholder-label="jumbo">
+    </div>
+</div>
+
+<div >
+    <div ><p>Sorry, your requested page could not be found. Please use the site menu or one of the links below.&nbsp;</p>For additional assistance, please email the <a href="mailto:webmaster@dhrm.virginia.gov">Webmaster</a>&nbsp;and provide the page you are looking for.</div>    
+</div><div class="row" data-sf-element="Row">
+    <div id="Contentplaceholder1_T3A5AEA76009_Col00" class="sf_colsIn col-lg-12" data-sf-element="Column 1" data-placeholder-label="Place content here">
+<div class="mt-5" >
+    <div ><h3>If are looking for:</h3></div>    
+</div>
+<div >
+    <div ><p><a href="/employeebenefits/employee-assistance">Employee Assistance Program</a></p><p><a href="/employment-dispute-resolution">Employment Dispute Resolution</a></p><p><a href="/hr-partners/everify">E-Verify</a></p><p><a href="/employeebenefits/health-benefits">Health Benefits</a></p><p><a href="/hrpolicies">HR Policies</a></p><p><a href="/performancemanagement">Performance Management</a><br></p><p><a href="/public-interest/procurement">Procurement</a><br></p><p><a href="/workers'-compensation#39;-compensation">Workers' Compensation</a><br></p><p><a href="https://www.weightwatchers.com/us/CommonHealth">Weight Watchers</a></p><p>&nbsp;</p></div>    
+</div>
+    </div>
+</div>
+
+</div>
+
+<div >
+    <div ></div>    
+</div>
+<div >
+    <div ><a id="back-to-top" href="#" class="btn btn-dark btn-lg back-to-top"><span class="fas fa-chevron-up"></span><span class="sr-only">Go Back to Top of Page</span></a></div>    
+</div><div class="row" data-sf-element="Row">
+    <div id="Contentplaceholder1_TA0627D93051_Col00" class="sf_colsIn col-lg-12" data-sf-element="Column 1" data-placeholder-label="Footer">
+
+
+
+
+<div >
+    <div ><footer>
+<div class="container-fluid">
+<div class="row mt-5 py-4 footer">
+<div class="container">
+<div class="row">
+<div class="col-md-3">
+<div><strong>Information For:</strong><br>
+<a href="/stateemployeeresources">State Employees</a><br>
+<a href="/hr-partners">Agency HR Partners</a><br>
+<a href="https://www.jobs.virginia.gov/home" target="_blank">Job Seekers</a><br>
+<br>
+</div>
+<div><strong>Policies and Resources</strong><br>
+<a href="/hrpolicies">HR Policies</a><br>
+<a href="/forms">Forms</a><br>
+<a href="/reports">Reports</a><br>
+<br>
+</div>
+</div>
+<div class="col-md-3">
+<div><strong>Online</strong><br>
+<a href="https://web1.dhrm.virginia.gov/itech">HuRMan/ITECH</a><br>
+<a href="https://covlc.virginia.gov/Default.aspx">Learning Center</a><br>
+<br>
+</div>
+<div><strong>Public Interest</strong><br>
+<a href="/public-interest/foia">FOIA Request</a><br>
+<a href="/public-interest/procurement">Procurement</a><br>
+<a href="/public-interest/about-dhrm">About DHRM</a><br>
+<br>
+</div>
+</div>
+<div class="col-md-3">
+<div><strong>Quick Links</strong><br>
+<a href="/employeediscounts">Employee Discounts</a><br>
+<a href="/payandholidaycalendar">Pay and Holiday Calendar</a><br>
+<br>
+<strong>Feedback</strong><br>
+<a href="https://survey.dhrm.virginia.gov/n/dhrmwebcustomerfeedback.aspx">Website Feedback</a>&nbsp;</div>
+</div>
+<div class="col-md-3">
+<div><strong>Contact Information</strong><br>
+<p><a href="http://www.employeedirectory.virginia.gov/">State Employee Directory</a><br>
+<a href="/contactus">Contact Us</a></p>
+<p>Department of Human Resource Management<br>
+NEW ADDRESS:<br>
+600 East Main Street, 17th Floor<br>
+Richmond, VA 23219<br>
+Phone: 804-225-2131</p>
+</div>
+<div>
+<p><a href="https://twitter.com/VirginiaDHRM"><span class="fab fa-twitter-square fa-2x" title="Link to Twitter"></span><span class="sr-only">Twitter</span></a> &nbsp;&nbsp;
+<a href="https://www.linkedin.com/company/virginia-department-of-human-resource-management"><span class="fab fa-linkedin fa-2x" title="Link to LinkedIn"></span><span class="sr-only">LinkedIn</span></a>
+</p>
+<hr>
+<p><a href="/web-policy">Web Policy</a></p>
+<p>© Commonwealth of Virginia 2026</p>
+</div>
+</div>
+</div>
+
+
+<div class="row">
+<div class="col-lg-12 text-center bg-white"><a href="https://vgea.org/"><img src="/images/default-source/footer/vgealogo.png?sfvrsn=aebc6c9a_2" data-displaymode="Original" alt="Link to Virginia Governmental Employee Association " title="VGEA"></a>&nbsp;
+&nbsp;&nbsp;<img src="/images/default-source/footer/v3sealr.png?sfvrsn=98f14a07_2" data-displaymode="Original" alt="Virginia Values Veterans" title="v3sealr">&nbsp;</div>
+</div>
+
+</div>
+</div>
+</div>
+</footer></div>    
+</div>
+    </div>
+</div>
+
+
+ </div>   
+
+<script type="text/javascript">
+//<![CDATA[
+window.__TsmHiddenField = $get('ctl06_TSM');;(function() {
+                        function loadHandler() {
+                            var hf = $get('ctl07_TSSM');
+                            if (!hf._RSSM_init) { hf._RSSM_init = true; hf.value = ''; }
+                            hf.value += ';Telerik.Sitefinity.Resources, Version=13.1.7400.0, Culture=neutral, PublicKeyToken=b28c218413bdf563:en:0dec1e67-e5eb-4230-bbba-44855aca3fcb:7a90d6a';
+                            Sys.Application.remove_load(loadHandler);
+                        };
+                        Sys.Application.add_load(loadHandler);
+                    })();//]]>
+</script>
+</form></body> </html>
