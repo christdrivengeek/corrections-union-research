@@ -1,0 +1,231 @@
+
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+<script type="text/javascript">
+(function(){
+window["loaderConfig"] = "/TSPD/?type=20";
+})();
+
+</script>
+
+<script type="text/javascript" src="/TSPD/?type=18"></script>
+
+<APM_DO_NOT_TOUCH>
+
+<script type="text/javascript">
+(function(){
+window.SJEa=!!window.SJEa;try{(function(){(function ij(){var I=!1;function l(I){for(var l=0;I--;)l+=z(document.documentElement,null);return l}function z(I,l){var s="vi";l=l||new Z;return jS(I,function(I){I.setAttribute("data-"+s,l.j5());return z(I,l)},null)}function Z(){this.Zj=1;this.iI=0;this.Ss=this.Zj;this.z_=null;this.j5=function(){this.z_=this.iI+this.Ss;if(!isFinite(this.z_))return this.reset(),this.j5();this.iI=this.Ss;this.Ss=this.z_;this.z_=null;return this.Ss};this.reset=function(){this.Zj++;this.iI=0;this.Ss=this.Zj}}var s=!1;
+function SS(I,l){var z=document.createElement(I);l=l||document.body;l.appendChild(z);z&&z.style&&(z.style.display="none")}function _S(l,z){z=z||l;var Z="|";function SS(I){I=I.split(Z);var l=[];for(var z=0;z<I.length;++z){var s="",_S=I[z].split(",");for(var JS=0;JS<_S.length;++JS)s+=_S[JS][JS];l.push(s)}return l}var _S=0,jS="datalist,details,embed,figure,hrimg,strong,article,formaddress|audio,blockquote,area,source,input|canvas,form,link,tbase,option,details,article";jS.split(Z);jS=SS(jS);jS=new RegExp(jS.join(Z),
+"g");while(jS.exec(l))jS=new RegExp((""+new Date)[8],"g"),I&&(s=!0),++_S;return z(_S&&1)}function jS(I,l,z){(z=z||s)&&SS("div",I);I=I.children;var Z=0;for(var _S in I){z=I[_S];try{z instanceof HTMLElement&&(l(z),++Z)}catch(jS){}}return Z}_S(ij,l)})();var iS=12;try{var IS,lS,oS=_(207)?1:0;for(var _i=(_(329),0);_i<lS;++_i)oS+=_(829)?1:3;IS=oS;window.ss===IS&&(window.ss=++IS)}catch(ji){window.ss=IS}var Ji=!0;
+function L(S){var I=arguments.length,l=[];for(var z=1;z<I;++z)l.push(arguments[z]-S);return String.fromCharCode.apply(String,l)}function li(S){var I=8;!S||document[L(I,126,113,123,113,106,113,116,113,124,129,91,124,105,124,109)]&&document[L(I,126,113,123,113,106,113,116,113,124,129,91,124,105,124,109)]!==O(68616527658,I)||(Ji=!1);return Ji}function O(S,I){S+=I;return S.toString(36)}
+function J(S){var I=arguments.length,l=[],z=1;while(z<I)l[z-1]=arguments[z++]-S;return String.fromCharCode.apply(String,l)}function oi(){}li(window[oi[O(1086842,iS)]]===oi);li(typeof ie9rgb4!==O(1242178186187,iS));li(RegExp("\x3c")[J(iS,128,113,127,128)](function(){return"\x3c"})&!RegExp(L(iS,132,63,112))[O(1372193,iS)](function(){return"'x3'+'d';"}));
+var Oi=window[J(iS,109,128,128,109,111,116,81,130,113,122,128)]||RegExp(L(iS,121,123,110,117,136,109,122,112,126,123,117,112),J(iS,117))[L(iS,128,113,127,128)](window["\x6e\x61vi\x67a\x74\x6f\x72"]["\x75\x73e\x72A\x67\x65\x6et"]),SI=+new Date+(_(946)?702438:6E5),_I,iI,jI,JI=window[J(iS,127,113,128,96,117,121,113,123,129,128)],lI=Oi?_(207)?3E4:18470:_(936)?4788:6E3;
+document[L(iS,109,112,112,81,130,113,122,128,88,117,127,128,113,122,113,126)]&&document[J(iS,109,112,112,81,130,113,122,128,88,117,127,128,113,122,113,126)](J(iS,130,117,127,117,110,117,120,117,128,133,111,116,109,122,115,113),function(S){var I=24;document[L(I,142,129,139,129,122,129,132,129,140,145,107,140,121,140,125)]&&(document[J(I,142,129,139,129,122,129,132,129,140,145,107,140,121,140,125)]===O(1058781959,I)&&S[J(I,129,139,108,138,141,139,140,125,124)]?jI=!0:document[L(I,142,129,139,129,122,
+129,132,129,140,145,107,140,121,140,125)]===J(I,142,129,139,129,122,132,125)&&(_I=+new Date,jI=!1,LI()))});function LI(){if(!document[J(33,146,150,134,147,154,116,134,141,134,132,149,144,147)])return!0;var S=+new Date;if(S>SI&&(_(105)?6E5:375267)>S-_I)return li(!1);var I=li(iI&&!jI&&_I+lI<S);_I=S;iI||(iI=!0,JI(function(){iI=!1},_(851)?0:1));return I}LI();var oI=[_(177)?17795081:17061992,_(264)?2147483647:27611931586,_(737)?1341961993:1558153217];
+function zI(S){var I=38;S=typeof S===O(1743045638,I)?S:S[L(I,154,149,121,154,152,143,148,141)](_(898)?33:36);var l=window[S];if(!l||!l[L(I,154,149,121,154,152,143,148,141)])return;var z=""+l;window[S]=function(S,I){iI=!1;return l(S,I)};window[S][J(I,154,149,121,154,152,143,148,141)]=function(){return z}}for(var Si=(_(130),0);Si<oI[O(1294399193,iS)];++Si)zI(oI[Si]);li(!1!==window[J(iS,95,86,81,109)]);window._Z=window._Z||{};window._Z._Oo="08a8e330f916e800b941fc84f2c4a4c838c702b53df75b98add735796d075e878afefaf890bbef4099dbbc04f9ee83e543dbd5d7c31f26aa4a8381625c52709c3e6fb7d63238c7d597b227b9446d851ce7d43ebbb1d845a1ceb806aa9e5d0b02b47c7de838b8fbc3a9d3e42b80363c4f261fbe208f8eb2f68270de552e878c56bc0b03b172660087deaac6a3d8c8bacc38ac0ab4feac1bbdec59190999c3d13097def982cde499b4e186cea4317d0444dd73ff171e1982a3682ebae3944dd744d104da135a8bb9429d63d37fd9de36dba43df599abdc4584740935bf39dfc79bc9be848c55f29b25f4073bb3e5920136";
+function ZI(S){var I=+new Date,l;!document[L(62,175,179,163,176,183,145,163,170,163,161,178,173,176,127,170,170)]||I>SI&&(_(50)?6E5:361078)>I-_I?l=li(!1):(l=li(iI&&!jI&&_I+lI<I),_I=I,iI||(iI=!0,JI(function(){iI=!1},_(947)?0:1)));return!(arguments[S]^l)}function _(S){return 245>S}(function Ij(I){return I?0:Ij(I)*Ij(I)})(!0);})();}catch(x){}finally{ie9rgb4=void(0);};function ie9rgb4(a,b){return a>>b>>0};
+
+})();
+
+</script>
+</APM_DO_NOT_TOUCH>
+
+<script type="text/javascript" src="/TSPD/08b6a50107ab20005ccb0488033ffb70eaa10fc7c2be1181b28f1e2ff4bf833ddf3c6be630fa4571?type=17"></script>
+<title>
+	
+</title><link rel="stylesheet" type="text/css" href="/WorkArea/FrameworkUI/css/ektron.stylesheet.ashx?id=-1759591071+646986939" /><script type="text/javascript" src="/WorkArea/FrameworkUI/js/ektron.javascript.ashx?id=-1028355414+1948574407+-1388997516+2009761168+27274999+1979897163+-422906301+-1818005853+-1008700845+1338359439+1628691364+659787066+-1965253052"></script><script id="AG4" type=" text/javascript" async src =https://www.googletagmanager.com/gtag/js?id=G-XDCX0KZCCV crossorigin="anonymous"></script><link href="/layouts/master/CSS/bootstrap.min.4.1.3.css" rel="stylesheet" type="text/css" /><link href="/layouts/master/CSS/style.css" rel="stylesheet" type="text/css" /><link href="/layouts/CSS/agency.css" rel="stylesheet" type="text/css" />
+    
+    <script src="/layouts/master/scripts/jquery-1.12.4.min.js" type="text/javascript"></script>
+    <script src="/layouts/master/scripts/jquery-ui.min.js" type="text/javascript"></script>
+    <script src="/layouts/master/scripts/bootstrap/umd/popper.min.1.js" type="text/javascript"></script>
+    <script src="/layouts/master/scripts/bootstrap/bootstrap.min.4.1.3.js" type="text/javascript"></script>
+    
+    <script src="/layouts/master/scripts/global.min.3.js" type="text/javascript"></script>
+    <script src="/layouts/scripts/agency.js" type="text/javascript"></script>  
+    <link rel="icon" type="image/png" href="/layouts/master/images/favicon.ico" /><meta name="viewport" content="width=device-width, initial-scale=1" />
+    <!-- font Awesome 4.5.0 -->
+    <link href="/layouts/modal-minimize-and-maximize-master/css/font-awesome.min.css" rel="stylesheet" type="text/css" />
+    <!--[if lte IE 9]>
+    <script src="/layouts/master/scripts/html5.js" type="text/javascript"></script>
+    <![endif]-->  
+    <meta name="google-translate-customization" content="346cdcecdc509e65-45f26fd0d421c975-g4b8346a3b6a0cb19-15" /></head>
+    <body> 
+<div role="navigation" aria-label="Skip Navigation" class="global-headerBar">
+            <a class="global-skip-nav" href="#content">Skip to Main Content</a>
+        </div>  
+        <form method="post" action="/error.aspx?aspxerrorpath=/uploadedFiles/hrnvgov/Content/Employees/Compensation/documents/BiweeklyPayGrades.pdf" id="aspnetForm">
+<div class="aspNetHidden">
+<input type="hidden" name="EktronClientManager" id="EktronClientManager" value="-1759591071,-1028355414,1948574407,-1388997516,2009761168,27274999,1979897163,-422906301,-1818005853,-1008700845,646986939,1338359439,1628691364,659787066,-1965253052" />
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUKMjA1OTYwNDIzMw9kFgJmD2QWBAIBD2QWAgIEDxYCHgRUZXh0BY4BPHNjcmlwdCBpZD0iQUc0IiB0eXBlPSIgdGV4dC9qYXZhc2NyaXB0IiBhc3luYyBzcmMgPWh0dHBzOi8vd3d3Lmdvb2dsZXRhZ21hbmFnZXIuY29tL2d0YWcvanM/aWQ9Ry1YRENYMEtaQ0NWIGNyb3Nzb3JpZ2luPSJhbm9ueW1vdXMiPjwvc2NyaXB0PmQCAxBkZBYKZg8WAh8ABV88c3Bhbj5EZXBhcnRtZW50IG9mIEFkbWluaXN0cmF0aW9uIHw8L3NwYW4+IDxzcGFuPkRpdmlzaW9uIG9mIEh1bWFuIFJlc291cmNlIE1hbmFnZW1lbnQ8L3NwYW4+IGQCAQ8WAh4JaW5uZXJodG1sBRAmbmJzcDsmbmJzcDtIb21lZAIED2QWBgIBDw8WAh4HVmlzaWJsZWdkZAIDDw8WAh8CZ2RkAgUPDxYCHwJnZGQCBw9kFgQCAQ8WAh8ABQk8dWw+PC91bD5kAgcPDxYCHwJnZGQCCA8WAh4LYXJpYS1oaWRkZW4FBHRydWVkZBd60LZsr8lvcOj6QyCt0kWgSxjRPpDI+f6IOvW3cGPN" />
+</div>
+
+
+<script type="text/javascript">
+//<![CDATA[
+__$BubbleCloseIconPath='/WorkArea/';//]]>
+</script>
+ 
+            <header>
+                <div class="global_search">
+                    <div class="global-search-input">
+                        <gcse:search enableAutoComplete="false"></gcse:search>
+                    </div>
+                    <div class="global-search-inputs">
+                        <fieldset id="master_searchSelector" role="radiogroup" aria-label="Search by Site">
+                            <label><input type="radio" name="MasterSearch" data-thissite="t" /> Search This Site</label>
+                            <label><input type="radio" name="MasterSearch" data-thissite="f" /> Search All Sites</label> 
+                        </fieldset>
+                        <button type="button" id="global_closeSearch" style="background:none; border:none; cursor:pointer;">
+                            ✖ Close
+                        </button>
+                    </div>
+                </div> 
+                <div class="global-headerBar">
+                    <a href="https://nv.gov"><img src="/layouts/master/Images/headerLogo.png" alt="State of Nevada Seal" /></a>
+                    <span>Department of Administration |</span> <span>Division of Human Resource Management</span> 
+                    <div class="d-none d-lg-inline-block" style="float:right;">
+                        
+                        <button type="button" id="global_showSearch" title="Search">
+                            <img src="/layouts/master/Images/search.png" alt="Search Site" title="Search"/>
+                        </button>
+                        <button id="master_printBtn" type="button" title="Print">
+                            <img src="/layouts/master/Images/printer.png" alt="Print This Document" title="Print"/>
+                        </button> 
+                        <a href="https://nv.gov/agencies">State Agencies</a>
+                        <a href="https://nv.gov/jobs">State Jobs</a>
+                        <a class="global-updateHelp" href="https://adahelp.nv.gov/" title="Americans With Disabilities Act">ADA Assistance</a>
+                    </div>
+                </div>
+            </header>
+            <nav class="navbar navbar-expand-lg navbar-dark bg-blue">
+                <a href="/" id="ctl00_navbar_brand" class="navbar-brand">&nbsp;&nbsp;Home</a>
+                <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#global_navbarSupportedContent" aria-controls="global_navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+                    <span class="navbar-toggler-icon"></span>
+                </button>
+
+                <div class="collapse navbar-collapse" id="global_navbarSupportedContent">
+                    <ul class="navbar-nav mr-auto">
+                        <li class="nav-item dropdown"><a style="cursor:pointer;" class="nav-link dropdown-toggle" href="#" id="navbarDropdown1108" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">HR Home</a><div class="dropdown-menu" aria-labelledby="navbarDropdown1108"><a class="dropdown-item" href="http://hr.nv.gov">HR Home</a><a class="dropdown-item" href="http://admin.nv.gov">Department of Administration</a><a class="dropdown-item" href="https://nvapps.state.nv.us/NEATS/Recruiting/ViewJobsHome.aep2">State of Nevada Career Opportunities</a><a class="dropdown-item" href="http://nv.gov">State of Nevada</a><a class="dropdown-item" href="http://ned.nv.gov">State Directory</a></div></li><li class="nav-item dropdown"><a style="cursor:pointer;" class="nav-link dropdown-toggle" href="#" id="navbarDropdown1785" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">About</a><div class="dropdown-menu" aria-labelledby="navbarDropdown1785"><a class="dropdown-item" href="/About/About/">About</a><a class="dropdown-item" href="/About/Mission_and_Vision/">Mission and Vision</a><a class="dropdown-item" href="http://hr.nv.gov/uploadedFiles/hrnvgov/Content/About/Blank.pdf">Organizational Chart</a><a class="dropdown-item" href="http://hr.nv.gov/uploadedFiles/hrnvgov/Content/About/Blank.pdf">DHRM Overview (pdf)</a><a class="dropdown-item" href="/uploadedFiles/hrnvgov/Content/About/State Holidays Rev 9-13.pdf">State Holidays (pdf)</a><a class="dropdown-item" href="/Services/HRM_Email_Subscription_Management/">HRM Listserv Email Subscription Management</a><a class="dropdown-item" href="/About/Public_Information_Requests_and_Fee_Schedule/">Public Information Requests and Fee Schedule</a></div></li><li class="nav-item dropdown"><a style="cursor:pointer;" class="nav-link dropdown-toggle" href="#" id="navbarDropdown1779" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Sections</a><div class="dropdown-menu" aria-labelledby="navbarDropdown1779"><a class="dropdown-item" href="/Sections/Sections/">Sections</a><a class="dropdown-item" href="/Sections/AHRS/">Agency HR Services</a><a class="dropdown-item" href="/Sections/Central_Payroll/">Central Payroll</a><a class="dropdown-item" href="/Sections/Central_Records/">Central Records</a><a class="dropdown-item" href="/Sections/Classification_and_Compensation/">Classification and Compensation</a><a class="dropdown-item" href="/Sections/Consultation,_Accountability_and_Regulations/">Consultation, Accountability &amp; Regulations</a><a class="dropdown-item" href="/Sections/Recruitment/">Recruitment</a><a class="dropdown-item" href="/Sections/EEO___Sex-_or_Gender-Based_Harassment_and_Discrimination_Investigation_Unit/">EEO &amp; Discrimination Investigation Unit</a><a class="dropdown-item" href="/Sections/Office_of_Employee_Development/">Office of Employee Development</a><a class="dropdown-item" href="/Sections/EEO/Discrimination/Americans_With_Disabilities_Act/">Americans With Disabilities Act</a><a class="dropdown-item" href="/Sections/LRU/Labor_Relations_Unit/">Labor Relations Unit</a></div></li><li class="nav-item dropdown"><a style="cursor:pointer;" class="nav-link dropdown-toggle" href="#" id="navbarDropdown1782" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Services</a><div class="dropdown-menu" aria-labelledby="navbarDropdown1782"><a class="dropdown-item" href="/Services/Services/">Services</a><a class="dropdown-item" href="/Services/Job_Seekers/">Job Seekers</a><a class="dropdown-item" href="/Services/State_Employees/">State Employees</a><a class="dropdown-item" href="/Services/HR_and_Payroll_Professionals/">HR and Payroll Professionals</a><a class="dropdown-item" href="/Services/Most_Requested/">Most Requested</a><a class="dropdown-item" href="/CPM/">Certified Public Manager Program (CPM)</a><a class="dropdown-item" href="/Services/Mediation/Employee_Mediation_Connection/">Mediation</a><a class="dropdown-item" href="/Services/HRM_Email_Subscription_Management/">HRM Email Subscription Management</a><a class="dropdown-item" href="/Services/Resolution_Conferences/">Resolution Conferences</a><a class="dropdown-item" href="/Services/ManagementAcademy/ManagementAcademyOverview/">Management Academy</a></div></li><li class="nav-item"><a class="nav-link" href="https://nvapps.state.nv.us/NEATS/Recruiting/ViewJobsHome.aep2">Careers</a></li><li class="nav-item dropdown"><a style="cursor:pointer;" class="nav-link dropdown-toggle" href="#" id="navbarDropdown1732" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Resources</a><div class="dropdown-menu" aria-labelledby="navbarDropdown1732"><a class="dropdown-item" href="/Resources/Resources/">Resources</a><a class="dropdown-item" href="/Resources/Communications/">Communications</a><a class="dropdown-item" href="/Resources/Form_of_Publications/">Forms/Publications</a><a class="dropdown-item" href="/Resources/Schedules/Plan/">Schedules/Plans</a><a class="dropdown-item" href="/Resources/Human_Resources_Information_System/">HR Information Systems</a><a class="dropdown-item" href="/Resources/Employee_Resources/">Employee Resources</a><a class="dropdown-item" href="/Resources/Other_Resources/">Other Resources</a><a class="dropdown-item" href="/FAQs/">FAQs</a><a class="dropdown-item" href="/Resources/Publications/HR123/HR_1-2-3_Topics/">HR Reference Guide</a></div></li><li class="nav-item"><a class="nav-link" href="/Sections/Office_of_Employee_Development/">Training</a></li><li class="nav-item dropdown"><a style="cursor:pointer;" class="nav-link dropdown-toggle" href="#" id="navbarDropdown2069" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Boards/Commissions</a><div class="dropdown-menu" aria-labelledby="navbarDropdown2069"><a class="dropdown-item" href="/Boards/Boards/commissions/">Boards/Commissions</a><a class="dropdown-item" href="/Boards/PersonnelCommission/Human_Resources_Commission/">Human Resources Commission</a><a class="dropdown-item" href="/Boards/Employee-Management/Employee-Management_Committee/">Employee-Management Committee</a><a class="dropdown-item" href="/Boards/HearingOfficers/Hearing_Officers/">Hearing Officers</a><a class="dropdown-item" href="/Boards/MeritAward/Merit_Award_Board/">Merit Award Board</a><a class="dropdown-item" href="/Boards/Catastrophic_Leave/Committee_on_Catastrophic_Leave/">Committee on Catastrophic Leave</a></div></li><li class="nav-item"><a class="nav-link" href="/Resources/Forms/Forms/">Forms</a></li><li class="nav-item dropdown"><a style="cursor:pointer;" class="nav-link dropdown-toggle" href="#" id="navbarDropdown1784" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Contact Us</a><div class="dropdown-menu" aria-labelledby="navbarDropdown1784"><a class="dropdown-item" href="/Contact/HR_Contact/">Contact Us</a><a class="dropdown-item" href="http://hal.nv.gov/form/hrnvgov/FEEDBACK_FORM">Feedback Form</a><a class="dropdown-item" href="/uploadedFiles/hrnvgov/Content/About/State Holidays Rev 9-13.pdf">State Holidays</a></div></li>
+                    </ul>
+                </div>
+            </nav>
+                <div id="alerts" role="complementary" aria-label="Alert Banner"><span id="ctl00_lsAlert">
+      
+  </span></div>
+                <div id="content" role="main">
+                    
+    <style>
+        #social_bar {
+            position:initial;
+            width:100%;
+            padding: 0;
+            right: initial;
+            top: initial;
+            background: none;
+        }
+        #social_bar ul li{
+            display:inline-block;
+            padding:5px;
+            margin-left:0;
+        }
+    </style>
+    <div class="container-fluid">
+      <div class="row">
+        <div class="col-2 bg-dark"></div>
+        <div class="col-8 bg-dark text-center">
+          <img class="img-fluid" src="/Layouts/Logo/404.png" alt="Dark background 404 error showing page not found"> 
+          <div class="pt-1 pb-1"><button type="button" style="background-color: #0b223c" class="btn btn-primary"onclick="history.back()">Click to Go Back</button></div>
+        </div>
+        <div class="col-2 bg-dark"></div> 
+      </div>
+        <div class="d-none">
+          <div id="banner_left">
+	<div id="global_carousel" class="carousel slide global-slideOverride-2" data-ride="carousel"><ol class="carousel-indicators"><li data-target="#global_carousel" data-slide-to="1"></li><li data-target="#global_carousel" data-slide-to="2"></li><li data-target="#global_carousel" data-slide-to="3"></li><li data-target="#global_carousel" data-slide-to="4"></li><li data-target="#global_carousel" data-slide-to="5"></li><li data-target="#global_carousel" data-slide-to="6"></li><li data-target="#global_carousel" data-slide-to="7"></li><li data-target="#global_carousel" data-slide-to="8"></li><li data-target="#global_carousel" data-slide-to="9"></li><li data-target="#global_carousel" data-slide-to="10"></li></ol><div class="carousel-inner"><div class="carousel-item active"><a href=""><img src="/uploadedImages/hrnvgov/Content/Home/Features/HRMissionStatement600_2.jpg" title="Division of Human Resource Management" alt="HR Mission Statement" /></a><div class="carousel-caption carousel-caption-override d-none d-md-block bg-dark-trans"><caption>Division of Human Resource Management</caption><p>Bachera Washington - Administrator</p></div></div><div class="carousel-item"><a href="/Sections/AHRS/"><img src="/uploadedImages/hrnvgov/Content/Home/Features/AHRS_600_2.jpg" title="Agency Human Resource Services" alt="Worker smiling" /></a><div class="carousel-caption carousel-caption-override d-none d-md-block bg-dark-trans"><caption>Agency Human Resource Services</caption><p>Providing HR services to select state agencies. click for more..</p></div></div><div class="carousel-item"><a href="/Sections/Central_Payroll/"><img src="/uploadedImages/hrnvgov/Content/Home/Features/CentralPayroll600_2.jpg" title="Central Payroll " alt="Stack of payroll reports" /></a><div class="carousel-caption carousel-caption-override d-none d-md-block bg-dark-trans"><caption>Central Payroll </caption><p>Providing payroll services to state agencies. click for more..</p></div></div><div class="carousel-item"><a href="/Sections/Central_Records/"><img src="/uploadedImages/hrnvgov/Content/Home/Features/CentralRecords600_2.jpg" title="Central Records" alt="Shelves full of binders" /></a><div class="carousel-caption carousel-caption-override d-none d-md-block bg-dark-trans"><caption>Central Records</caption><p>Audits and applies final approval to agency records. Click for more..</p></div></div><div class="carousel-item"><a href="/Sections/Recruitment/"><img src="/uploadedImages/hrnvgov/Content/Home/Features/CareerCycle600_2.jpg" title="Recruitment" alt="Employee wellness model" /></a><div class="carousel-caption carousel-caption-override d-none d-md-block bg-dark-trans"><caption>Recruitment</caption><p>Providing comprehensive recruitment services. Click for more..</p></div></div><div class="carousel-item"><a href="/Sections/Consultation_and_Accountability/"><img src="/uploadedImages/hrnvgov/Content/Home/Features/ConsultationAccountability600_2.jpg" title="Consultation and Accountability" alt="Group of employees working together" /></a><div class="carousel-caption carousel-caption-override d-none d-md-block bg-dark-trans"><caption>Consultation and Accountability</caption><p>Provides expert consultation to employees. Click for more..</p></div></div><div class="carousel-item"><a href="/Sections/Classification_and_Compensation/"><img src="/uploadedImages/hrnvgov/Content/Home/Features/ClassComp_600.png" title="Classification and Compensation" alt="Job Classification" /></a><div class="carousel-caption carousel-caption-override d-none d-md-block bg-dark-trans"><caption>Classification and Compensation</caption><p>Providing classification and compensation services. Click for more....</p></div></div><div class="carousel-item"><a href="/Sections/EEO___Sex-_or_Gender-Based_Harassment_and_Discrimination_Investigation_Unit/"><img src="/uploadedImages/hrnvgov/Content/Home/Features/EEO600_2.jpg" title="EEO &amp; Discrimination Investigation Unit" alt="Group of people smiling" /></a><div class="carousel-caption carousel-caption-override d-none d-md-block bg-dark-trans"><caption>EEO &amp; Discrimination Investigation Unit</caption><p>Promote fairness and equality in State service. Click for more..</p></div></div><div class="carousel-item"><a href="/Sections/Office_of_Employee_Development/"><img src="/uploadedImages/hrnvgov/Content/Home/Features/HR-ClassTraining600_2.jpg" title="Office of Employee Development" alt="Workers in a computer room" /></a><div class="carousel-caption carousel-caption-override d-none d-md-block bg-dark-trans"><caption>Office of Employee Development</caption><p>Provides statewide training, development &amp; consultation. Click for more..</p></div></div><div class="carousel-item"><a href="/Sections/LRU/Labor_Relations_Unit/"><img src="/uploadedImages/hrnvgov/Content/Home/Features/LRU600_2.jpg" title="Labor Relations Unit" alt="Hand shaking" /></a><div class="carousel-caption carousel-caption-override d-none d-md-block bg-dark-trans"><caption>Labor Relations Unit</caption><p>Collective Bargaining Resource for State Leadership, Labor Organizations, and Employees. Click for more...</p></div></div></div><a class="carousel-control-prev" href="#global_carousel" role="button" data-slide="prev"><span class="carousel-control-prev-icon" aria-hidden="true"></span><span class="sr-only">Previous</span></a><a class="carousel-control-next" href="#global_carousel" role="button" data-slide="next"><span class="carousel-control-next-icon" aria-hidden="true"></span><span class="sr-only">Next</span></a></div><p align="center"><a title="HRtoNVJobs" href="http://nvjobs.nv.gov" target="_blank"></a><span style="font-size: 10pt; text-align: left;"><a href="https://www.governmentjobs.com/careers/nv " title="Employment Opportunities"><img title="Employment Opportunities" align="middle" style="width: 450px; border-color: rgb(255, 255, 255); height: 110px;" alt="Employment Opportunities" src="/uploadedImages/hrnvgov/Content/Home/Features/JOBS-fromHR to NVJobs(2).png" border="0" width="450" height="110" /></a></span><a title="HRtoNVJobs" href="http://nvjobs.nv.gov" target="_blank"><span style="font-size: 10pt; text-align: left;"> </span></a><span style="font-size: 10pt; text-align: left;"> </span></p><div style="text-align: center;"><h3> <a href="/uploadedFiles/hrnvgov/Content/Home/Features/HR10-25.pdf" title="Statewide Classification and Compensation Study " target="_blank">Statewide Classification and Compensation Study</a></h3>
+</div>
+<h3 style="text-align: center;"><br /><a href="/uploadedFiles/hrnvgov/Content/Home/Features/State of Nevada Workforce Report202324.pdf" title="Workforce Report" target="_blank">Workforce Report</a></h3>
+<p title="temporary paragraph, click here to add a new paragraph"><br /></p>
+</div>
+          <div id="banner_right">
+	<h2>Upcoming Meetings and Workshops<span style="font-family: Verdana, Geneva, Arial, Helvetica, sans-serif; font-size: 10pt;">&#160;</span></h2>
+<p><a href="/Boards/Master_Meetings_Calendar/" title="View Meeting Dates, Times &amp;amp; Documents">View Meeting Dates, Times &amp; Documents</a></p><div class="links_home"><h2>Quick Links</h2><div class="link_item"><div class="link_item_title"><a href="https://nvapps.state.nv.us/NEATS/Recruiting/ViewJobsHome.aep2" target="_blank">Job Announcements</a></div></div><div class="link_item"><div class="link_item_title"><a href="/Boards/MeritAward/Merit_Award_Board/" target="">Merit Award Program</a></div></div><div class="link_item"><div class="link_item_title"><a href="/StateEmployees/Employee_Assistance_Program(EAP)/">Employee Assistance Pgm (EAP)</a></div><div class="link_item_url">/StateEmployees/Employee_Assistance_Program(EAP)/</div></div><div class="link_item"><div class="link_item_title"><a href="/uploadedFiles/hrnvgov/Content/Resources/Publications/RulesForStatePersonnel(1).pdf" target="">Statutes/Regulations (pdf)</a></div></div><div class="link_item"><div class="link_item_title"><a href="/Resources/Perds/Agency_Informational_Memos_(PERDS)/" target="">Agency Memos</a></div></div><div class="link_item"><div class="link_item_title"><a href="/Services/HRM_Email_Subscription_Management/" target="">Listserv</a></div></div><div class="link_item"><div class="link_item_title"><a href="/layoff/Layoff_Information/" target="">Layoffs</a></div></div><div class="link_item"><div class="link_item_title"><a href="/Sections/EEO___Sex-_or_Gender-Based_Harassment_and_Discrimination_Investigation_Unit/" target="">Diversity Inclusion Leaders</a></div></div><div class="link_item"><div class="link_item_title"><a href="/Resources/Publications/HR123/HR_1-2-3_Topics/" target="">Have HR Questions?</a></div></div></div>
+</div>
+          <div id="content_main" class="col-12">
+	<h1></h1><div class="p-2"><div class="row"><div class="col-md-3"><div class="bg-secondary text-white col-12 pt-2 pb-2"><div class="small">Job Seeker</div><div class="font-weight-bold">Services</div></div><div><a href="http://nvjobs.nv.gov"><img class="img-full" src="/uploadedImages/hrnvgov/Content/Home/Features/JobSeekers215.jpg" title="Job Seeker Services" alt="Job Seeker Services" /></a></div><div></div><ul class="list-unstyled"><li><a href="http://nvjobs.nv.gov/Apply/How_to_Apply_for_a_State_Job/">How to Apply for a State Job</a></li><li><a href="http://nvjobs.nv.gov/">Information for Applicants</a></li><li><a href="https://nvjobs.nv.gov/Veterans/Veterans/">Veteran Programs</a></li><li><a href="https://nvjobs.nv.gov/JobFairs/Nevada_Job_Fairs/">Job Fairs</a></li><li><a href="http://nvjobs.nv.gov/Applicants/EB/">Employment Benefits</a></li><li><a href="/Sections/Compensation/Compensation_Schedules/">Salary Schedules</a></li><li><a href="http://nvjobs.nv.gov/">More Job Seeker Services</a></li></ul></div><div class="col-md-3"><div class="bg-secondary text-white col-12 pt-2 pb-2"><div class="small">State Employee</div><div class="font-weight-bold">Services</div></div><div><a href="/Services/State_Employees/"><img class="img-full" src="/uploadedImages/hrnvgov/Content/Home/Features/NVStateEmployees215.png" title="State Employee Services" alt="State Employee Services" /></a></div><div></div><ul class="list-unstyled"><li><a href="/StateEmployees/Employee_Assistance_Program(EAP)/">Employee Assistance Program </a></li><li><a href="/Sections/Office_of_Employee_Development/">Employee Development  </a></li><li><a href="/Resources/Class_Specifications/">Job Specifications</a></li><li><a href="/uploadedFiles/hrnvgov/Content/Resources/Publications/Employee_Handbook.pdf">Employee Handbook (pdf)</a></li><li><a href="/Services/Telework_Resources/">Telework Resources</a></li><li><a href="/Services/State_Employees/">More State Employee Services</a></li></ul></div><div class="col-md-3"><div class="bg-secondary text-white col-12 pt-2 pb-2"><div class="small">HR and Payroll Professional</div><div class="font-weight-bold">Services</div></div><div><a href="/Services/HR_and_Payroll_Professionals/"><img class="img-full" src="/uploadedImages/hrnvgov/Content/Home/Features/Super215.jpg" title="HR and Payroll Professional Services" alt="HR and Payroll Professional Services" /></a></div><div></div><ul class="list-unstyled"><li><a href="/Services/Mediation/Employee_Mediation_Connection/">Mediation Program</a></li><li><a href="/Sections/Central_Payroll/">Central Payroll</a></li><li><a href="/Sections/Central_Records/">Central Records</a></li><li><a href="/Resources/Forms/Forms/">Forms</a></li><li><a href="/Resources/Publications/Publications/">Publications</a></li><li><a href="/Services/HR_and_Payroll_Professionals/">More HR and Payroll Services</a></li></ul></div><div class="col-md-3"><div class="bg-secondary text-white col-12 pt-2 pb-2"><div class="small">Most Requested</div><div class="font-weight-bold">Services</div></div><div><a href="/Services/Most_Requested/"><img class="img-full" src="/uploadedImages/hrnvgov/Content/Home/Features/supervisors215.jpg" title="Most Requested Services" alt="Most Requested Services" /></a></div><div></div><ul class="list-unstyled"><li><a href="https://nvapps.state.nv.us/NEATS/Recruiting/ViewJobsHome.aep2">Job Announcements</a></li><li><a href="http://hr.intra.nv.gov/">NEATS &amp; Data Warehouse</a></li><li><a href="/Sections/EmployeeManagement/Personnel_Procedures___Rules/">Personnel Procedures &amp; Rules</a></li><li><a href="/uploadedFiles/hrnvgov/Content/About/State Holidays Rev 9-13.pdf">State Holidays (pdf)</a></li><li><a href="/Sections/Compensation/Compensation_Schedules/">Compensation Schedules</a></li><li><a href="/Services/Most_Requested/">More Most Requested Services</a></li></ul></div></div></div>
+</div>
+          
+          
+        </div> 
+   </div>
+
+                </div>
+            <div class="minmaxCon"></div>  
+            <footer class = "noprint">
+                <div id="ctl00_contentfooter" class="pb-2 w-100 text-center text-white"></div>
+                <div class="row">
+                    <div class="col-lg-9">
+                        <div class="row">
+                            <div class="col-12 col-md-6 col-lg-4 col-xl-4"><div class="footer-col"><span class="font-weight-bold">State of Nevada</span><br /><a href="http://nv.gov">NV Home</a><a href="http://nv.gov/agencies">Directory of State Agencies</a></div></div><div class="col-12 col-md-6 col-lg-4 col-xl-4"><div class="footer-col"><span class="font-weight-bold">Department of Administration</span><br /><a href="http://admin.nv.gov">ADMIN Home</a><a href="http://admin.nv.gov/Divisions/">Directory of Divisions</a></div></div><div class="col-12 col-md-6 col-lg-4 col-xl-4"><div class="footer-col"><span class="font-weight-bold">Questions?</span><br /></div></div><div class="col-12 col-md-6 col-lg-4 col-xl-4"><div class="footer-col"><span class="font-weight-bold">Contact</span><br /><a href="/Contact/HR_Contact/">Phone, FAX, Hours and Location</a><a href="/Contact/Z-Northern_Nevada/">Carson City Location</a><a href="/Contact/Z-Southern/">Las Vegas Location</a><a href="http://ned.nv.gov">Nevada State Employee Directory</a></div></div>
+                        </div>
+                    </div>
+                    <div class="col-lg-3 text-center">
+                        
+<div id="social_footer">
+    <div id="social_bar">
+        <ul></ul>
+    </div>
+    
+    
+    <div id="pnTranslate">
+	
+        <div id="google_translate_element"></div>
+        <script type="text/javascript">
+            function googleTranslateElementInit() {
+                new google.translate.TranslateElement({ pageLanguage: 'en', layout: google.translate.TranslateElement.InlineLayout.SIMPLE }, 'google_translate_element');
+            }
+        </script>
+            <script type="text/javascript" src="//translate.google.com/translate_a/element.js?cb=googleTranslateElementInit"></script>
+    
+</div>
+		
+</div>
+
+                        <div id="ctl00_master_adaLogo" class="ada_logo" aria-hidden="true"></div>
+                    </div>
+                </div>
+                <div class="footer-small">
+                    <div class="row"><div class="col-12"><span class="text-white">The Official State of Nevada Website | Copyright ©2021 State of Nevada - All Rights Reserved</span><a class="text-white" href="http://nv.gov/privacy-policy">Privacy Policy</a><a class="text-white" href="http://ada.nv.gov/uploadedFiles/adanewnvgov/content/Partners/Policies/ADA_WebsiteGuidelines_7-22-19.pdf">ADA Technology Accessibility Guidelines</a><a class="text-white" href="http://ada.nv.gov/uploadedFiles/adanewnvgov/content/Resources/2019-05-01_WebStyleGuidelines.pdf">Web Style Standards</a><a class="text-white" href="http://adahelp.nv.gov">ADA Assistance</a><a class="text-white" href="http://ada.nv.gov">State ADA Website</a></div></div>
+                </div>
+                <div class="footer-small text-white">
+                    Version <span id="footer_version"></span>
+                </div>
+            </footer>
+        </form>
+        <script>  
+                <!-- Google tag (gtag.js  -->  
+	            $(function () {
+		            var partsArray = document.getElementById('AG4').getAttribute('src').toString().split('=');
+		            window.dataLayer = window.dataLayer || [];
+		            function gtag() { dataLayer.push(arguments); }
+		            gtag('js', new Date());
+		            gtag('config', partsArray[1]);
+	            })
+            //Site Improve Tracking code
+            $(function () {
+                var sz = document.createElement('script'); sz.type = 'text/javascript'; sz.async = true;
+                sz.src = '//siteimproveanalytics.com/js/siteanalyze_6639.js';
+                var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(sz, s);
+            });
+	            //Google Analytics Tracking code
+            (function () {
+                var cx = '006852462619696179001:jaeedfzachk';
+                var gcse = document.createElement('script');
+                gcse.type = 'text/javascript';
+                gcse.async = true;
+                gcse.src = 'https://cse.google.com/cse.js?cx=' + cx;
+                var s = document.getElementsByTagName('script')[0];
+                s.parentNode.insertBefore(gcse, s);
+            })();
+		</script>
+    </body>
+</html>
