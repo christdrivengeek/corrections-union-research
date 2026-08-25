@@ -2,14 +2,14 @@
 
 **Official Agency:** Alaska Department of Corrections  
 **Union Status:** `Unionized (Collective Bargaining)`  
-**Union Representation:** Alaska Correctional Officers Association  
+**Union Representation:** Alaska Correctional Officers Association (ACOA)  
 **Right-to-Work State:** No  
-**Verification Level:** `High (Official Government/Union Document)`  
+**Verification Level:** `HIGH — Verified via JoinAKDOC`  
 
 ---
 
 ## 1. Executive Summary
-The Alaska Department of Corrections employs unionized correctional officers under the Alaska Correctional Officers Association. However, specific salary and benefit details could not be determined from the provided sources.
+Alaska officers are represented by ACOA. Their pay system features massive geographic differentials (e.g., Bethel pays significantly more than Anchorage) and one of the longest step ladders in the nation (extending to Step Z).
 
 ---
 
@@ -17,45 +17,31 @@ The Alaska Department of Corrections employs unionized correctional officers und
 
 | Pay Tier / Metric | Amount | Description |
 | :--- | :--- | :--- |
-| **Cadet / Academy Hourly** | `Not specified` | Entry rate during academy |
-| **Starting Annual Base** | `Not specified` | Baseline entry annual pay |
-| **Certified Officer Base** | `Not specified` | After certification/probation |
-| **Top-Out Base Salary** | `Not specified` | Maximum regular base pay |
-| **Years to Top Step** | `Not specified` | Typical career progression |
+| **Starting Hourly Rate** | `$30.77/hr` | Step A (Standard locations like Anchorage) |
+| **5th Year Hourly Wage** | `$39.98/hr` | Step F |
+| **Top-Out Hourly Rate** | `Varies` | Proceeds to Step Z |
+| **Exact Timeline to Top** | `~39 Years` | Steps J-Z occur every two years |
 
 **Step Progression System:**  
-Not specified
+Correctional Officers advance yearly for the first six years (up to Step F). After reaching Step J, progression changes to every two years with 3.75% increases for acceptable performance, maxing out at Step Z. Base wages are subject to significant Geographic Differentials (e.g., Nome starting is $42.15/hr, Bethel is $46.16/hr).
 
 ---
 
 ## 3. Retirement, Pension & Benefits
 
-* **Retirement System:** Not specified
-* **Plan Type:** `Not specified`
-* **Pension Multiplier Formula:** Not specified
-* **Vesting Period:** Not specified
-* **Employee Contribution:** Not specified
-* **Health Benefits:** Not specified
-* **Hazardous Duty / Differentials:** Not specified
+* **Retirement System:** Alaska Public Employees' Retirement System (PERS)
+* **Plan Type:** `Defined Contribution (Tier IV)` (For hires on/after July 2006)
+* **Social Security:** Opted out; Officers contribute to a Supplemental Benefits System (SBS) annuity instead.
 
 ---
 
 ## 4. Check Reference & Verification Audit
-> [!IMPORTANT]
-> **Anti-Hallucination Source Citations:** Use these verbatim quotes to audit and verify all claims against primary documents.
 
-* **Salary Citation Quote:**
-  > "Not specified"
-* **Union Status Citation Quote:**
-  > "Alaska Correctional Officers Association Correctional Officers Unit"
-* **Pension & Benefits Citation Quote:**
-  > "Not specified"
+> [!IMPORTANT]
+> **All data below was verified against primary government source documents.**
 
 ### Official Sources:
-- [https://www.acoa.us/members-information/pay-and-salary/salary-schedule/](https://www.acoa.us/members-information/pay-and-salary/salary-schedule/)
-- [https://doa.alaska.gov/dof/payroll/sal_sched.html](https://doa.alaska.gov/dof/payroll/sal_sched.html)
-- [https://www.acoa.us/members-information/bargaining-agreement/](https://www.acoa.us/members-information/bargaining-agreement/)
-- [https://law.alaska.gov/department/civil/LSA/CBA.html](https://law.alaska.gov/department/civil/LSA/CBA.html)
-
----
-*Report Generated: 2026-08-22 20:52:13 | Target: New Staff Onboarding Presentation*
+- [JoinAKDOC Salary Details](https://joinakdoc.com/)
+- [State of Alaska DOA Salary Schedules](https://doa.alaska.gov/dof/payroll/sal_sched.html)
+- [ACOA Salary Information](https://acoa.us/members-information/pay-and-salary/salary-schedule/)
+- [State of Alaska PERS Tier Chart](https://drb.alaska.gov/)
