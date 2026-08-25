@@ -43,3 +43,10 @@ Maine state correctional officers are represented by **AFSCME Council 93**. They
 - [Maine Bureau of Human Resources](https://www.maine.gov/bhr/)
 - [Maine Office of Employee Relations - CBAs](https://www.maine.gov/deh/bhr/labor-relations/contracts.html)
 - [MainePERS 1998 Special Plan](https://www.mainepers.org/)
+
+## 5. Deep Dive: Overtime, Assault Pay, & Security
+
+**Mandatory Overtime:** No statutory limits. Mandating practices are governed by the CBA, usually utilizing a mandation list.
+**Assault / Line-of-Duty Injury Pay:** Standard Workers' Comp (80% of after-tax earnings). No automatic statutory guarantee of 100% pay unless specifically negotiated in the active contract language.
+**Job Security:** Protected by "Just Cause". The CBA stipulates non-probationary employees cannot be discharged without cause and have arbitration rights.
+**Seniority Bidding:** Yes. CBA outlines procedures for filling shift vacancies, posts, and transfers based heavily on seniority.

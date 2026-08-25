@@ -45,3 +45,10 @@ Correctional Officers advance yearly for the first six years (up to Step F). Aft
 - [State of Alaska DOA Salary Schedules](https://doa.alaska.gov/dof/payroll/sal_sched.html)
 - [ACOA Salary Information](https://acoa.us/members-information/pay-and-salary/salary-schedule/)
 - [State of Alaska PERS Tier Chart](https://drb.alaska.gov/)
+
+## 5. Deep Dive: Overtime, Assault Pay, & Security
+
+**Mandatory Overtime:** No statutory caps. DOC relies heavily on mandatory overtime to cover shortages. No penalty for forcing other than standard 1.5x FLSA pay.
+**Assault / Line-of-Duty Injury Pay:** 100% Pay. The ACOA union contract guarantees 100% full pay for up to 12 consecutive months following an assault. The officer signs over their workers comp checks to the state and receives their full regular paycheck.
+**Job Security:** Protected by strict "Just Cause" mandated by the CBA.
+**Seniority Bidding:** Yes. The CBA strictly defines "Bargaining Unit seniority" which dictates shift assignments, post bidding, and days off.

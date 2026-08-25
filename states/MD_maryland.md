@@ -44,3 +44,10 @@ Maryland state correctional officers are unionized under **AFSCME Council 3**. T
 - [Maryland DBM Salary Schedules](https://dbm.maryland.gov/employees/Pages/SalaryInformation.aspx)
 - [AFSCME Maryland Council 3](https://www.afscmemd.org/)
 - [Maryland State Retirement Agency (CORS)](https://sra.maryland.gov/)
+
+## 5. Deep Dive: Overtime, Assault Pay, & Security
+
+**Mandatory Overtime:** No limits. "Drafting" is frequently used to meet minimum staffing. Refusal is insubordination.
+**Assault / Line-of-Duty Injury Pay:** Work-Related Accident Leave pays 2/3 of regular average weekly wage. Does not guarantee 100% salary for line-of-duty assaults without using accrued sick leave.
+**Job Security:** Protected by "Just Cause" in the MOU. Additionally protected by the Maryland Correctional Officers' Bill of Rights (COBR) which dictates strict procedural rules for internal investigations.
+**Seniority Bidding:** Yes. Bidding heavily dictated by seniority as negotiated by AFSCME Unit H, with facility-specific mechanics handled by Labor Management Committees.

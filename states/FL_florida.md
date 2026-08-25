@@ -59,3 +59,10 @@ Correctional Officers progress through a step system with annual increases based
 
 ---
 *Report Generated: 2026-08-22 21:33:22 | Target: New Staff Onboarding Presentation*
+
+## 5. Deep Dive: Overtime, Assault Pay, & Security
+
+**Mandatory Overtime:** Capped at 25 hours every 14-day cycle. Maximum extended workday is 16.5 hours, followed by a guaranteed 7.5 hours of rest.
+**Assault / Line-of-Duty Injury Pay:** Standard Workers' Comp (66 2/3%). State employees receive up to 40 hours of full-pay status, but after that, they must burn their own accrued leave to supplement workers comp.
+**Job Security:** Protected by "Just Cause". Post-probationary officers are Career Service employees. Furthermore, all officers are protected by the Law Enforcement Officers' Bill of Rights (LEOBOR).
+**Seniority Bidding:** Yes. The PBA agreement designates seniority as the primary factor for shifts and days off.
