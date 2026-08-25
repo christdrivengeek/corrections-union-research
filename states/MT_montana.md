@@ -29,3 +29,10 @@ The state's Broadband Pay Plan does not use fixed annual step progressions. Prog
 
 * **Retirement System:** Game Wardens' and Peace Officers' Retirement System (GWPORS)
 * **Plan Type:** `Defined Benefit Pension` 
+
+## 5. Deep Dive: Overtime, Assault Pay, & Security
+
+**Mandatory Overtime:** Managed through rotating lists. Refusal is insubordination. Compensated at standard FLSA 1.5x.
+**Assault / Line-of-Duty Injury Pay:** Standard Workers' Comp (66 2/3%). No broad 100% salary continuation statute for state COs assaulted by inmates; must use accrued leave to keep paycheck whole.
+**Job Security:** Protected by strict "Just Cause" via the MFPE CBA, including binding arbitration.
+**Seniority Bidding:** Yes. A "bid book" system is used where shift, post, and days-off assignments are heavily influenced by seniority, subject to management override for operational needs.
