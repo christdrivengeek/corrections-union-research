@@ -56,3 +56,10 @@ None captured
 
 ---
 *Report Generated: 2026-08-23 00:03:38 | Target: New Staff Onboarding Presentation*
+
+## 5. Deep Dive: Overtime, Assault Pay, & Security
+
+**Mandatory Overtime:** Capped at a maximum of eight (8) hours per week via a Teamsters Local 117 MOU to combat fatigue.
+**Assault / Line-of-Duty Injury Pay:** 100% Pay. "Assault Benefits" top off standard L&I workers' comp so the officer receives 100% of their base salary for up to 365 days.
+**Job Security:** Protected by strict "Just Cause". The DOC must adhere to the "Seven Tests of Just Cause" enforced by the union contract.
+**Seniority Bidding:** Yes. Seniority is the primary determining factor for shift bidding and post assignments, conducted in a structured, transparent manner.

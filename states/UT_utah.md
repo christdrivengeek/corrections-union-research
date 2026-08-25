@@ -29,3 +29,10 @@ Employees advance through a 10-step certified pay plan. UDC also offers "1 for 1
 
 * **Retirement System:** Utah Retirement Systems (URS)
 * **Plan Type:** `Hybrid or Defined Contribution` 
+
+## 5. Deep Dive: Overtime, Assault Pay, & Security
+
+**Mandatory Overtime:** No specific state laws or caps limiting hours. Overtime driven by operational needs. Once 480 hours of comp time is accrued, state must pay cash.
+**Assault / Line-of-Duty Injury Pay:** 100% Pay. Utah Code § 63A-17-512 guarantees 100% of regular monthly salary and benefits if injured by a criminal act.
+**Job Security:** "Just Cause" (career service status) after completing a one-year probationary period.
+**Seniority Bidding:** No state law or CBA enforcing seniority-based bidding. Specific policies granting strict rights are not formalized.

@@ -59,3 +59,10 @@ Correctional officers progress through a step pay plan with annual increases bas
 
 ---
 *Report Generated: 2026-08-22 23:12:53 | Target: New Staff Onboarding Presentation*
+
+## 5. Deep Dive: Overtime, Assault Pay, & Security
+
+**Mandatory Overtime:** No statutory or regulatory limits on hours. Overtime widely utilized to cover shortages.
+**Assault / Line-of-Duty Injury Pay:** 100% Pay. NCDAC Salary Continuation Plan pays 100% of pre-injury salary for up to two years for officers injured by violence or special hazards.
+**Job Security:** "Just Cause". Probationary employees are at-will, but after 12 months, officers attain career status protecting them from arbitrary dismissal.
+**Seniority Bidding:** No statewide bidding rights. Management retains ultimate authority to make assignments based on operational needs.

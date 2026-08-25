@@ -59,3 +59,10 @@ The pay scale is structured into steps with each step representing a 5% increase
 
 ---
 *Report Generated: 2026-08-22 23:30:58 | Target: New Staff Onboarding Presentation*
+
+## 5. Deep Dive: Overtime, Assault Pay, & Security
+
+**Mandatory Overtime:** Mandates assigned to the least senior employee. Protected from being mandated if it results in working more than two consecutive days of double shifts (16+ hours).
+**Assault / Line-of-Duty Injury Pay:** 100% Tax-Free Pay. Covered under the Heart and Lung Act (Act 193). The employer covers the difference from workers' comp and pays all medical expenses.
+**Job Security:** Protected by strict "Just Cause" and binding arbitration under the PSCOA CBA.
+**Seniority Bidding:** Yes. "Bid posts" are awarded strictly based on bargaining unit seniority, protected by Article 27 of the CBA.

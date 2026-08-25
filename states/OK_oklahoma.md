@@ -56,3 +56,10 @@ None captured
 
 ---
 *Report Generated: 2026-08-22 23:21:37 | Target: New Staff Onboarding Presentation*
+
+## 5. Deep Dive: Overtime, Assault Pay, & Security
+
+**Mandatory Overtime:** Systemic requirement due to running at 40-45% capacity. No strict limits or penalties paid to the officer for being forced to stay.
+**Assault / Line-of-Duty Injury Pay:** Standard Workers' Comp (TTD pays 70%). The ODOC Director can grant up to 45 additional days of sick leave to bridge the gap without draining personal leave.
+**Job Security:** Technically At-Will, but state employees have Civil Service protections giving them the right to appeal severe disciplinary actions, functioning similarly to just cause.
+**Seniority Bidding:** Utilizes seniority to guide shift bidding, but management retains the right to bypass it for operational needs.

@@ -29,3 +29,10 @@ The NH state classified salary system uses a 9-step pay matrix. Historically, re
 
 * **Retirement System:** New Hampshire Retirement System (NHRS)
 * **Plan Type:** `Defined Benefit Pension (Group II - Police and Fire)` 
+
+## 5. Deep Dive: Overtime, Assault Pay, & Security
+
+**Mandatory Overtime:** No statutory cap or hard limit. Refusal is a direct refusal of duty and results in discipline.
+**Assault / Line-of-Duty Injury Pay:** 100% Pay. Under RSA 21-I:43-a, injuries from a "hostile act" keep the officer on active payroll at full base salary without using accrued leave.
+**Job Security:** Protected by strict "Just Cause" via the SEA SEIU Local 1984 CBA, which overrides the state's at-will doctrine.
+**Seniority Bidding:** Yes. The CBA stipulates seniority is the primary factor for shift bidding and lateral transfers.

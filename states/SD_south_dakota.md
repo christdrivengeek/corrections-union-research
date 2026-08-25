@@ -56,3 +56,10 @@ None captured
 
 ---
 *Report Generated: 2026-08-22 23:44:15 | Target: New Staff Onboarding Presentation*
+
+## 5. Deep Dive: Overtime, Assault Pay, & Security
+
+**Mandatory Overtime:** No state laws or caps limiting mandatory overtime hours. Scheduling governed entirely by operational needs.
+**Assault / Line-of-Duty Injury Pay:** Standard Workers' Comp only. No automatic 100% wage replacement or line-of-duty disability pay.
+**Job Security:** Protected by "Just Cause" standards. State COs are classified employees under the state's Civil Service system.
+**Seniority Bidding:** No statewide statutory requirement or CBA guaranteeing shift or post bidding by seniority. Scheduling handled by facility leadership.

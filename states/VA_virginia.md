@@ -56,3 +56,10 @@ None captured
 
 ---
 *Report Generated: 2026-08-23 00:00:35 | Target: New Staff Onboarding Presentation*
+
+## 5. Deep Dive: Overtime, Assault Pay, & Security
+
+**Mandatory Overtime:** No statutory limits. Facilities heavily rely on 16-hour shifts to maintain minimum security standards.
+**Assault / Line-of-Duty Injury Pay:** Standard Workers' Comp only (66 2/3%). No automatic 100% salary continuation law for COs injured by inmate assault.
+**Job Security:** "Just Cause" protections once classified, with access to a formal grievance procedure. However, terminations for inmate abuse or criminal convictions bypass administrative hearings and go directly to Circuit Court.
+**Seniority Bidding:** No standardized statewide bidding. Management universally retains authority to override seniority bids based on the "needs of the department."

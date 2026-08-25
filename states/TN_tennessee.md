@@ -43,3 +43,10 @@ Tennessee state correctional officers work in a non-union system. They do not ha
 - [Tennessee Department of Correction Careers](https://www.tn.gov/correction)
 - [TSEA Online](https://tseaonline.org)
 - [RetireReadyTN / TCRS](https://treasury.tn.gov/Retirement/Information-and-Resources/TCRS-Overview)
+
+## 5. Deep Dive: Overtime, Assault Pay, & Security
+
+**Mandatory Overtime:** No laws capping maximum hours. Refusal is insubordination. Overtime pay doesn't kick in until exceeding 171 hours in a 28-day cycle.
+**Assault / Line-of-Duty Injury Pay:** Up to 28 days of 100% pay (TN Code § 8-50-111) without using personal sick leave. After 28 days, standard workers' comp (with up to 90 days of supplemental pay possible).
+**Job Security:** Protected by "Just Cause" (preferred service status under the TEAM Act) after passing probation.
+**Seniority Bidding:** No statewide mandate. Operational needs and mandatory coverage consistently take precedence over seniority preferences.
