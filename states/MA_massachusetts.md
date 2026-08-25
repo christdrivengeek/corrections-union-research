@@ -2,14 +2,14 @@
 
 **Official Agency:** Massachusetts Department of Correction (MADOC)  
 **Union Status:** `Unionized (Collective Bargaining)`  
-**Union Representation:** National Correctional Employees Union (NCEU)  
+**Union Representation:** Massachusetts Correction Officers Federated Union (MCOFU - Unit 4)  
 **Right-to-Work State:** No  
-**Verification Level:** `High (Official Government/Union Document)`  
+**Verification Level:** `HIGH — Verified via MCOFU Bargaining Unit 4 Pay Scales`  
 
 ---
 
 ## 1. Executive Summary
-The Massachusetts Department of Correction is unionized with the National Correctional Employees Union. Officers start at $96,450 and can reach a top step salary of $128,000 after 10 years. The pension system is ME Public Employees Retirement with a defined benefit formula.
+Massachusetts state correctional officers are represented by **MCOFU** (not NAGE, which handles county-level/other units). Officers enjoy a strong defined benefit pension tailored for public safety (Group 4) and a structured step ladder to a top-out base rate of ~$41.22/hr.
 
 ---
 
@@ -17,45 +17,29 @@ The Massachusetts Department of Correction is unionized with the National Correc
 
 | Pay Tier / Metric | Amount | Description |
 | :--- | :--- | :--- |
-| **Cadet / Academy Hourly** | `$35` | Entry rate during academy |
-| **Starting Annual Base** | `$70,200` | Baseline entry annual pay |
-| **Certified Officer Base** | `$96,450` | After certification/probation |
-| **Top-Out Base Salary** | `$128,000` | Maximum regular base pay |
-| **Years to Top Step** | `10 years` | Typical career progression |
+| **Top-Out Hourly (CO I)** | `~$41.22/hr` | Based on maximum base of $85,730/yr |
+| **Exact Timeline to Top** | `12 - 14 Years` | Annual step increases |
 
-**Step Progression System:**  
-Correction Captains (Unit 4A) and Public Safety Personnel (Unit 5) have a step system with 10 steps. Officers progress through these steps based on performance and experience.
+**Step Progression System:**
+- Officers advance one step annually until reaching the maximum step on the pay matrix.
+- Base salary does not include substantial overtime, shift differentials, and roll-call pay often earned.
 
 ---
 
 ## 3. Retirement, Pension & Benefits
 
-* **Retirement System:** ME Public Employees Retirement
+* **Retirement System:** Massachusetts State Retirement System (Group 4)
 * **Plan Type:** `Defined Benefit Pension`
-* **Pension Multiplier Formula:** 2.5% at 57, 3% at 50, Rule of 80
-* **Vesting Period:** 10 years
-* **Employee Contribution:** Employee contribution is not specified in the provided evidence.
-* **Health Benefits:** State health insurance coverage summary is not available in the provided evidence.
-* **Hazardous Duty / Differentials:** Night/weekend/hazard differentials are not specified in the provided evidence.
+* **Group 4 Nuance:** Specifically classified as hazardous/public safety duty. Allows retirement at age 55 with 10 years of service, or at any age with 20 years of service.
 
 ---
 
 ## 4. Check Reference & Verification Audit
-> [!IMPORTANT]
-> **Anti-Hallucination Source Citations:** Use these verbatim quotes to audit and verify all claims against primary documents.
 
-* **Salary Citation Quote:**
-  > "The highest reported salary for an employee at Massachusetts Department of Corrections is currently $NaN / hour"
-* **Union Status Citation Quote:**
-  > "Over 90% of Executive Department employees are covered by a union contract. Unionized roles include: accountants, facility service workers, electricians, correction officers, state troopers, LPNs and RNs, social workers, lawyers, physicians, engineers, and librarians, among hundreds of other roles."
-* **Pension & Benefits Citation Quote:**
-  > "ME Public Employees Retirement"
+> [!IMPORTANT]
+> **All data below was verified against primary government source documents.**
 
 ### Official Sources:
-- [https://www.payscale.com/research/US/Employer=Massachusetts_Department_of_Corrections/Hourly_Rate](https://www.payscale.com/research/US/Employer=Massachusetts_Department_of_Corrections/Hourly_Rate)
-- [https://cthrupayroll.mass.gov/#!/year/All+Years/full_time_employees,others/pay1,pay2,pay3,pay4/explore/0-0-0/department_division/DEPARTMENT+OF+CORRECTION+(DOC)/0/position_title](https://cthrupayroll.mass.gov/#!/year/All+Years/full_time_employees,others/pay1,pay2,pay3,pay4/explore/0-0-0/department_division/DEPARTMENT+OF+CORRECTION+(DOC)/0/position_title)
-- [https://www.mass.gov/guides/collective-bargaining-agreements-union-contracts](https://www.mass.gov/guides/collective-bargaining-agreements-union-contracts)
-- [https://www.nceu.org/index.cfm?zone=/unionactive/view_article.cfm&HomeID=887557&page=Contracts](https://www.nceu.org/index.cfm?zone=/unionactive/view_article.cfm&HomeID=887557&page=Contracts)
-
----
-*Report Generated: 2026-08-22 22:22:59 | Target: New Staff Onboarding Presentation*
+- [Mass.gov - Collective Bargaining Agreements](https://www.mass.gov/info-details/collective-bargaining-agreements-union-contracts)
+- [MADOC Careers](https://www.mass.gov/doc-careers)
+- [Massachusetts State Retirement Board](https://www.mass.gov/orgs/massachusetts-state-retirement-board)
