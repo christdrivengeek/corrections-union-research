@@ -61,3 +61,10 @@ The Missouri Department of Corrections has a step system where employees receive
 
 ---
 *Report Generated: 2026-08-22 22:41:12 | Target: New Staff Onboarding Presentation*
+
+## 5. Deep Dive: Overtime, Assault Pay, & Security
+
+**Mandatory Overtime:** No legal limits. Refusal is failure to perform job duties and typically results in termination.
+**Assault / Line-of-Duty Injury Pay:** Standard Workers' Comp only (66.67%). Missouri does not have a 100% salary continuation law for correctional officers.
+**Job Security:** Strictly "At-Will". A 2018 state law gutted the traditional state merit system, removing the requirement to prove "just cause" to terminate state employees.
+**Seniority Bidding:** Generally used by internal policy, but all bids are ultimately subject to the Warden's approval and operational needs, not a binding state mandate.

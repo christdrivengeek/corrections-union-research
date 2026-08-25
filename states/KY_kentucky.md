@@ -43,3 +43,10 @@ Kentucky state correctional officers are not unionized and do not have collectiv
 ### Official Sources:
 - [Kentucky Personnel Cabinet (Salary Schedules)](https://personnel.ky.gov)
 - [Kentucky Public Pensions Authority (KPPA)](https://kyret.ky.gov)
+
+## 5. Deep Dive: Overtime, Assault Pay, & Security
+
+**Mandatory Overtime:** No statutory limits. Refusal is insubordination. Kentucky does have a "Seventh-Day Rule" requiring overtime pay for all hours worked on the seventh consecutive day of a workweek.
+**Assault / Line-of-Duty Injury Pay:** Standard Workers' Comp only (66 2/3%). To get full pay, an officer must burn their own accumulated leave.
+**Job Security:** Protected under the state Merit System with "just cause" protections, though appeals go to a state personnel board rather than a union arbitrator.
+**Seniority Bidding:** Seniority is a primary factor in policy, but management retains the explicit right to override it based on operational needs or "surge staffing."

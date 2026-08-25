@@ -42,3 +42,10 @@ Indiana state employees do not have collective bargaining rights. Compensation r
 ### Official Sources:
 - [Indiana State Personnel Department / Work for Indiana](https://www.in.gov/spd/compensation/)
 - [Indiana Public Retirement System (INPRS)](https://www.in.gov/inprs/)
+
+## 5. Deep Dive: Overtime, Assault Pay, & Security
+
+**Mandatory Overtime:** No statutory limits. Frequently forced into 16-hour shifts as a strict condition of employment.
+**Assault / Line-of-Duty Injury Pay:** Standard Workers' Comp only (66.67%). No special 100% "line-of-duty" salary continuation exists for state correctional officers.
+**Job Security:** Strictly "At-Will". State COs are designated as unclassified employees and can be fired at the pleasure of the appointing authority.
+**Seniority Bidding:** No. IDOC does not use a department-wide, guaranteed seniority-based shift or post bidding system. Management assigns all posts based on operational need.

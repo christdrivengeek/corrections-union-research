@@ -59,3 +59,10 @@ Correction Officers progress through a step system with multiple pay steps.
 
 ---
 *Report Generated: 2026-08-22 21:21:15 | Target: New Staff Onboarding Presentation*
+
+## 5. Deep Dive: Overtime, Assault Pay, & Security
+
+**Mandatory Overtime:** General contractual limits dictate an employee cannot be forced to work more than two consecutive shifts (16 hours) or two consecutive days of double shifts unless there is a declared emergency.
+**Assault / Line-of-Duty Injury Pay:** 100% Pay. Under state statute (CGS §5-142(a)) and the NP-4 contract, if injured in an inmate assault, they receive 100% of their base salary/wage replacement while recovering.
+**Job Security:** Strict "Just Cause" and binding arbitration under the AFSCME NP-4 contract.
+**Seniority Bidding:** Foundational to the contract. Bidding for shift assignments, specific posts, and days off is directly awarded based on the officer's seniority.

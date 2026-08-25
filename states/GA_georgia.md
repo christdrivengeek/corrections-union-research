@@ -59,3 +59,10 @@ Correctional officers progress through a step system based on years of service a
 
 ---
 *Report Generated: 2026-08-22 21:38:52 | Target: New Staff Onboarding Presentation*
+
+## 5. Deep Dive: Overtime, Assault Pay, & Security
+
+**Mandatory Overtime:** No limits. Often compensated with "Compensatory Time" instead of cash.
+**Assault / Line-of-Duty Injury Pay:** 100% Pay. Under O.C.G.A. § 45-7-9, GDC officers injured due to a "willful act of violence" (inmate assault) are entitled to 100% of their regular compensation for up to 180 working days per incident.
+**Job Security:** Strictly "At-Will". The 1996 Georgia civil service reform dismantled merit system protections.
+**Seniority Bidding:** None. SOPs dictate that management alters shifts and posts at its sole discretion based strictly on the operational needs of the facility.

@@ -59,3 +59,10 @@ Semi-annual and annual adjustments to higher ranges are made until the Correctio
 
 ---
 *Report Generated: 2026-08-22 21:08:48 | Target: New Staff Onboarding Presentation*
+
+## 5. Deep Dive: Overtime, Assault Pay, & Security
+
+**Mandatory Overtime:** Capped at 80 hours per month by state code. The CCPOA union contract heavily regulates the rotation of "drafts/holdovers."
+**Assault / Line-of-Duty Injury Pay:** 100% Pay. The Enhanced Industrial Disability Leave (EIDL) program provides the equivalent of 100% of the officer's net take-home pay for inmate assaults.
+**Job Security:** Strict "Just Cause" protected by the CCPOA MOU and the Public Safety Officers Procedural Bill of Rights Act (PSOPBRA), including binding arbitration.
+**Seniority Bidding:** Heavily seniority-based "Post and Bid" (P&B) process dictates preferred shifts, days off, and specific posts.

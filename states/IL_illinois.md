@@ -56,3 +56,10 @@ None captured
 
 ---
 *Report Generated: 2026-08-22 21:51:25 | Target: New Staff Onboarding Presentation*
+
+## 5. Deep Dive: Overtime, Assault Pay, & Security
+
+**Mandatory Overtime:** AFSCME contract requires a strict "mandate checklist" for supervisors. If the employer fails to follow the contractual steps before mandating, the employee is generally not subject to discipline for refusing.
+**Assault / Line-of-Duty Injury Pay:** Under PEDA, eligible officers receive 100% of their full salary for up to 52 weeks if injured as a result of violence by inmates, without any deductions from sick/vacation leave.
+**Job Security:** Protected by strict "Just Cause" and binding arbitration.
+**Seniority Bidding:** Yes. Annual shift and post bidding is primarily based on seniority, governed by the master agreement and local supplemental agreements.

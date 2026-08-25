@@ -42,3 +42,10 @@ Iowa state correctional officers are represented by **AFSCME Council 61**. Howev
 - [Iowa DAS - Classification & Pay](https://das.iowa.gov/human-resources/classification-and-pay)
 - [Iowa DAS - Collective Bargaining Agreements](https://das.iowa.gov/human-resources/employee-labor-relations/collective-bargaining)
 - [IPERS Protection Occupation Benefits](https://www.ipers.org/members/protection-occupation)
+
+## 5. Deep Dive: Overtime, Assault Pay, & Security
+
+**Mandatory Overtime:** No legal limits in the state. 
+**Assault / Line-of-Duty Injury Pay:** Standard Workers' Comp only (80% of spendable weekly earnings). Iowa does not guarantee 100% salary continuation.
+**Job Security:** Due to 2017 amendments to Chapter 20 gutting collective bargaining for non-public safety employees (COs are excluded from public safety classification), their employment leans heavily toward At-Will.
+**Seniority Bidding:** Generally relies on a seniority-based bidding system shaped by policy, though management retains broad overrides for operational needs.

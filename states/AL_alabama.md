@@ -56,3 +56,10 @@ None captured
 
 ---
 *Report Generated: 2026-08-22 20:47:13 | Target: New Staff Onboarding Presentation*
+
+## 5. Deep Dive: Overtime, Assault Pay, & Security
+
+**Mandatory Overtime:** No statutory limits. ADOC heavily utilizes it for staffing shortages.
+**Assault / Line-of-Duty Injury Pay:** 100% Pay. Under Alabama Code § 36-21-13, officers injured in the line of duty receive 100% of their normal rate of pay for the duration of their recovery period without draining sick leave.
+**Job Security:** Protected by "Just Cause". Post-probationary officers are governed by the Alabama State Merit System.
+**Seniority Bidding:** No statewide mandate. Assignments are largely determined at the facility level by local management, who prioritize severe operational shortages over seniority preferences.

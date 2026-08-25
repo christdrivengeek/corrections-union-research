@@ -57,3 +57,10 @@ Employees advance through a step system based on years of service and performanc
 
 ---
 *Report Generated: 2026-08-22 21:59:49 | Target: New Staff Onboarding Presentation*
+
+## 5. Deep Dive: Overtime, Assault Pay, & Security
+
+**Mandatory Overtime:** The KOSE union agreement states officers generally cannot be mandated to work more than 12 hours in a 24-hour period, except in emergencies (up to 18 hours).
+**Assault / Line-of-Duty Injury Pay:** Standard Workers' Comp only (66.67%). No 100% "Assault Pay" statute exists.
+**Job Security:** Protected by "Just Cause" under the Kansas Civil Service Act and KOSE union agreement.
+**Seniority Bidding:** Bidding uses a weighted formula combining seniority (1 point per month of service), performance evaluations (8 points for Excellent), and experience on post.

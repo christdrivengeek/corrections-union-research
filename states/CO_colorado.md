@@ -40,3 +40,10 @@ Colorado state correctional officers (CO II) are represented by **Colorado WINS 
 ### Official Sources:
 - [Colorado DHR Compensation & Pay Plans](https://dhr.colorado.gov/compensation/pay-plans)
 - [Colorado WINS (COWINS) Union Portal](https://cowins.org/)
+
+## 5. Deep Dive: Overtime, Assault Pay, & Security
+
+**Mandatory Overtime:** No statutory limits. Under the Colorado WINS union agreement, "holdovers" are typically assigned on a rotating basis starting with the least senior employees.
+**Assault / Line-of-Duty Injury Pay:** Standard Workers' Comp only (66.7%). There is no 100% salary continuation law for correctional officers, though PTSD from a traumatic on-duty assault is covered.
+**Job Security:** Protected by "just cause" under the state personnel system and COWINS union.
+**Seniority Bidding:** Yes. COWINS contracts use seniority as a primary role in bidding for preferred shifts, posts, and days off to provide transparency over arbitrary management assignments.

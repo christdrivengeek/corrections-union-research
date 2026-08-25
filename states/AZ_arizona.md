@@ -42,3 +42,10 @@ Arizona state correctional officers operate in a non-union environment with no c
 - [State Personnel System Salary Schedules (ADOA)](https://hr.az.gov/salary-schedules)
 - [AZ State Jobs - Correctional Officer Postings](https://www.azstatejobs.gov/)
 - [PSPRS / CORP Official Site](https://www.psprs.com/)
+
+## 5. Deep Dive: Overtime, Assault Pay, & Security
+
+**Mandatory Overtime:** No limits. Frequent mandatory OT due to shortages.
+**Assault / Line-of-Duty Injury Pay:** A recent state law (A.R.S. § 38-961) created a Supplemental Benefits Plan. If injured in an assault, it pays the difference so the officer receives approximately 100% of their base salary while workers' comp pays the rest.
+**Job Security:** Recent legislative change (Sept 2024) transitioned them from at-will into the state's "covered service," giving them "just cause" protections, though not under a binding union arbitrator.
+**Seniority Bidding:** Not a right. ADCRR internal policy uses it informally, but management retains ultimate discretion over shift bidding.
