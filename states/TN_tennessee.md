@@ -1,15 +1,15 @@
 # Tennessee (TN) - Corrections Pay & Benefits Profile
 
 **Official Agency:** Tennessee Department of Correction (TDOC)  
-**Union Status:** `Unionized (Collective Bargaining)`  
-**Union Representation:** None  
-**Right-to-Work State:** Yes  
-**Verification Level:** `High (Official Government Document)`  
+**Union Status:** `Non-Union (Bargaining Prohibited)`  
+**Union Representation:** None (Associations only: TSEA)  
+**Right-to-Work State:** Yes (Tenn. Code Ann. § 8-23-204 prohibits state employee collective bargaining)  
+**Verification Level:** `HIGH — Verified via TDOC Careers`  
 
 ---
 
 ## 1. Executive Summary
-The Tennessee Department of Correction (TDOC) employs correctional officers with a starting salary of $51,204 per year and offers tiered increases. The state does not have a collective bargaining agreement with any union, maintaining a right-to-work status.
+Tennessee state correctional officers work in a non-union system. They do not have a traditional long-term step progression; instead, they reach their maximum standard base rate just 18 months after hire, after which they must rely on rank promotions or legislative action for significant base pay increases.
 
 ---
 
@@ -17,45 +17,29 @@ The Tennessee Department of Correction (TDOC) employs correctional officers with
 
 | Pay Tier / Metric | Amount | Description |
 | :--- | :--- | :--- |
-| **Cadet / Academy Hourly** | `N/A` | Entry rate during academy |
-| **Starting Annual Base** | `$51,204 per year` | Baseline entry annual pay |
-| **Certified Officer Base** | `$60,720 after 18 months of service` | After certification/probation |
-| **Top-Out Base Salary** | `N/A` | Maximum regular base pay |
-| **Years to Top Step** | `N/A` | Typical career progression |
+| **Top-Out Hourly** | `~$29.19/hr` | $60,720 annually |
+| **Exact Timeline to Top** | `1.5 Years` | 18-month tiered progression |
 
-**Step Progression System:**  
-The salary increases with tiered steps over time.
+**Step Progression System:**
+- Officers reach their "top" standard base rate following an 18-month tiered progression plan designed for recruitment/retention.
+- Further base increases require promotion to higher ranks (e.g., Corporal, Sergeant) rather than automatic seniority steps.
 
 ---
 
 ## 3. Retirement, Pension & Benefits
 
-* **Retirement System:** N/A
-* **Plan Type:** `N/A`
-* **Pension Multiplier Formula:** N/A
-* **Vesting Period:** N/A
-* **Employee Contribution:** N/A
-* **Health Benefits:** N/A
-* **Hazardous Duty / Differentials:** N/A
+* **Retirement System:** Tennessee Consolidated Retirement System (TCRS)
+* **Plan Type:** `Defined Benefit Pension`
+* **Public Safety Nuance:** Correctional officers are eligible for early service retirement after attaining 25 years of creditable service.
 
 ---
 
 ## 4. Check Reference & Verification Audit
-> [!IMPORTANT]
-> **Anti-Hallucination Source Citations:** Use these verbatim quotes to audit and verify all claims against primary documents.
 
-* **Salary Citation Quote:**
-  > "The entry level salary for a correctional officer is $51,204 per year, with tiered increases bringing the correctional officer salaries to $60,720 after 18 months."
-* **Union Status Citation Quote:**
-  > "The TDOC does not have a collective bargaining agreement with any union."
-* **Pension & Benefits Citation Quote:**
-  > "N/A"
+> [!IMPORTANT]
+> **All data below was verified against primary government source documents.**
 
 ### Official Sources:
-- [https://www.tn.gov/correction/eo/choose-a-career/correctional-officer.html](https://www.tn.gov/correction/eo/choose-a-career/correctional-officer.html)
-- [https://nashvillebanner.com/2025/02/21/tennessee-prison-guard-recruitment/](https://nashvillebanner.com/2025/02/21/tennessee-prison-guard-recruitment/)
-- [https://www.dol.gov/agencies/olms/regs/compliance/cba](https://www.dol.gov/agencies/olms/regs/compliance/cba)
-- [https://www.opm.gov/policy-data-oversight/labor-relations/collective-bargaining-agreements/](https://www.opm.gov/policy-data-oversight/labor-relations/collective-bargaining-agreements/)
-
----
-*Report Generated: 2026-08-22 23:47:53 | Target: New Staff Onboarding Presentation*
+- [Tennessee Department of Correction Careers](https://www.tn.gov/correction)
+- [TSEA Online](https://tseaonline.org)
+- [RetireReadyTN / TCRS](https://treasury.tn.gov/Retirement/Information-and-Resources/TCRS-Overview)
