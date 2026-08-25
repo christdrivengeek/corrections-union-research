@@ -56,3 +56,10 @@ None captured
 
 ---
 *Report Generated: 2026-08-22 22:49:22 | Target: New Staff Onboarding Presentation*
+
+## 5. Deep Dive: Overtime, Assault Pay, & Security
+
+**Mandatory Overtime:** No strict contractual cap on hours. Mandates assigned via inverse seniority list. If mandated in excess of 16 consecutive hours within a 24-hour period, they are compensated at double time (2x).
+**Assault / Line-of-Duty Injury Pay:** Standard Workers' Comp (66 2/3%). The contract only grants up to five (5) of the employee's normal working shifts at full 100% pay for a job-related injury before falling back to workers' comp.
+**Job Security:** Protected by "Just Cause". COs covered by the FOP Lodge 88 CBA are exempt from at-will rules once they complete probation.
+**Seniority Bidding:** Yes. Bidding for shifts is determined by classification seniority.
