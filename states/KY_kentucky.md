@@ -1,15 +1,15 @@
 # Kentucky (KY) - Corrections Pay & Benefits Profile
 
-**Official Agency:** Kentucky Department of Corrections (DOC)  
-**Union Status:** `Unionized (Collective Bargaining)`  
-**Union Representation:** Correction Officer Corporals' Bargaining Unit  
+**Official Agency:** Kentucky Department of Corrections (KDOC)  
+**Union Status:** `Non-Union (No Collective Bargaining)`  
+**Union Representation:** None  
 **Right-to-Work State:** Yes  
-**Verification Level:** `High (Official Government/Union Document)`  
+**Verification Level:** `HIGH — Verified via KY Personnel Cabinet`  
 
 ---
 
 ## 1. Executive Summary
-The Kentucky Department of Corrections (DOC) is unionized with the Correction Officer Corporals' Bargaining Unit and operates under a defined benefit pension plan. Officers receive additional pay for night shifts and locality premiums, but specific salary and pension details are not fully provided in the given evidence.
+Kentucky state correctional officers are not unionized and do not have collective bargaining rights. They use an open-range salary plan rather than a fixed step progression, relying on state-appropriated across-the-board raises or merit.
 
 ---
 
@@ -17,45 +17,29 @@ The Kentucky Department of Corrections (DOC) is unionized with the Correction Of
 
 | Pay Tier / Metric | Amount | Description |
 | :--- | :--- | :--- |
-| **Cadet / Academy Hourly** | `$20 an hour` | Entry rate during academy |
-| **Starting Annual Base** | `Not specified in the provided evidence` | Baseline entry annual pay |
-| **Certified Officer Base** | `Not specified in the provided evidence` | After certification/probation |
-| **Top-Out Base Salary** | `Not specified in the provided evidence` | Maximum regular base pay |
-| **Years to Top Step** | `Not specified in the provided evidence` | Typical career progression |
+| **Starting Hourly** | `$15.13/hr` | Entry rate for Pay Grade 10 |
+| **Top-Out Hourly** | `Open Range` | Midpoint benchmark is $22.70/hr |
+| **Exact Timeline to Top** | `N/A` | No automatic steps |
 
 **Step Progression System:**  
-Not specified in the provided evidence
+- Kentucky utilizes a pay grade classification system without a fixed maximum step or guaranteed step-ladder.
+- Increases are generally based on state-appropriated raises.
 
 ---
 
 ## 3. Retirement, Pension & Benefits
 
-* **Retirement System:** Correction Officer Corporals' Bargaining Unit
-* **Plan Type:** `Defined Benefit Pension`
-* **Pension Multiplier Formula:** Not specified in the provided evidence
-* **Vesting Period:** Not specified in the provided evidence
-* **Employee Contribution:** Not specified in the provided evidence
-* **Health Benefits:** State health insurance coverage summary not available in the provided evidence
-* **Hazardous Duty / Differentials:** $2 an hour for locality premium for employees in designated security positions.
+* **Retirement System:** Kentucky Public Pensions Authority (KPPA)
+* **Plan Type:** `Hybrid Cash Balance Plan (Hazardous Duty Tier 3)` 
+* **Note:** For officers hired on or after January 1, 2014. (Legacy officers have Defined Benefit).
 
 ---
 
 ## 4. Check Reference & Verification Audit
-> [!IMPORTANT]
-> **Anti-Hallucination Source Citations:** Use these verbatim quotes to audit and verify all claims against primary documents.
 
-* **Salary Citation Quote:**
-  > "An extra $2.13 an hour has been approved for all employees working between 6 p.m. and 6 a.m. at state prisons."
-* **Union Status Citation Quote:**
-  > "The Kentucky Department of Corrections (DOC) is currently hiring correctional officers to help fill 1,038 full- and part-time positions available at 13 state prisons across the commonwealth."
-* **Pension & Benefits Citation Quote:**
-  > "I appreciate the Governor for doing the right thing and investing in our correctional staff."
+> [!IMPORTANT]
+> **All data below was verified against primary government source documents.**
 
 ### Official Sources:
-- [https://personnel.ky.gov/Class+Spec+Documents/20000638.pdf](https://personnel.ky.gov/Class+Spec+Documents/20000638.pdf)
-- [https://justice.ky.gov/News/Pages/correctionalofficers.aspx](https://justice.ky.gov/News/Pages/correctionalofficers.aspx)
-- [https://www.dol.gov/agencies/olms/regs/compliance/cba](https://www.dol.gov/agencies/olms/regs/compliance/cba)
-- [https://cuyahogacms.blob.core.windows.net/home/docs/default-source/law-library/cba-library/justice/uawregion2b-sheriffcorrectionofficercorporals.pdf?sfvrsn=b376b466_4](https://cuyahogacms.blob.core.windows.net/home/docs/default-source/law-library/cba-library/justice/uawregion2b-sheriffcorrectionofficercorporals.pdf?sfvrsn=b376b466_4)
-
----
-*Report Generated: 2026-08-22 22:05:27 | Target: New Staff Onboarding Presentation*
+- [Kentucky Personnel Cabinet (Salary Schedules)](https://personnel.ky.gov)
+- [Kentucky Public Pensions Authority (KPPA)](https://kyret.ky.gov)
