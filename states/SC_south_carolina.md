@@ -64,3 +64,10 @@ Close Security Salary: $54,682-$55,704"
 
 ---
 *Report Generated: 2026-08-22 23:41:50 | Target: New Staff Onboarding Presentation*
+
+## 5. Deep Dive: Overtime, Assault Pay, & Security
+
+**Mandatory Overtime:** No state law capping consecutive hours. Mandatory overtime is a standard operational tool. No additional penalties applied to the state.
+**Assault / Line-of-Duty Injury Pay:** 100% Pay. SC Code § 8-11-40 grants administrative leave with full pay for up to 180 calendar days for physical attacks on duty.
+**Job Security:** Generally At-Will (unions are illegal in SC), but after probation, COs become "Covered Employees" under the State Employee Grievance Procedure Act, allowing them to appeal termination.
+**Seniority Bidding:** None. No union contracts exist to mandate strict seniority-based bidding. Governed solely by internal SCDC administrative policies.

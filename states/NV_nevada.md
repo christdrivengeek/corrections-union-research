@@ -56,3 +56,10 @@ None captured
 
 ---
 *Report Generated: 2026-08-22 22:51:51 | Target: New Staff Onboarding Presentation*
+
+## 5. Deep Dive: Overtime, Assault Pay, & Security
+
+**Mandatory Overtime:** No statutory limits. Due to high vacancy rates, heavy reliance on mandatory overtime is legal. Refusing is insubordination.
+**Assault / Line-of-Duty Injury Pay:** Standard Workers' Comp only (66.67%). No statutory 100% assault pay provision for state COs.
+**Job Security:** Protected by "Just Cause". State COs are public, classified employees and secure just cause protections after completing probation.
+**Seniority Bidding:** Yes. Driven heavily by seniority via the CBA, usually through an annual bid for preferred shifts and posts.

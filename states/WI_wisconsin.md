@@ -29,3 +29,10 @@ Progression milestones are traditionally set at 1, 2, 3, 5, 10, 15, and 20 years
 
 * **Retirement System:** Wisconsin Retirement System (WRS)
 * **Plan Type:** `Defined Benefit (Protective Occupation Status)` 
+
+## 5. Deep Dive: Overtime, Assault Pay, & Security
+
+**Mandatory Overtime:** Relies heavily on mandatory overtime. Departmental guidelines are frequently suspended citing "operational necessity." It is a condition of employment and refusal is insubordination.
+**Assault / Line-of-Duty Injury Pay:** 100% Pay. Wis. Stat. § 230.36 guarantees 100% "full pay" while recovering from injuries sustained directly from an inmate assault.
+**Job Security:** Protected by "Just Cause" via Wisconsin Civil Service laws once probation is passed. However, Act 10 stripped them of the right to bargain over these protections in a union contract.
+**Seniority Bidding:** Yes. Wis. Stat. § 301.03(5h) legally mandates the DOC to develop assignment policies that take seniority into account for bidding, subject to management override.

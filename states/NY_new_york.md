@@ -56,3 +56,10 @@ Not specified in the provided evidence
 
 ---
 *Report Generated: 2026-08-22 23:08:50 | Target: New Staff Onboarding Presentation*
+
+## 5. Deep Dive: Overtime, Assault Pay, & Security
+
+**Mandatory Overtime:** Mandated a maximum of four overtime shifts within a two-week pay period. If an officer is mandated beyond 16 consecutive hours, they are paid double time (2.0x).
+**Assault / Line-of-Duty Injury Pay:** 100% Pay. NY Correction Law § 27 and Article 14 of the CBA guarantee 100% full salary continuation for up to six months without charging personal leave banks.
+**Job Security:** Protected by strict "Just Cause" under NY Civil Service Law § 75 and Article 8 of the NYSCOPBA contract, including binding arbitration.
+**Seniority Bidding:** Yes. Seniority is a fundamental tenet heavily factored into shift and post bidding, established via local Labor-Management agreements.

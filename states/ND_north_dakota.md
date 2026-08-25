@@ -42,3 +42,10 @@ North Dakota is a right-to-work state where public employees (other than K-12 te
 ### Official Sources:
 - [North Dakota Office of Management and Budget (OMB)](https://www.omb.nd.gov)
 - [NDPERS Public Safety Retirement Plan](https://www.ndpers.nd.gov)
+
+## 5. Deep Dive: Overtime, Assault Pay, & Security
+
+**Mandatory Overtime:** No limits. ND DOCR heavily relies on mandatory overtime to maintain minimum safety staffing levels. No penalty for mandating.
+**Assault / Line-of-Duty Injury Pay:** Standard Workers' Comp only (66 2/3%). No specific statute granting 100% wage replacement.
+**Job Security:** Protected by "Just Cause". State COs fall under the state classified service, meaning they cannot be dismissed without just cause and have the right to appeal to a state personnel board.
+**Seniority Bidding:** No statewide statute or CBA mandating strict seniority-based bidding. Operational necessity routinely takes precedence over seniority.

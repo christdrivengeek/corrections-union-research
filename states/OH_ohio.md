@@ -44,3 +44,10 @@ Ohio state correctional officers are represented by **OCSEA (AFSCME Local 11)**.
 ### Official Sources:
 - [OCSEA 2024-2027 Contract & Wage Tables](https://ocsea.org/contract)
 - [Ohio DAS Classification & Pay Rate Tables](https://das.ohio.gov/employee-relations/classification-compensation)
+
+## 5. Deep Dive: Overtime, Assault Pay, & Security
+
+**Mandatory Overtime:** No universal cap. The State retains the right to mandate overtime. Refusal to work mandatory overtime is generally treated as insubordination and subject to discipline.
+**Assault / Line-of-Duty Injury Pay:** 100% Pay. Occupational Injury Leave (OIL) provides 100% of regular rate of pay for up to 960 hours (approx 24 weeks) if injured in an inmate assault, entirely bypassing the lower workers' comp rates.
+**Job Security:** Protected by strict "Just Cause". OCSEA contract requires progressive discipline and provides binding arbitration.
+**Seniority Bidding:** Yes. Shift assignments, regular days off, and specific posts are bid upon and awarded based on seniority (total length of continuous service).

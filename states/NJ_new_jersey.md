@@ -41,3 +41,10 @@ New Jersey state correctional police officers are unionized under **PBA Local 10
 ### Official Sources:
 - [NJ Civil Service Commission / NJDOC](https://www.nj.gov/csc/)
 - [NJ Division of Pensions and Benefits (PFRS)](https://www.state.nj.us/treasury/pensions/)
+
+## 5. Deep Dive: Overtime, Assault Pay, & Security
+
+**Mandatory Overtime:** No statutory caps. Legally permitted as a managerial prerogative. No financial penalties against the state for assigning it.
+**Assault / Line-of-Duty Injury Pay:** 100% Pay. P.L. 2017, c.93 supplements standard workers' comp so the officer receives 100% of their net wage for up to 12 months for an inmate assault.
+**Job Security:** Protected by "Just Cause" under the PBA Local 105 CBA, including Weingarten rights and binding arbitration.
+**Seniority Bidding:** Yes. Seniority is a primary factor for bidding on shifts and specific posts, though the state retains managerial prerogative to bypass it for operational effectiveness.
