@@ -29,3 +29,10 @@ Standard progression: Step 2 at 6 months; Steps 3-6 require 1 year in each step;
 
 * **Retirement System:** Vermont State Employees' Retirement System (VSERS)
 * **Plan Type:** `Defined Benefit Pension (Group G)` 
+
+## 5. Deep Dive: Overtime, Assault Pay, & Security
+
+**Mandatory Overtime:** A required condition of employment ("order in") heavily contested by VSEA. Refusal without a valid reason results in discipline.
+**Assault / Line-of-Duty Injury Pay:** 100% Pay. The "Assault Pay" provision (WCASP) supplements workers' comp so the officer receives 100% of their regular salary without drawing down sick leave banks.
+**Job Security:** Protected by "Just Cause" under the VSEA CBA. Includes access to formal grievance and arbitration through the Vermont Labor Relations Board.
+**Seniority Bidding:** Yes. The CBA stipulates shift and post bidding is primarily determined by seniority (COI becomes eligible after 12 months).

@@ -42,3 +42,10 @@ New Mexico state correctional officers are represented by **AFSCME Council 18**.
 ### Official Sources:
 - [NM SPO Labor Relations / CBAs](https://www.spo.state.nm.us/)
 - [New Mexico PERA](https://www.nmpera.org/)
+
+## 5. Deep Dive: Overtime, Assault Pay, & Security
+
+**Mandatory Overtime:** Assigned using a "bucket list" based on reverse agency seniority. The CBA mandates it be rotated fairly.
+**Assault / Line-of-Duty Injury Pay:** Standard Workers' Comp only (66 2/3%). However, state law (NMSA § 10-11-6.1) allows injured officers to continue accruing PERA retirement service credit as if they were receiving full pay.
+**Job Security:** Protected by "Just Cause". Probationary employees are at-will for one year, but then attain "career status" granting them just cause protections and the right to appeal.
+**Seniority Bidding:** Yes. Explicitly protected under the AFSCME Council 18 CBA. Bidding for shifts and posts is conducted based on agency seniority.
