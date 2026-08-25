@@ -42,3 +42,10 @@ The salary schedule includes multiple classes (e.g., CO-04, CO-06). Progression 
 - [Hawaii DHRD Salary Schedules for BU 10](https://dhrd.hawaii.gov/state-hr-professionals/classification-and-compensation/salary-schedules/)
 - [United Public Workers (UPW Unit 10)](https://www.upwhawaii.org/)
 - [Hawaii ERS Pension](https://ers.ehawaii.gov/)
+
+## 5. Deep Dive: Overtime, Assault Pay, & Security
+
+**Mandatory Overtime:** Chronically forced 16-24 hour shifts. CBA requires 10-minute breaks for every 2 hours of OT.
+**Assault / Line-of-Duty Injury Pay:** Standard Workers' Comp (66 2/3%). Employees can burn sick/vacation leave to supplement it to 100%. The UPW contract does enforce Temporary Hazard Pay (THP) for severely hazardous conditions.
+**Job Security:** Protected by strict "Just and Proper Cause". Arbitrators rigorously apply the 7-part Daugherty Test for discipline.
+**Seniority Bidding:** Yes. The UPW contract outlines a formal bidding process based on seniority for preferred shifts and posts.
