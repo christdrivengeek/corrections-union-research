@@ -54,3 +54,21 @@ We are actively auditing the detailed policy manuals and union contracts for 10 
 **2. Assault / Line-of-Duty Injury Pay:** 100% Full Wages. State law (MCL 791.263a) championed by the union guarantees that if injured by a prisoner assault, the state supplements workers comp so the officer continues receiving full pay and fringe benefits.
 **3. Job Security:** Strict "Just Cause". Includes powerful due-process rights like the right to view any video evidence of an incident *before* being interrogated by Internal Affairs.
 **4. Seniority Bidding:** Historically heavily protected, though a 2017 Civil Service Commission ruling weakened it. However, the union still enforces localized policies heavily favoring seniority for shift preference.
+
+## Minnesota (MN) - Union (AFSCME Unit 8)
+**1. Mandatory Overtime:** Limits on forcing back-to-back. The contract penalizes the state with a $100 grievance payout directly to the officer if management violates the forcing order.
+**2. Assault / Line-of-Duty Injury Pay:** 100% Full Pay. The AFSCME contract guarantees that if assaulted by an inmate, the state pays the difference between workers comp and full base salary, without deducting from the officer's accrued sick leave or vacation time (up to 240 hours).
+**3. Job Security:** Strict "Just Cause". Protected from at-will firing. Disciplinary actions go to a neutral binding arbitrator.
+**4. Seniority Bidding:** Strict "Classification Seniority". Your time-in-service dictates priority for bidding on vacant posts, shift selection, shift exchanges, and vacation time.
+
+## Rhode Island (RI) - Union (RIBCO)
+**1. Mandatory Overtime:** Extreme penalties. Due to staffing crises causing excessive forcing, recent union/legislative pushes require the state to pay **2.5x (Double time and a half)** for forced overtime that violates limits or falls on scheduled days off.
+**2. Assault / Line-of-Duty Injury Pay:** Standard Workers' Comp. (Unlike MA or MI, the union is still fighting to get statutory 100% pay passed in the legislature).
+**3. Job Security:** Strict "Just Cause". Arbitrators in RI frequently review cases and have the authority to overturn firings.
+**4. Seniority Bidding:** Strong contractual seniority rights for bidding shifts, posts, and regular days off.
+
+## Oregon (OR) - Union (AFSCME / AOCE)
+**1. Mandatory Overtime:** Rotational bucket system to ensure fairness. Exemptions prohibit forcing an officer on their last shift before an approved vacation.
+**2. Assault / Line-of-Duty Injury Pay:** 100% Full Pay. Contracts negotiate "Assault Pay" to supplement workers comp so the officer receives full take-home pay without draining sick leave.
+**3. Job Security:** Strict "Just Cause" and binding arbitration.
+**4. Seniority Bidding:** Seniority is the primary factor dictating an officer's schedule, standard posts, and preferred days off during regular bidding cycles.
