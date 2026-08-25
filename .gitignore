@@ -1,4 +1,7 @@
-venv/\n__pycache__/\n*.log\nprogress.json
+venv/
+__pycache__/
+*.log
+progress.json
 IL_AFSCME_RC9_Contract.pdf
 states/IL/IL_AFSCME_RC6_Contract.pdf
 states/IL/IL_AFSCME_RC9_Contract.pdf
