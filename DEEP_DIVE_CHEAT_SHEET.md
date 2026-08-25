@@ -42,3 +42,15 @@ We are actively auditing the detailed policy manuals and union contracts for 10 
 **2. Assault / Line-of-Duty Injury Pay:** 100% Full Pay. State law and the union contract guarantee that if assaulted by an inmate, the state supplements workers comp to equal exactly 100% of your regular salary without docking any sick leave until you recover or retire.
 **3. Job Security:** Strict "Just Cause". Management must prove their case. If the union disagrees, they can take the state to binding arbitration where a neutral judge can overturn the termination.
 **4. Seniority Bidding:** A core pillar of the contract. Allocation of shifts, days off, facility transfers, and "job picks" are awarded strictly by seniority.
+
+## Texas (TX) - Non-Union
+**1. Mandatory Overtime:** Widespread use. Frequently forced into double shifts with no double-time penalty.
+**2. Assault / Line-of-Duty Injury Pay:** Standard Workers' Comp only (70-75%). Texas officers MUST burn their own accrued sick/vacation leave just to supplement the difference and get a full paycheck while recovering from an inmate assault.
+**3. Job Security:** Strictly "At-Will". The Personnel Manual explicitly states employment is not a contract and officers can be fired at any time for any legal reason.
+**4. Seniority Bidding:** None. Assignments are handled at the unit level entirely at the warden's discretion.
+
+## Michigan (MI) - Union (MCO)
+**1. Mandatory Overtime:** The "32-Hour Rule". The union contract restricts management from forcing an officer to work mandatory overtime within a 32-hour window of their last forced shift, giving them a guaranteed rest period.
+**2. Assault / Line-of-Duty Injury Pay:** 100% Full Wages. State law (MCL 791.263a) championed by the union guarantees that if injured by a prisoner assault, the state supplements workers comp so the officer continues receiving full pay and fringe benefits.
+**3. Job Security:** Strict "Just Cause". Includes powerful due-process rights like the right to view any video evidence of an incident *before* being interrogated by Internal Affairs.
+**4. Seniority Bidding:** Historically heavily protected, though a 2017 Civil Service Commission ruling weakened it. However, the union still enforces localized policies heavily favoring seniority for shift preference.
