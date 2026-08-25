@@ -1,0 +1,1695 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr" prefix="og: https://ogp.me/ns#" x-data="{ keyboardNavigation: false, isTouchDevice: false }" x-init="isTouchDevice = &#039;ontouchstart&#039; in window || navigator.maxTouchPoints &gt; 0" @keyup.tab.window="keyboardNavigation = true" @mousemove="if (keyboardNavigation) keyboardNavigation = false">
+  <head>
+    <meta charset="utf-8" />
+<noscript><style>form.antibot > * { display: none !important; } form.antibot noscript { display: block !important; }</style>
+</noscript><link rel="shortlink" href="https://afscmemd.org/sites/afscme/files/MD-State-Contract-2024-2026.pdf" />
+<link rel="canonical" href="https://afscmemd.org/sites/afscme/files/MD-State-Contract-2024-2026.pdf" />
+<link rel="image_src" href="https://afscmemd.org/sites/default/files/styles/image_media_large/public/2024-11/MD%20Council%203%20Logos3%20-%202C%20-%20web.png.webp?itok=53096KV1" />
+<meta property="og:site_name" content="AFSCME Maryland Council 3" />
+<meta property="og:url" content="https://afscmemd.org/sites/afscme/files/MD-State-Contract-2024-2026.pdf" />
+<meta property="og:title" content="Page not found" />
+<meta property="og:image" content="https://afscmemd.org/sites/default/files/styles/image_media_large/public/2024-11/MD%20Council%203%20Logos3%20-%202C%20-%20web.png.webp?itok=53096KV1" />
+<meta name="twitter:title" content="Page not found | AFSCME Maryland Council 3" />
+<meta name="twitter:image" content="https://afscmemd.org/sites/default/files/styles/image_media_large/public/2024-11/MD%20Council%203%20Logos3%20-%202C%20-%20web.png.webp?itok=53096KV1" />
+<meta name="Generator" content="Drupal 11 (https://www.drupal.org)" />
+<meta name="MobileOptimized" content="width" />
+<meta name="HandheldFriendly" content="true" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<style>:root {--uh-font-size: 16px; --uh-font-body: Roboto, sans-serif; --uh-font-header: Roboto, sans-serif; --uh-color-white: 255 255 255; --uh-color-gray: 75 75 75; --uh-color-black: 29 39 49; --uh-color-primary: 0 93 170; --uh-color-primary-dark: 1 77 141; --uh-color-secondary: 0 169 79; --uh-color-secondary-dark: 2 146 69; --uh-color-accent-1: 0 169 79; --uh-color-accent-1-dark: 2 146 69; --uh-color-accent-2: 104 134 82; --uh-color-accent-2-dark: 0 20 38; --uh-color-neutral-1: 237 237 237; --uh-color-neutral-2: 239 239 239; }</style>
+<script type="application/ld+json">{
+    "@context": "https://schema.org",
+    "@type": "WebSite",
+    "name": "AFSCME Maryland Council 3",
+    "url": "https://afscmemd.org"
+}</script>
+<link rel="icon" href="/sites/default/files/2023-08/afscme-favicon-32x32.png" type="image/vnd.microsoft.icon" />
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin="anonymous" />
+<link rel="preload" as="style" href="https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,300;0,400;0,500;0,700;1,300;1,400;1,500;1,700&amp;display=swap" />
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,300;0,400;0,500;0,700;1,300;1,400;1,500;1,700&amp;display=swap" />
+
+    <title>Page not found | AFSCME Maryland Council 3</title>
+    <link rel="stylesheet" media="all" href="/sites/default/files/css/css_-DCSq0beVkqF-ss-IRAnDOSeTDn7Nr5Brmh5Y1Xo_FQ.css?delta=0&amp;language=en&amp;theme=uh_tw&amp;include=eJxVjVEOQDAQBS9UeiRZ-rTLVsWuqNsT4cPnzMcMjTpkdJaQeYle2XBwQKN2CtQNZYMP276StDRR_YnAJCU6VBNe5s--6PRUQ_Y9KdyeOjv8WtSaKKUnefr38AJdpTFo" />
+<link rel="stylesheet" media="all" href="/sites/default/files/css/css_u47PuEnUCyYjjhQ8EoP4kYhPgTOyqMUk_c6oPt5AHts.css?delta=1&amp;language=en&amp;theme=uh_tw&amp;include=eJxVjVEOQDAQBS9UeiRZ-rTLVsWuqNsT4cPnzMcMjTpkdJaQeYle2XBwQKN2CtQNZYMP276StDRR_YnAJCU6VBNe5s--6PRUQ_Y9KdyeOjv8WtSaKKUnefr38AJdpTFo" />
+<style>.sr-only {
+  position: absolute;
+  width: 1px;
+  height: 1px;
+  padding: 0;
+  margin: -1px;
+  overflow: hidden;
+  clip: rect(0, 0, 0, 0);
+  white-space: nowrap;
+  border-width: 0;
+}
+.absolute {
+  position: absolute;
+}
+.relative {
+  position: relative;
+}
+.right-0 {
+  right: 0px;
+}
+.top-10 {
+  top: 2.5rem;
+}
+.z-10 {
+  z-index: 10;
+}
+.z-20 {
+  z-index: 20;
+}
+.z-50 {
+  z-index: 50;
+}
+.order-1 {
+  order: 1;
+}
+.order-2 {
+  order: 2;
+}
+.col-span-1 {
+  grid-column: span 1 / span 1;
+}
+.col-span-2 {
+  grid-column: span 2 / span 2;
+}
+.col-span-5 {
+  grid-column: span 5 / span 5;
+}
+.col-span-6 {
+  grid-column: span 6 / span 6;
+}
+.m-auto {
+  margin: auto;
+}
+.mx-4 {
+  margin-left: 1rem;
+  margin-right: 1rem;
+}
+.mx-auto {
+  margin-left: auto;
+  margin-right: auto;
+}
+.my-1 {
+  margin-top: 0.25rem;
+  margin-bottom: 0.25rem;
+}
+.my-4 {
+  margin-top: 1rem;
+  margin-bottom: 1rem;
+}
+.mb-6 {
+  margin-bottom: 1.5rem;
+}
+.mr-1 {
+  margin-right: 0.25rem;
+}
+.mr-6 {
+  margin-right: 1.5rem;
+}
+.mt-12 {
+  margin-top: 3rem;
+}
+.mt-4 {
+  margin-top: 1rem;
+}
+.mt-6 {
+  margin-top: 1.5rem;
+}
+.block {
+  display: block;
+}
+.inline-block {
+  display: inline-block;
+}
+.inline {
+  display: inline;
+}
+.flex {
+  display: flex;
+}
+.inline-flex {
+  display: inline-flex;
+}
+.grid {
+  display: grid;
+}
+.hidden {
+  display: none;
+}
+.h-0 {
+  height: 0px;
+}
+.h-4 {
+  height: 1rem;
+}
+.h-5 {
+  height: 1.25rem;
+}
+.h-6 {
+  height: 1.5rem;
+}
+.h-auto {
+  height: auto;
+}
+.h-full {
+  height: 100%;
+}
+.min-h-screen {
+  min-height: 100vh;
+}
+.w-1\/5 {
+  width: 20%;
+}
+.w-12 {
+  width: 3rem;
+}
+.w-28 {
+  width: 7rem;
+}
+.w-3\/5 {
+  width: 60%;
+}
+.w-4 {
+  width: 1rem;
+}
+.w-4\/5 {
+  width: 80%;
+}
+.w-5 {
+  width: 1.25rem;
+}
+.w-6 {
+  width: 1.5rem;
+}
+.w-60 {
+  width: 15rem;
+}
+.w-7 {
+  width: 1.75rem;
+}
+.w-full {
+  width: 100%;
+}
+.max-w-4xl {
+  max-width: 56rem;
+}
+.max-w-md {
+  max-width: 28rem;
+}
+.max-w-none {
+  max-width: none;
+}
+.shrink-0 {
+  flex-shrink: 0;
+}
+.flex-grow {
+  flex-grow: 1;
+}
+.origin-bottom-left {
+  transform-origin: bottom left;
+}
+.-rotate-12 {
+  --tw-rotate: -12deg;
+  transform: translate(var(--tw-translate-x), var(--tw-translate-y)) rotate(var(--tw-rotate)) skewX(var(--tw-skew-x)) skewY(var(--tw-skew-y)) scaleX(var(--tw-scale-x)) scaleY(var(--tw-scale-y));
+}
+.rotate-0 {
+  --tw-rotate: 0deg;
+  transform: translate(var(--tw-translate-x), var(--tw-translate-y)) rotate(var(--tw-rotate)) skewX(var(--tw-skew-x)) skewY(var(--tw-skew-y)) scaleX(var(--tw-scale-x)) scaleY(var(--tw-scale-y));
+}
+.rotate-180 {
+  --tw-rotate: 180deg;
+  transform: translate(var(--tw-translate-x), var(--tw-translate-y)) rotate(var(--tw-rotate)) skewX(var(--tw-skew-x)) skewY(var(--tw-skew-y)) scaleX(var(--tw-scale-x)) scaleY(var(--tw-scale-y));
+}
+.rotate-45 {
+  --tw-rotate: 45deg;
+  transform: translate(var(--tw-translate-x), var(--tw-translate-y)) rotate(var(--tw-rotate)) skewX(var(--tw-skew-x)) skewY(var(--tw-skew-y)) scaleX(var(--tw-scale-x)) scaleY(var(--tw-scale-y));
+}
+.transform {
+  transform: translate(var(--tw-translate-x), var(--tw-translate-y)) rotate(var(--tw-rotate)) skewX(var(--tw-skew-x)) skewY(var(--tw-skew-y)) scaleX(var(--tw-scale-x)) scaleY(var(--tw-scale-y));
+}
+.cursor-pointer {
+  cursor: pointer;
+}
+.grid-cols-1 {
+  grid-template-columns: repeat(1, minmax(0, 1fr));
+}
+.grid-cols-6 {
+  grid-template-columns: repeat(6, minmax(0, 1fr));
+}
+.flex-row {
+  flex-direction: row;
+}
+.flex-col {
+  flex-direction: column;
+}
+.flex-wrap {
+  flex-wrap: wrap;
+}
+.items-center {
+  align-items: center;
+}
+.justify-start {
+  justify-content: flex-start;
+}
+.justify-end {
+  justify-content: flex-end;
+}
+.justify-center {
+  justify-content: center;
+}
+.justify-evenly {
+  justify-content: space-evenly;
+}
+.justify-items-start {
+  justify-items: start;
+}
+.gap-2 {
+  gap: 0.5rem;
+}
+.divide-x > :not([hidden]) ~ :not([hidden]) {
+  --tw-divide-x-reverse: 0;
+  border-right-width: calc(1px * var(--tw-divide-x-reverse));
+  border-left-width: calc(1px * calc(1 - var(--tw-divide-x-reverse)));
+}
+.self-center {
+  align-self: center;
+}
+.justify-self-end {
+  justify-self: end;
+}
+.overflow-hidden {
+  overflow: hidden;
+}
+.whitespace-nowrap {
+  white-space: nowrap;
+}
+.rounded-2xl {
+  border-radius: 1rem;
+}
+.rounded-lg {
+  border-radius: 0.5rem;
+}
+.rounded-md {
+  border-radius: 0.375rem;
+}
+.\!border-0 {
+  border-width: 0px !important;
+}
+.border {
+  border-width: 1px;
+}
+.border-0 {
+  border-width: 0px;
+}
+.border-4 {
+  border-width: 4px;
+}
+.border-l {
+  border-left-width: 1px;
+}
+.border-t {
+  border-top-width: 1px;
+}
+.border-t-2 {
+  border-top-width: 2px;
+}
+.border-solid {
+  border-style: solid;
+}
+.border-none {
+  border-style: none;
+}
+.border-gray-300 {
+  --tw-border-opacity: 1;
+  border-color: rgb(209 213 219 / var(--tw-border-opacity));
+}
+.border-uh-black {
+  --tw-border-opacity: 1;
+  border-color: rgb(var(--uh-color-black) / var(--tw-border-opacity));
+}
+.border-uh-black\/60 {
+  border-color: rgb(var(--uh-color-black) / 0.6);
+}
+.border-uh-neutral-2 {
+  --tw-border-opacity: 1;
+  border-color: rgb(var(--uh-color-neutral-2) / var(--tw-border-opacity));
+}
+.border-uh-primary {
+  --tw-border-opacity: 1;
+  border-color: rgb(var(--uh-color-primary) / var(--tw-border-opacity));
+}
+.border-opacity-20 {
+  --tw-border-opacity: 0.2;
+}
+.border-opacity-5 {
+  --tw-border-opacity: 0.05;
+}
+.bg-gray-500 {
+  --tw-bg-opacity: 1;
+  background-color: rgb(107 114 128 / var(--tw-bg-opacity));
+}
+.bg-uh-accent-1 {
+  --tw-bg-opacity: 1;
+  background-color: rgb(var(--uh-color-accent-1) / var(--tw-bg-opacity));
+}
+.bg-uh-black {
+  --tw-bg-opacity: 1;
+  background-color: rgb(var(--uh-color-black) / var(--tw-bg-opacity));
+}
+.bg-uh-black\/5 {
+  background-color: rgb(var(--uh-color-black) / 0.05);
+}
+.bg-uh-primary {
+  --tw-bg-opacity: 1;
+  background-color: rgb(var(--uh-color-primary) / var(--tw-bg-opacity));
+}
+.bg-uh-secondary {
+  --tw-bg-opacity: 1;
+  background-color: rgb(var(--uh-color-secondary) / var(--tw-bg-opacity));
+}
+.bg-uh-white {
+  --tw-bg-opacity: 1;
+  background-color: rgb(var(--uh-color-white) / var(--tw-bg-opacity));
+}
+.bg-opacity-5 {
+  --tw-bg-opacity: 0.05;
+}
+.bg-cover {
+  background-size: cover;
+}
+.fill-current {
+  fill: currentColor;
+}
+.p-2 {
+  padding: 0.5rem;
+}
+.p-4 {
+  padding: 1rem;
+}
+.p-6 {
+  padding: 1.5rem;
+}
+.p-8 {
+  padding: 2rem;
+}
+.px-10 {
+  padding-left: 2.5rem;
+  padding-right: 2.5rem;
+}
+.px-2 {
+  padding-left: 0.5rem;
+  padding-right: 0.5rem;
+}
+.px-4 {
+  padding-left: 1rem;
+  padding-right: 1rem;
+}
+.px-6 {
+  padding-left: 1.5rem;
+  padding-right: 1.5rem;
+}
+.px-8 {
+  padding-left: 2rem;
+  padding-right: 2rem;
+}
+.py-1 {
+  padding-top: 0.25rem;
+  padding-bottom: 0.25rem;
+}
+.py-12 {
+  padding-top: 3rem;
+  padding-bottom: 3rem;
+}
+.py-2 {
+  padding-top: 0.5rem;
+  padding-bottom: 0.5rem;
+}
+.py-4 {
+  padding-top: 1rem;
+  padding-bottom: 1rem;
+}
+.pl-2 {
+  padding-left: 0.5rem;
+}
+.pl-4 {
+  padding-left: 1rem;
+}
+.pr-2 {
+  padding-right: 0.5rem;
+}
+.pr-4 {
+  padding-right: 1rem;
+}
+.pt-2 {
+  padding-top: 0.5rem;
+}
+.pt-8 {
+  padding-top: 2rem;
+}
+.text-center {
+  text-align: center;
+}
+.font-body {
+  font-family: var(--uh-font-body);
+}
+.font-header {
+  font-family: var(--uh-font-header);
+}
+.text-base {
+  font-size: 1rem;
+}
+.text-lg {
+  font-size: 1.125rem;
+}
+.text-sm {
+  font-size: 0.875rem;
+}
+.text-xs {
+  font-size: 0.75rem;
+}
+.font-bold {
+  font-weight: 700;
+}
+.font-semibold {
+  font-weight: 600;
+}
+.uppercase {
+  text-transform: uppercase;
+}
+.normal-case {
+  text-transform: none;
+}
+.leading-none {
+  line-height: 1;
+}
+.text-branding-error {
+  --tw-text-opacity: 1;
+  color: rgb(248 113 113 / var(--tw-text-opacity));
+}
+.text-branding-outer-space {
+  --tw-text-opacity: 1;
+  color: rgb(55 58 58 / var(--tw-text-opacity));
+}
+.text-gray-700 {
+  --tw-text-opacity: 1;
+  color: rgb(55 65 81 / var(--tw-text-opacity));
+}
+.text-uh-accent-2 {
+  --tw-text-opacity: 1;
+  color: rgb(var(--uh-color-accent-2) / var(--tw-text-opacity));
+}
+.text-uh-black {
+  --tw-text-opacity: 1;
+  color: rgb(var(--uh-color-black) / var(--tw-text-opacity));
+}
+.text-uh-neutral-2 {
+  --tw-text-opacity: 1;
+  color: rgb(var(--uh-color-neutral-2) / var(--tw-text-opacity));
+}
+.text-uh-primary {
+  --tw-text-opacity: 1;
+  color: rgb(var(--uh-color-primary) / var(--tw-text-opacity));
+}
+.text-uh-primary-dark {
+  --tw-text-opacity: 1;
+  color: rgb(var(--uh-color-primary-dark) / var(--tw-text-opacity));
+}
+.text-uh-white {
+  --tw-text-opacity: 1;
+  color: rgb(var(--uh-color-white) / var(--tw-text-opacity));
+}
+.underline {
+  text-decoration-line: underline;
+}
+.antialiased {
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+.opacity-70 {
+  opacity: 0.7;
+}
+.bg-blend-multiply {
+  background-blend-mode: multiply;
+}
+.shadow-sm {
+  --tw-shadow: 0 1px 2px 0 rgb(0 0 0 / 0.05);
+  --tw-shadow-colored: 0 1px 2px 0 var(--tw-shadow-color);
+  box-shadow: var(--tw-ring-offset-shadow, 0 0 #0000), var(--tw-ring-shadow, 0 0 #0000), var(--tw-shadow);
+}
+.shadow-xl {
+  --tw-shadow: 0 20px 25px -5px rgb(0 0 0 / 0.1), 0 8px 10px -6px rgb(0 0 0 / 0.1);
+  --tw-shadow-colored: 0 20px 25px -5px var(--tw-shadow-color), 0 8px 10px -6px var(--tw-shadow-color);
+  box-shadow: var(--tw-ring-offset-shadow, 0 0 #0000), var(--tw-ring-shadow, 0 0 #0000), var(--tw-shadow);
+}
+.transition {
+  transition-property: color, background-color, border-color, text-decoration-color, fill, stroke, opacity, box-shadow, transform, filter, -webkit-backdrop-filter;
+  transition-property: color, background-color, border-color, text-decoration-color, fill, stroke, opacity, box-shadow, transform, filter, backdrop-filter;
+  transition-property: color, background-color, border-color, text-decoration-color, fill, stroke, opacity, box-shadow, transform, filter, backdrop-filter, -webkit-backdrop-filter;
+  transition-timing-function: cubic-bezier(0.4, 0, 0.2, 1);
+  transition-duration: 150ms;
+}
+.transition-all {
+  transition-property: all;
+  transition-timing-function: cubic-bezier(0.4, 0, 0.2, 1);
+  transition-duration: 150ms;
+}
+.transition-colors {
+  transition-property: color, background-color, border-color, text-decoration-color, fill, stroke;
+  transition-timing-function: cubic-bezier(0.4, 0, 0.2, 1);
+  transition-duration: 150ms;
+}
+.duration-150 {
+  transition-duration: 150ms;
+}
+.duration-300 {
+  transition-duration: 300ms;
+}
+.duration-700 {
+  transition-duration: 700ms;
+}
+.ease-in-out {
+  transition-timing-function: cubic-bezier(0.4, 0, 0.2, 1);
+}
+.first\:pl-0:first-child {
+  padding-left: 0px;
+}
+.hover\:bg-gray-300:hover {
+  --tw-bg-opacity: 1;
+  background-color: rgb(209 213 219 / var(--tw-bg-opacity));
+}
+.hover\:bg-uh-accent-1-dark:hover {
+  --tw-bg-opacity: 1;
+  background-color: rgb(var(--uh-color-accent-1-dark) / var(--tw-bg-opacity));
+}
+.hover\:bg-uh-black\/10:hover {
+  background-color: rgb(var(--uh-color-black) / 0.1);
+}
+.hover\:bg-uh-black\/5:hover {
+  background-color: rgb(var(--uh-color-black) / 0.05);
+}
+.hover\:bg-opacity-10:hover {
+  --tw-bg-opacity: 0.1;
+}
+.hover\:transition-opacity:hover {
+  transition-property: opacity;
+  transition-timing-function: cubic-bezier(0.4, 0, 0.2, 1);
+  transition-duration: 150ms;
+}
+.focus\:border-branding-outer-space:focus {
+  --tw-border-opacity: 1;
+  border-color: rgb(55 58 58 / var(--tw-border-opacity));
+}
+.focus\:outline-none:focus {
+  outline: 2px solid transparent;
+  outline-offset: 2px;
+}
+.focus\:ring-branding-outer-space:focus {
+  --tw-ring-opacity: 1;
+  --tw-ring-color: rgb(55 58 58 / var(--tw-ring-opacity));
+}
+.prose-strong\:text-uh-white :is(:where(strong):not(:where([class~="not-prose"],[class~="not-prose"] *))) {
+  --tw-text-opacity: 1;
+  color: rgb(var(--uh-color-white) / var(--tw-text-opacity));
+}
+.prose-img\:m-0 :is(:where(img):not(:where([class~="not-prose"],[class~="not-prose"] *))) {
+  margin: 0px;
+}
+.prose-img\:my-1 :is(:where(img):not(:where([class~="not-prose"],[class~="not-prose"] *))) {
+  margin-top: 0.25rem;
+  margin-bottom: 0.25rem;
+}
+.prose-img\:mr-1 :is(:where(img):not(:where([class~="not-prose"],[class~="not-prose"] *))) {
+  margin-right: 0.25rem;
+}
+.prose-img\:w-20 :is(:where(img):not(:where([class~="not-prose"],[class~="not-prose"] *))) {
+  width: 5rem;
+}
+.prose-img\:w-full :is(:where(img):not(:where([class~="not-prose"],[class~="not-prose"] *))) {
+  width: 100%;
+}
+@media (min-width: 640px) {
+  .lg\:container {
+      max-width: 640px;
+    }  }
+
+@media (min-width: 768px) {
+  .lg\:container {
+      max-width: 768px;
+    }  }
+
+@media (min-width: 768px) {
+  .md\:absolute {
+    position: absolute;
+  }
+  .md\:sticky {
+    position: sticky;
+  }
+  .md\:left-0 {
+    left: 0px;
+  }
+  .md\:top-0 {
+    top: 0px;
+  }
+  .md\:top-full {
+    top: 100%;
+  }
+  .md\:z-10 {
+    z-index: 10;
+  }
+  .md\:mb-4 {
+    margin-bottom: 1rem;
+  }
+  .md\:block {
+    display: block;
+  }
+  .md\:flex {
+    display: flex;
+  }
+  .md\:grid {
+    display: grid;
+  }
+  .md\:hidden {
+    display: none;
+  }
+  .md\:w-1\/2 {
+    width: 50%;
+  }
+  .md\:w-auto {
+    width: auto;
+  }
+  .md\:w-full {
+    width: 100%;
+  }
+  .md\:grid-cols-2 {
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+  }
+  .md\:grid-cols-3 {
+    grid-template-columns: repeat(3, minmax(0, 1fr));
+  }
+  .md\:grid-cols-5 {
+    grid-template-columns: repeat(5, minmax(0, 1fr));
+  }
+  .md\:items-start {
+    align-items: flex-start;
+  }
+  .md\:gap-0 {
+    gap: 0px;
+  }
+  .md\:rounded-none {
+    border-radius: 0px;
+  }
+  .md\:border-none {
+    border-style: none;
+  }
+  .md\:bg-transparent {
+    background-color: transparent;
+  }
+  .md\:bg-uh-secondary {
+    --tw-bg-opacity: 1;
+    background-color: rgb(var(--uh-color-secondary) / var(--tw-bg-opacity));
+  }
+  .md\:\!pr-2 {
+    padding-right: 0.5rem !important;
+  }
+  .md\:text-sm {
+    font-size: 0.875rem;
+  }
+  .md\:shadow-none {
+    --tw-shadow: 0 0 #0000;
+    --tw-shadow-colored: 0 0 #0000;
+    box-shadow: var(--tw-ring-offset-shadow, 0 0 #0000), var(--tw-ring-shadow, 0 0 #0000), var(--tw-shadow);
+  }
+  .md\:transition-all {
+    transition-property: all;
+    transition-timing-function: cubic-bezier(0.4, 0, 0.2, 1);
+    transition-duration: 150ms;
+  }
+  .md\:duration-150 {
+    transition-duration: 150ms;
+  }
+  .md\:prose-img\:w-28 :is(:where(img):not(:where([class~="not-prose"],[class~="not-prose"] *))) {
+    width: 7rem;
+  }}
+
+@media (min-width: 1024px) {
+  .lg\:container {
+    width: 100%;
+  }
+  .lg\:grid {
+    display: grid;
+  }
+  .lg\:w-1\/3 {
+    width: 33.333333%;
+  }
+  .lg\:grid-cols-2 {
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+  }
+  .lg\:px-0 {
+    padding-left: 0px;
+    padding-right: 0px;
+  }}
+
+@media (min-width: 1024px) {
+  .lg\:container {
+      max-width: 1024px;
+    }  }
+
+@media (min-width: 1280px) {
+  .lg\:container {
+      max-width: 1280px;
+    }  }
+
+@media (min-width: 1280px) {
+  .xl\:w-1\/4 {
+    width: 25%;
+  }}
+
+@media (min-width: 1536px) {
+  .lg\:container {
+      max-width: 1536px;
+    }  }
+
+@media (min-width: 1792px) {
+  .lg\:container {
+      max-width: 1792px;
+    }  }
+
+</style><script src="/sites/default/files/tailwindcss_utility/tailwind.js"></script><script src="/themes/custom/uh_tw/build/tailwind-config-cdn.js"></script><script>tailwind.config.safelist = tailwind.config.safelist.concat(["[&amp;_div.link-wrapper]:flex","[&amp;_div.link-wrapper]:flex-grow","[&amp;_div.link-wrapper]:flex-row","[&amp;_div.link-wrapper]:items-center","[&amp;_div.link-wrapper]:justify-center","[&amp;_div.link-wrapper]:md:justify-start","[&amp;_div.link-wrapper]:md:w-auto","[&amp;_div.link-wrapper]:w-full","hover:bg-uh-primary-dark","hover:text-uh-neutral-1","prose-a:text-uh-white","prose-h4:mt-0"]);</script>
+<link rel="stylesheet" media="all" href="/sites/default/files/css/css_x9Sb6wUy4_iGZ88oweu4YqEWUxcUzZQi56NmZB6Keew.css?delta=3&amp;language=en&amp;theme=uh_tw&amp;include=eJxVjVEOQDAQBS9UeiRZ-rTLVsWuqNsT4cPnzMcMjTpkdJaQeYle2XBwQKN2CtQNZYMP276StDRR_YnAJCU6VBNe5s--6PRUQ_Y9KdyeOjv8WtSaKKUnefr38AJdpTFo" />
+
+    <script src="/libraries/fontawesome/js/brands.min.js?v=6.4.2" defer></script>
+<script src="/libraries/fontawesome/js/regular.min.js?v=6.4.2" defer></script>
+<script src="/libraries/fontawesome/js/solid.min.js?v=6.4.2" defer></script>
+<script src="/libraries/fontawesome/js/fontawesome.min.js?v=6.4.2" defer></script>
+
+  </head>
+  <body class="hide-gin-toolbar group/uh-site">
+        <a href="#main-content" class="visually-hidden focusable">
+      Skip to main content
+    </a>
+    
+      <div class="dialog-off-canvas-main-canvas" data-off-canvas-main-canvas>
+    
+  
+<div class="w-full mx-auto text-gray-700">
+
+    
+  
+
+  <div id="site-header" class="md:grid-cols-5 font-semibold relative z-50 inline" x-data="{ open: false }">
+    
+
+
+<!-- national menu -->
+<!-- ./national menu -->
+<div class="z-20 relative text-lg bg-uh-white md:sticky md:top-0">
+  <div class="lg:container mx-auto px-4 lg:px-0">
+    <!-- site logo -->
+    <div class="w-full relative md:grid md:grid-cols-2 z-20 p-2 justify-items-start">
+      <div class="site-branding self-center font-header font-bold uppercase ">
+<div class="flex items-center w-full">
+            <!-- mobile menu button -->
+    <div id="mobile-nav-button" class="flex justify-end order-2 w-1/5 md:hidden">
+            <button type="button" class="inline-flex items-center justify-center p-2 rounded-md" aria-controls="mobile-menu" x-on:click="open = !open" aria-expanded="false" x-bind:aria-expanded="open.toString()">
+        <span class="sr-only">Open main menu</span>
+        <svg x-description="Icon when menu is closed. Heroicon name: outline/menu" x-state:on="Menu open" x-state:off="Menu closed" class="block w-6 h-6" :class="{ 'hidden': open, 'block': !(open) }" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke="currentColor" aria-hidden="true">
+          <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M4 6h16M4 12h16M4 18h16"></path>
+        </svg>
+        <svg x-description="Icon when menu is open. Heroicon name: outline/x" x-state:on="Menu open" x-state:off="Menu closed" class="hidden w-6 h-6" :class="{ 'block': open, 'hidden': !(open) }" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke="currentColor" aria-hidden="true">
+          <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M6 18L18 6M6 6l12 12"></path>
+        </svg>
+      </button>
+          </div>
+    <!-- ./mobile menu button -->
+    <div class="w-4/5 md:w-full order-1">
+    <a class="flex w-full items-center" href="/">
+    		<div class="site-logo w-28 pr-2 prose prose-img:w-full prose-img:m-0 shrink-0">
+		  <picture>
+                  <source srcset="/sites/default/files/styles/logo/public/2024-11/MD%20Council%203%20Logos3%20-%202C%20-%20web.png.webp?itok=BQdJk24H 1x" media="all and (min-width: 1280px)" type="image/webp" width="400" height="288"/>
+              <source srcset="/sites/default/files/styles/logo/public/2024-11/MD%20Council%203%20Logos3%20-%202C%20-%20web.png.webp?itok=BQdJk24H 1x, /sites/default/files/styles/logo_2x/public/2024-11/MD%20Council%203%20Logos3%20-%202C%20-%20web.png.webp?itok=syvHoMOC 2x" media="all and (min-width: 1024px) and (max-width: 1279px)" type="image/webp" width="400" height="288"/>
+              <source srcset="/sites/default/files/styles/logo/public/2024-11/MD%20Council%203%20Logos3%20-%202C%20-%20web.png.webp?itok=BQdJk24H 1x, /sites/default/files/styles/logo_2x/public/2024-11/MD%20Council%203%20Logos3%20-%202C%20-%20web.png.webp?itok=syvHoMOC 2x" type="image/webp" width="400" height="288"/>
+                  <img src="/sites/default/files/styles/logo/public/2024-11/MD%20Council%203%20Logos3%20-%202C%20-%20web.png.webp?itok=BQdJk24H" alt="AFSCME Maryland Council 3" />
+
+  </picture>
+
+	</div>
+			<div class="site-name font-bold text-uh-black uppercase pl-4 border-l border-uh-black/60 border-solid">
+		            <div class="label">AFSCME Maryland Council 3</div>
+      
+	</div>
+	    </a>
+  </div>
+</div>
+
+
+</div>
+      <div class="justify-self-end hidden md:block">
+
+
+
+</div>
+    </div>
+    <!-- ./site logo -->
+
+    <!-- site menu -->
+    <div class="relative w-full justify-evenly flex items-center z-10 bg-uh-secondary text-base">
+      
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="hidden md:flex flex-row z-10 font-header uppercase font-bold w-full" x-data="{search_open : false}">
+
+      <div class="flex-grow">
+    
+
+
+  <ul class="menu hidden md:flex flex-wrap site-menu relative !border-0  !border-0 font-header uppercase text-uh-white hover:text-uh-neutral-1 justify-start">
+                          <li class="menu-item    flex hover:bg-uh-black/5 md:w-auto transition-all duration-150   ">
+    <a href="/contracts" class="flex py-2 px-2 whitespace-nowrap " data-drupal-link-system-path="node/1002782">Contracts</a>
+    </li>
+                                              <li class="menu-item menu-item--expanded relative   flex hover:bg-uh-black/5 md:w-auto transition-all duration-150   [&amp;_div.link-wrapper]:flex [&amp;_div.link-wrapper]:flex-grow [&amp;_div.link-wrapper]:flex-row [&amp;_div.link-wrapper]:w-full [&amp;_div.link-wrapper]:md:w-auto [&amp;_div.link-wrapper]:justify-center [&amp;_div.link-wrapper]:items-center md:transition-all md:duration-150 [&amp;_div.link-wrapper]:md:justify-start" x-data="{openSubmenu1 : false, ariaExpanded: false}" @mouseenter="if (!isTouchDevice) { if (window.innerWidth &gt; 769) { openSubmenu1 = true; } }" @mouseleave="if (!isTouchDevice) { if (window.innerWidth &gt; 769) { openSubmenu1 = false; } }" @resize.window="openSubmenu1 = false, openSubmenu2 = false" x-on:click.away="openSubmenu1 = false"
+          >
+      <div class='link-wrapper group'>
+        <a href="/join-us" class="flex py-2 px-2 whitespace-nowrap menu-level-1 md:!pr-2" data-drupal-link-system-path="node/1004432">Join Us</a>
+        <button @click="openSubmenu1 = !openSubmenu1"
+                :aria-expanded="openSubmenu1 ? 'true' : 'false'"
+                class="submenu-toggle w-12 flex justify-center items-center bg-uh-black border border-uh-black border-solid rounded-lg shadow-sm border-opacity-5 bg-opacity-5 hover:bg-opacity-10 mr-1 md:w-auto md:bg-transparent md:border-none md:rounded-none md:shadow-none"
+                @focusin="if (keyboardNavigation) { openSubmenu1 = false, openSubmenu2 = false }"
+                title="Expand section">
+                                        <i class="down-arrow">
+          <span class="">
+            <svg class="w-4 h-4 transition duration-150 ease-in-out transform fill-current "
+                 xmlns="http://www.w3.org/2000/svg"
+                 viewBox="0 0 20 20"
+                 :class="{ 'rotate-180': openSubmenu1 }">>
+              <path d="M9.293 12.95l.707.707L15.657 8l-1.414-1.414L10 10.828 5.757 6.586 4.343 8z"/>
+            </svg>
+          </span>
+          </i>
+                </button>
+      </div>
+    
+
+
+<ul
+            class="normal-case flex flex-col w-full md:z-10 md:w-auto md:absolute md:top-full md:left-0 md:transition-all md:duration-150 dropdown-1 bg-uh-primary text-uh-white hover:text-uh-neutral-1 "
+            x-show="openSubmenu1" x-transition:enter="md:transition md:ease-out md:duration-100"
+    x-transition:enter-start="md:transform md:opacity-0 md:scale-95"
+    x-transition:enter-end="md:transform md:opacity-100 md:scale-100"
+    x-transition:leave="md:transition md:ease-in md:duration-75"
+    x-transition:leave-start="md:transform md:opacity-100 md:scale-100"
+    x-transition:leave-end="md:transform md:opacity-0 md:scale-95"
+        style="display: none;">
+                        <li class="menu-item    flex  bg-uh-black/5 hover:bg-uh-black/10 md:items-start  md:transition-all md:duration-150  ">
+    <a href="https://afscmemdlibraryworkers.org/" class="flex py-2 px-2 whitespace-nowrap ">For Library Workers</a>
+    </li>
+                    <li class="menu-item    flex  bg-uh-black/5 hover:bg-uh-black/10 md:items-start  md:transition-all md:duration-150  ">
+    <a href="/form-union-afscme" class="flex py-2 px-2 whitespace-nowrap " data-drupal-link-system-path="node/158426">Form a Union</a>
+    </li>
+      </ul>
+
+    </li>
+                                              <li class="menu-item menu-item--expanded relative   flex hover:bg-uh-black/5 md:w-auto transition-all duration-150   [&amp;_div.link-wrapper]:flex [&amp;_div.link-wrapper]:flex-grow [&amp;_div.link-wrapper]:flex-row [&amp;_div.link-wrapper]:w-full [&amp;_div.link-wrapper]:md:w-auto [&amp;_div.link-wrapper]:justify-center [&amp;_div.link-wrapper]:items-center md:transition-all md:duration-150 [&amp;_div.link-wrapper]:md:justify-start" x-data="{openSubmenu1 : false, ariaExpanded: false}" @mouseenter="if (!isTouchDevice) { if (window.innerWidth &gt; 769) { openSubmenu1 = true; } }" @mouseleave="if (!isTouchDevice) { if (window.innerWidth &gt; 769) { openSubmenu1 = false; } }" @resize.window="openSubmenu1 = false, openSubmenu2 = false" x-on:click.away="openSubmenu1 = false"
+          >
+      <div class='link-wrapper group'>
+        <a href="/our-union" class="flex py-2 px-2 whitespace-nowrap menu-level-1 md:!pr-2" data-drupal-link-system-path="node/2902">Our Union</a>
+        <button @click="openSubmenu1 = !openSubmenu1"
+                :aria-expanded="openSubmenu1 ? 'true' : 'false'"
+                class="submenu-toggle w-12 flex justify-center items-center bg-uh-black border border-uh-black border-solid rounded-lg shadow-sm border-opacity-5 bg-opacity-5 hover:bg-opacity-10 mr-1 md:w-auto md:bg-transparent md:border-none md:rounded-none md:shadow-none"
+                @focusin="if (keyboardNavigation) { openSubmenu1 = false, openSubmenu2 = false }"
+                title="Expand section">
+                                        <i class="down-arrow">
+          <span class="">
+            <svg class="w-4 h-4 transition duration-150 ease-in-out transform fill-current "
+                 xmlns="http://www.w3.org/2000/svg"
+                 viewBox="0 0 20 20"
+                 :class="{ 'rotate-180': openSubmenu1 }">>
+              <path d="M9.293 12.95l.707.707L15.657 8l-1.414-1.414L10 10.828 5.757 6.586 4.343 8z"/>
+            </svg>
+          </span>
+          </i>
+                </button>
+      </div>
+    
+
+
+<ul
+            class="normal-case flex flex-col w-full md:z-10 md:w-auto md:absolute md:top-full md:left-0 md:transition-all md:duration-150 dropdown-1 bg-uh-primary text-uh-white hover:text-uh-neutral-1 "
+            x-show="openSubmenu1" x-transition:enter="md:transition md:ease-out md:duration-100"
+    x-transition:enter-start="md:transform md:opacity-0 md:scale-95"
+    x-transition:enter-end="md:transform md:opacity-100 md:scale-100"
+    x-transition:leave="md:transition md:ease-in md:duration-75"
+    x-transition:leave-start="md:transform md:opacity-100 md:scale-100"
+    x-transition:leave-end="md:transform md:opacity-0 md:scale-95"
+        style="display: none;">
+                        <li class="menu-item    flex  bg-uh-black/5 hover:bg-uh-black/10 md:items-start  md:transition-all md:duration-150  ">
+    <a href="/our-union/our-locals" class="flex py-2 px-2 whitespace-nowrap " data-drupal-link-system-path="node/1000954">Our Locals</a>
+    </li>
+                    <li class="menu-item    flex  bg-uh-black/5 hover:bg-uh-black/10 md:items-start  md:transition-all md:duration-150  ">
+    <a href="/our-union/leadership" class="flex py-2 px-2 whitespace-nowrap " data-drupal-link-system-path="node/1001073">Leadership</a>
+    </li>
+                    <li class="menu-item    flex  bg-uh-black/5 hover:bg-uh-black/10 md:items-start  md:transition-all md:duration-150  ">
+    <a href="/our-union/staff" class="flex py-2 px-2 whitespace-nowrap " data-drupal-link-system-path="node/1001074">Staff</a>
+    </li>
+                    <li class="menu-item    flex  bg-uh-black/5 hover:bg-uh-black/10 md:items-start  md:transition-all md:duration-150  ">
+    <a href="/our-union/governance" class="flex py-2 px-2 whitespace-nowrap " data-drupal-link-system-path="node/2912">Governance</a>
+    </li>
+                    <li class="menu-item    flex  bg-uh-black/5 hover:bg-uh-black/10 md:items-start  md:transition-all md:duration-150  ">
+    <a href="/our-union/careers-afscme" class="flex py-2 px-2 whitespace-nowrap " data-drupal-link-system-path="node/162401">Careers</a>
+    </li>
+      </ul>
+
+    </li>
+                                              <li class="menu-item menu-item--expanded relative   flex hover:bg-uh-black/5 md:w-auto transition-all duration-150   [&amp;_div.link-wrapper]:flex [&amp;_div.link-wrapper]:flex-grow [&amp;_div.link-wrapper]:flex-row [&amp;_div.link-wrapper]:w-full [&amp;_div.link-wrapper]:md:w-auto [&amp;_div.link-wrapper]:justify-center [&amp;_div.link-wrapper]:items-center md:transition-all md:duration-150 [&amp;_div.link-wrapper]:md:justify-start" x-data="{openSubmenu1 : false, ariaExpanded: false}" @mouseenter="if (!isTouchDevice) { if (window.innerWidth &gt; 769) { openSubmenu1 = true; } }" @mouseleave="if (!isTouchDevice) { if (window.innerWidth &gt; 769) { openSubmenu1 = false; } }" @resize.window="openSubmenu1 = false, openSubmenu2 = false" x-on:click.away="openSubmenu1 = false"
+          >
+      <div class='link-wrapper group'>
+        <a href="/updates" class="flex py-2 px-2 whitespace-nowrap menu-level-1 md:!pr-2" data-drupal-link-system-path="node/15772">Updates</a>
+        <button @click="openSubmenu1 = !openSubmenu1"
+                :aria-expanded="openSubmenu1 ? 'true' : 'false'"
+                class="submenu-toggle w-12 flex justify-center items-center bg-uh-black border border-uh-black border-solid rounded-lg shadow-sm border-opacity-5 bg-opacity-5 hover:bg-opacity-10 mr-1 md:w-auto md:bg-transparent md:border-none md:rounded-none md:shadow-none"
+                @focusin="if (keyboardNavigation) { openSubmenu1 = false, openSubmenu2 = false }"
+                title="Expand section">
+                                        <i class="down-arrow">
+          <span class="">
+            <svg class="w-4 h-4 transition duration-150 ease-in-out transform fill-current "
+                 xmlns="http://www.w3.org/2000/svg"
+                 viewBox="0 0 20 20"
+                 :class="{ 'rotate-180': openSubmenu1 }">>
+              <path d="M9.293 12.95l.707.707L15.657 8l-1.414-1.414L10 10.828 5.757 6.586 4.343 8z"/>
+            </svg>
+          </span>
+          </i>
+                </button>
+      </div>
+    
+
+
+<ul
+            class="normal-case flex flex-col w-full md:z-10 md:w-auto md:absolute md:top-full md:left-0 md:transition-all md:duration-150 dropdown-1 bg-uh-primary text-uh-white hover:text-uh-neutral-1 "
+            x-show="openSubmenu1" x-transition:enter="md:transition md:ease-out md:duration-100"
+    x-transition:enter-start="md:transform md:opacity-0 md:scale-95"
+    x-transition:enter-end="md:transform md:opacity-100 md:scale-100"
+    x-transition:leave="md:transition md:ease-in md:duration-75"
+    x-transition:leave-start="md:transform md:opacity-100 md:scale-100"
+    x-transition:leave-end="md:transform md:opacity-0 md:scale-95"
+        style="display: none;">
+                        <li class="menu-item    flex  bg-uh-black/5 hover:bg-uh-black/10 md:items-start  md:transition-all md:duration-150  ">
+    <a href="/calendar-events" class="flex py-2 px-2 whitespace-nowrap " data-drupal-link-system-path="node/2903">Events</a>
+    </li>
+                    <li class="menu-item    flex  bg-uh-black/5 hover:bg-uh-black/10 md:items-start  md:transition-all md:duration-150  ">
+    <a href="/newsletter" class="flex py-2 px-2 whitespace-nowrap " data-drupal-link-system-path="node/1001075">Newsletter</a>
+    </li>
+                    <li class="menu-item    flex  bg-uh-black/5 hover:bg-uh-black/10 md:items-start  md:transition-all md:duration-150  ">
+    <a href="/press-room" class="flex py-2 px-2 whitespace-nowrap " data-drupal-link-system-path="node/14820">Press Room</a>
+    </li>
+      </ul>
+
+    </li>
+                                              <li class="menu-item menu-item--expanded relative   flex hover:bg-uh-black/5 md:w-auto transition-all duration-150   [&amp;_div.link-wrapper]:flex [&amp;_div.link-wrapper]:flex-grow [&amp;_div.link-wrapper]:flex-row [&amp;_div.link-wrapper]:w-full [&amp;_div.link-wrapper]:md:w-auto [&amp;_div.link-wrapper]:justify-center [&amp;_div.link-wrapper]:items-center md:transition-all md:duration-150 [&amp;_div.link-wrapper]:md:justify-start" x-data="{openSubmenu1 : false, ariaExpanded: false}" @mouseenter="if (!isTouchDevice) { if (window.innerWidth &gt; 769) { openSubmenu1 = true; } }" @mouseleave="if (!isTouchDevice) { if (window.innerWidth &gt; 769) { openSubmenu1 = false; } }" @resize.window="openSubmenu1 = false, openSubmenu2 = false" x-on:click.away="openSubmenu1 = false"
+          >
+      <div class='link-wrapper group'>
+        <a href="/member-resources" class="flex py-2 px-2 whitespace-nowrap menu-level-1 md:!pr-2" data-drupal-link-system-path="node/1000956">Member Resources</a>
+        <button @click="openSubmenu1 = !openSubmenu1"
+                :aria-expanded="openSubmenu1 ? 'true' : 'false'"
+                class="submenu-toggle w-12 flex justify-center items-center bg-uh-black border border-uh-black border-solid rounded-lg shadow-sm border-opacity-5 bg-opacity-5 hover:bg-opacity-10 mr-1 md:w-auto md:bg-transparent md:border-none md:rounded-none md:shadow-none"
+                @focusin="if (keyboardNavigation) { openSubmenu1 = false, openSubmenu2 = false }"
+                title="Expand section">
+                                        <i class="down-arrow">
+          <span class="">
+            <svg class="w-4 h-4 transition duration-150 ease-in-out transform fill-current "
+                 xmlns="http://www.w3.org/2000/svg"
+                 viewBox="0 0 20 20"
+                 :class="{ 'rotate-180': openSubmenu1 }">>
+              <path d="M9.293 12.95l.707.707L15.657 8l-1.414-1.414L10 10.828 5.757 6.586 4.343 8z"/>
+            </svg>
+          </span>
+          </i>
+                </button>
+      </div>
+    
+
+
+<ul
+            class="normal-case flex flex-col w-full md:z-10 md:w-auto md:absolute md:top-full md:left-0 md:transition-all md:duration-150 dropdown-1 bg-uh-primary text-uh-white hover:text-uh-neutral-1 "
+            x-show="openSubmenu1" x-transition:enter="md:transition md:ease-out md:duration-100"
+    x-transition:enter-start="md:transform md:opacity-0 md:scale-95"
+    x-transition:enter-end="md:transform md:opacity-100 md:scale-100"
+    x-transition:leave="md:transition md:ease-in md:duration-75"
+    x-transition:leave-start="md:transform md:opacity-100 md:scale-100"
+    x-transition:leave-end="md:transform md:opacity-0 md:scale-95"
+        style="display: none;">
+                        <li class="menu-item    flex  bg-uh-black/5 hover:bg-uh-black/10 md:items-start  md:transition-all md:duration-150  ">
+    <a href="https://www.afscme.org/member-resources/afscme-advantage" class="flex py-2 px-2 whitespace-nowrap ">AFSCME Advantage</a>
+    </li>
+                    <li class="menu-item    flex  bg-uh-black/5 hover:bg-uh-black/10 md:items-start  md:transition-all md:duration-150  ">
+    <a href="https://afscmemd.org/member-resources/afscme-digital-member-card" class="flex py-2 px-2 whitespace-nowrap ">AFSCME Digital Member Card</a>
+    </li>
+                    <li class="menu-item    flex  bg-uh-black/5 hover:bg-uh-black/10 md:items-start  md:transition-all md:duration-150  ">
+    <a href="https://www.sfandc.com" class="flex py-2 px-2 whitespace-nowrap ">SF&amp;C Insurance</a>
+    </li>
+                    <li class="menu-item    flex  bg-uh-black/5 hover:bg-uh-black/10 md:items-start  md:transition-all md:duration-150  ">
+    <a href="/member-resources/know-your-rights" class="flex py-2 px-2 whitespace-nowrap " data-drupal-link-system-path="node/12256">Know Your Rights</a>
+    </li>
+                    <li class="menu-item    flex  bg-uh-black/5 hover:bg-uh-black/10 md:items-start  md:transition-all md:duration-150  ">
+    <a href="https://www.kscadvocates.com/practice-areas/correctional-officers/" class="flex py-2 px-2 whitespace-nowrap ">Correctional Officers’ Bill of Rights</a>
+    </li>
+                    <li class="menu-item    flex  bg-uh-black/5 hover:bg-uh-black/10 md:items-start  md:transition-all md:duration-150  ">
+    <a href="https://afscmemd.org/member-resources/NEO" class="flex py-2 px-2 whitespace-nowrap ">Materials for NEOs and Site Visits</a>
+    </li>
+                    <li class="menu-item    flex  bg-uh-black/5 hover:bg-uh-black/10 md:items-start  md:transition-all md:duration-150  ">
+    <a href="https://afscmemd.org/member-resources/heat-safety" class="flex py-2 px-2 whitespace-nowrap ">Resources on Heat Stress Regulations</a>
+    </li>
+                    <li class="menu-item    flex  bg-uh-black/5 hover:bg-uh-black/10 md:items-start  md:transition-all md:duration-150  ">
+    <a href="/kyr-immigration-raids-0" class="flex py-2 px-2 whitespace-nowrap " data-drupal-link-system-path="node/1002862">KYR Immigration Raids</a>
+    </li>
+      </ul>
+
+    </li>
+                                              <li class="menu-item menu-item--expanded relative   flex hover:bg-uh-black/5 md:w-auto transition-all duration-150   [&amp;_div.link-wrapper]:flex [&amp;_div.link-wrapper]:flex-grow [&amp;_div.link-wrapper]:flex-row [&amp;_div.link-wrapper]:w-full [&amp;_div.link-wrapper]:md:w-auto [&amp;_div.link-wrapper]:justify-center [&amp;_div.link-wrapper]:items-center md:transition-all md:duration-150 [&amp;_div.link-wrapper]:md:justify-start" x-data="{openSubmenu1 : false, ariaExpanded: false}" @mouseenter="if (!isTouchDevice) { if (window.innerWidth &gt; 769) { openSubmenu1 = true; } }" @mouseleave="if (!isTouchDevice) { if (window.innerWidth &gt; 769) { openSubmenu1 = false; } }" @resize.window="openSubmenu1 = false, openSubmenu2 = false" x-on:click.away="openSubmenu1 = false"
+          >
+      <div class='link-wrapper group'>
+        <a href="/contact-us" class="flex py-2 px-2 whitespace-nowrap menu-level-1 md:!pr-2" data-drupal-link-system-path="node/2908">Contact Us</a>
+        <button @click="openSubmenu1 = !openSubmenu1"
+                :aria-expanded="openSubmenu1 ? 'true' : 'false'"
+                class="submenu-toggle w-12 flex justify-center items-center bg-uh-black border border-uh-black border-solid rounded-lg shadow-sm border-opacity-5 bg-opacity-5 hover:bg-opacity-10 mr-1 md:w-auto md:bg-transparent md:border-none md:rounded-none md:shadow-none"
+                @focusin="if (keyboardNavigation) { openSubmenu1 = false, openSubmenu2 = false }"
+                title="Expand section">
+                                        <i class="down-arrow">
+          <span class="">
+            <svg class="w-4 h-4 transition duration-150 ease-in-out transform fill-current "
+                 xmlns="http://www.w3.org/2000/svg"
+                 viewBox="0 0 20 20"
+                 :class="{ 'rotate-180': openSubmenu1 }">>
+              <path d="M9.293 12.95l.707.707L15.657 8l-1.414-1.414L10 10.828 5.757 6.586 4.343 8z"/>
+            </svg>
+          </span>
+          </i>
+                </button>
+      </div>
+    
+
+
+<ul
+            class="normal-case flex flex-col w-full md:z-10 md:w-auto md:absolute md:top-full md:left-0 md:transition-all md:duration-150 dropdown-1 bg-uh-primary text-uh-white hover:text-uh-neutral-1 "
+            x-show="openSubmenu1" x-transition:enter="md:transition md:ease-out md:duration-100"
+    x-transition:enter-start="md:transform md:opacity-0 md:scale-95"
+    x-transition:enter-end="md:transform md:opacity-100 md:scale-100"
+    x-transition:leave="md:transition md:ease-in md:duration-75"
+    x-transition:leave-start="md:transform md:opacity-100 md:scale-100"
+    x-transition:leave-end="md:transform md:opacity-0 md:scale-95"
+        style="display: none;">
+                        <li class="menu-item    flex  bg-uh-black/5 hover:bg-uh-black/10 md:items-start  md:transition-all md:duration-150  ">
+    <a href="/update-your-information" class="flex py-2 px-2 whitespace-nowrap " data-drupal-link-system-path="node/27889">Update Your Information</a>
+    </li>
+      </ul>
+
+    </li>
+                    <li class="menu-item    flex hover:bg-uh-black/5 md:w-auto transition-all duration-150   ">
+    <a href="/usm" class="flex py-2 px-2 whitespace-nowrap " data-drupal-link-system-path="node/1007009">USM Layoffs</a>
+    </li>
+      </ul>
+
+  </div>
+    
+  
+        
+  <div class='relative flex flex-row items-center text-uh-white hover:bg-uh-primary-dark bg-uh-primary transition-colors text-base' @click.away="search_open = false">
+    <i x-on:click="search_open = !search_open; $nextTick(() => $refs.autoFocus.focus());" class="cursor-pointer fa-lg fas fa-search text-base mx-4 text-uh-white hover:transition-opacity" aria-haspopup="true" x-bind:aria-expanded="search_open" aria-expanded="true"></i><span class="sr-only">Search</span>
+
+        <div x-show="search_open" x-cloak class="absolute top-10 right-0 flex flex-col">
+      <div class='flex flex-col items-end pr-2'>
+            <div class="w-7 overflow-hidden inline-block">
+      <div class="h-5 w-5 bg-uh-white rotate-45 transform origin-bottom-left">
+        <div class="w-full h-full md:bg-uh-secondary"></div>
+      </div>
+    </div>
+  
+      </div>
+      <div class="bg-uh-white">
+        <div class="p-4 w-full h-full md:bg-uh-secondary">
+          <form action="/search" method="get">
+            <div class="flex">
+              <label class="sr-only" for="desktop-search-site">Search site</label>
+              <input x-ref="autoFocus" id="desktop-search-site" class="w-60 p-2 text-base text-uh-primary font-body border-4 border-uh-primary max-w-md" type="search" placeholder="Search Site" name="keywords">
+              <button class="bg-uh-primary hover:bg-uh-primary-dark text-uh-white text-base p-2 pl-4 pr-4">
+                <i class="fa-lg fas fa-search"></i><span class="sr-only">Search</span>
+              </button>
+            </div>
+          </form>
+        </div>
+      </div>
+    </div>
+   
+  </div>
+  
+  
+</div>
+
+
+
+
+
+                                                                            <ul class="block w-full  !border-0 font-header uppercase text-uh-white hover:text-uh-neutral-1 border-0 menu md:hidden mobile-site-menu text-sm pt-2 border-t-2" x-description="Mobile menu, show/hide based on menu state." id="mobile-menu" x-show="open" style="display: none;">
+
+      <li class="menu-item    relative" >
+
+          <a href="/contracts" class="flex px-4 py-2 hover:bg-uh-black/5" data-drupal-link-system-path="node/1002782">Contracts</a>
+      
+      
+        </li>
+      <li class="menu-item menu-item--expanded grid grid-cols-6   relative"  x-data="{selected:null}" >
+
+        <a href="/join-us" class="flex px-4 py-1 col-span-5 hover:bg-uh-black/5" data-drupal-link-system-path="node/1004432">Join Us</a>
+    <div class="col-span-1 py-2 pl-2 pr-4">
+      <button type="button" class="block w-full h-full bg-uh-black border border-uh-black border-solid rounded-lg shadow-sm border-opacity-5 bg-opacity-5 hover:bg-opacity-10" x-on:click="selected !== 0 ? selected = 0 : selected = null" arial-label="Toggle menu" x-bind:aria-expanded="selected == 0 ? 'true' : 'false'">
+        <svg class="w-5 h-5 m-auto transform" x-description="Heroicon name: solid/chevron-right" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 20 20" fill="currentColor" aria-hidden="true" x-bind:class="selected == 0 ? 'rotate-180' : 'rotate-0'">
+          <path fill-rule="evenodd" d="M5.293 7.293a1 1 0 011.414 0L10 10.586l3.293-3.293a1 1 0 111.414 1.414l-4 4a1 1 0 01-1.414 0l-4-4a1 1 0 010-1.414z" clip-rule="evenodd"></path>
+        </svg>
+      </button>
+    </div>
+    <div class="relative col-span-6 overflow-hidden transition-all duration-700" x-ref="container0" x-bind:class="selected == 0 ? 'h-auto' : 'h-0'" x-bind:aria-hidden="selected == 0 ? 'false' : 'true'">
+      
+                                                  <ul class="block w-full bg-uh-black/5">
+  
+      <li class="menu-item    relative" >
+
+          <a href="https://afscmemdlibraryworkers.org/" class="flex px-4 py-2 hover:bg-uh-black/5">For Library Workers</a>
+      
+      
+        </li>
+      <li class="menu-item    relative" >
+
+          <a href="/form-union-afscme" class="flex px-4 py-2 hover:bg-uh-black/5" data-drupal-link-system-path="node/158426">Form a Union</a>
+      
+      
+        </li>
+  
+  
+  
+</ul>
+
+      
+          </div>
+      </li>
+      <li class="menu-item menu-item--expanded grid grid-cols-6   relative"  x-data="{selected:null}" >
+
+        <a href="/our-union" class="flex px-4 py-1 col-span-5 hover:bg-uh-black/5" data-drupal-link-system-path="node/2902">Our Union</a>
+    <div class="col-span-1 py-2 pl-2 pr-4">
+      <button type="button" class="block w-full h-full bg-uh-black border border-uh-black border-solid rounded-lg shadow-sm border-opacity-5 bg-opacity-5 hover:bg-opacity-10" x-on:click="selected !== 0 ? selected = 0 : selected = null" arial-label="Toggle menu" x-bind:aria-expanded="selected == 0 ? 'true' : 'false'">
+        <svg class="w-5 h-5 m-auto transform" x-description="Heroicon name: solid/chevron-right" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 20 20" fill="currentColor" aria-hidden="true" x-bind:class="selected == 0 ? 'rotate-180' : 'rotate-0'">
+          <path fill-rule="evenodd" d="M5.293 7.293a1 1 0 011.414 0L10 10.586l3.293-3.293a1 1 0 111.414 1.414l-4 4a1 1 0 01-1.414 0l-4-4a1 1 0 010-1.414z" clip-rule="evenodd"></path>
+        </svg>
+      </button>
+    </div>
+    <div class="relative col-span-6 overflow-hidden transition-all duration-700" x-ref="container0" x-bind:class="selected == 0 ? 'h-auto' : 'h-0'" x-bind:aria-hidden="selected == 0 ? 'false' : 'true'">
+      
+                                                  <ul class="block w-full bg-uh-black/5">
+  
+      <li class="menu-item    relative" >
+
+          <a href="/our-union/our-locals" class="flex px-4 py-2 hover:bg-uh-black/5" data-drupal-link-system-path="node/1000954">Our Locals</a>
+      
+      
+        </li>
+      <li class="menu-item    relative" >
+
+          <a href="/our-union/leadership" class="flex px-4 py-2 hover:bg-uh-black/5" data-drupal-link-system-path="node/1001073">Leadership</a>
+      
+      
+        </li>
+      <li class="menu-item    relative" >
+
+          <a href="/our-union/staff" class="flex px-4 py-2 hover:bg-uh-black/5" data-drupal-link-system-path="node/1001074">Staff</a>
+      
+      
+        </li>
+      <li class="menu-item    relative" >
+
+          <a href="/our-union/governance" class="flex px-4 py-2 hover:bg-uh-black/5" data-drupal-link-system-path="node/2912">Governance</a>
+      
+      
+        </li>
+      <li class="menu-item    relative" >
+
+          <a href="/our-union/careers-afscme" class="flex px-4 py-2 hover:bg-uh-black/5" data-drupal-link-system-path="node/162401">Careers</a>
+      
+      
+        </li>
+  
+  
+  
+</ul>
+
+      
+          </div>
+      </li>
+      <li class="menu-item menu-item--expanded grid grid-cols-6   relative"  x-data="{selected:null}" >
+
+        <a href="/updates" class="flex px-4 py-1 col-span-5 hover:bg-uh-black/5" data-drupal-link-system-path="node/15772">Updates</a>
+    <div class="col-span-1 py-2 pl-2 pr-4">
+      <button type="button" class="block w-full h-full bg-uh-black border border-uh-black border-solid rounded-lg shadow-sm border-opacity-5 bg-opacity-5 hover:bg-opacity-10" x-on:click="selected !== 0 ? selected = 0 : selected = null" arial-label="Toggle menu" x-bind:aria-expanded="selected == 0 ? 'true' : 'false'">
+        <svg class="w-5 h-5 m-auto transform" x-description="Heroicon name: solid/chevron-right" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 20 20" fill="currentColor" aria-hidden="true" x-bind:class="selected == 0 ? 'rotate-180' : 'rotate-0'">
+          <path fill-rule="evenodd" d="M5.293 7.293a1 1 0 011.414 0L10 10.586l3.293-3.293a1 1 0 111.414 1.414l-4 4a1 1 0 01-1.414 0l-4-4a1 1 0 010-1.414z" clip-rule="evenodd"></path>
+        </svg>
+      </button>
+    </div>
+    <div class="relative col-span-6 overflow-hidden transition-all duration-700" x-ref="container0" x-bind:class="selected == 0 ? 'h-auto' : 'h-0'" x-bind:aria-hidden="selected == 0 ? 'false' : 'true'">
+      
+                                                  <ul class="block w-full bg-uh-black/5">
+  
+      <li class="menu-item    relative" >
+
+          <a href="/calendar-events" class="flex px-4 py-2 hover:bg-uh-black/5" data-drupal-link-system-path="node/2903">Events</a>
+      
+      
+        </li>
+      <li class="menu-item    relative" >
+
+          <a href="/newsletter" class="flex px-4 py-2 hover:bg-uh-black/5" data-drupal-link-system-path="node/1001075">Newsletter</a>
+      
+      
+        </li>
+      <li class="menu-item    relative" >
+
+          <a href="/press-room" class="flex px-4 py-2 hover:bg-uh-black/5" data-drupal-link-system-path="node/14820">Press Room</a>
+      
+      
+        </li>
+  
+  
+  
+</ul>
+
+      
+          </div>
+      </li>
+      <li class="menu-item menu-item--expanded grid grid-cols-6   relative"  x-data="{selected:null}" >
+
+        <a href="/member-resources" class="flex px-4 py-1 col-span-5 hover:bg-uh-black/5" data-drupal-link-system-path="node/1000956">Member Resources</a>
+    <div class="col-span-1 py-2 pl-2 pr-4">
+      <button type="button" class="block w-full h-full bg-uh-black border border-uh-black border-solid rounded-lg shadow-sm border-opacity-5 bg-opacity-5 hover:bg-opacity-10" x-on:click="selected !== 0 ? selected = 0 : selected = null" arial-label="Toggle menu" x-bind:aria-expanded="selected == 0 ? 'true' : 'false'">
+        <svg class="w-5 h-5 m-auto transform" x-description="Heroicon name: solid/chevron-right" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 20 20" fill="currentColor" aria-hidden="true" x-bind:class="selected == 0 ? 'rotate-180' : 'rotate-0'">
+          <path fill-rule="evenodd" d="M5.293 7.293a1 1 0 011.414 0L10 10.586l3.293-3.293a1 1 0 111.414 1.414l-4 4a1 1 0 01-1.414 0l-4-4a1 1 0 010-1.414z" clip-rule="evenodd"></path>
+        </svg>
+      </button>
+    </div>
+    <div class="relative col-span-6 overflow-hidden transition-all duration-700" x-ref="container0" x-bind:class="selected == 0 ? 'h-auto' : 'h-0'" x-bind:aria-hidden="selected == 0 ? 'false' : 'true'">
+      
+                                                  <ul class="block w-full bg-uh-black/5">
+  
+      <li class="menu-item    relative" >
+
+          <a href="https://www.afscme.org/member-resources/afscme-advantage" class="flex px-4 py-2 hover:bg-uh-black/5">AFSCME Advantage</a>
+      
+      
+        </li>
+      <li class="menu-item    relative" >
+
+          <a href="https://afscmemd.org/member-resources/afscme-digital-member-card" class="flex px-4 py-2 hover:bg-uh-black/5">AFSCME Digital Member Card</a>
+      
+      
+        </li>
+      <li class="menu-item    relative" >
+
+          <a href="https://www.sfandc.com" class="flex px-4 py-2 hover:bg-uh-black/5">SF&amp;C Insurance</a>
+      
+      
+        </li>
+      <li class="menu-item    relative" >
+
+          <a href="/member-resources/know-your-rights" class="flex px-4 py-2 hover:bg-uh-black/5" data-drupal-link-system-path="node/12256">Know Your Rights</a>
+      
+      
+        </li>
+      <li class="menu-item    relative" >
+
+          <a href="https://www.kscadvocates.com/practice-areas/correctional-officers/" class="flex px-4 py-2 hover:bg-uh-black/5">Correctional Officers’ Bill of Rights</a>
+      
+      
+        </li>
+      <li class="menu-item    relative" >
+
+          <a href="https://afscmemd.org/member-resources/NEO" class="flex px-4 py-2 hover:bg-uh-black/5">Materials for NEOs and Site Visits</a>
+      
+      
+        </li>
+      <li class="menu-item    relative" >
+
+          <a href="https://afscmemd.org/member-resources/heat-safety" class="flex px-4 py-2 hover:bg-uh-black/5">Resources on Heat Stress Regulations</a>
+      
+      
+        </li>
+      <li class="menu-item    relative" >
+
+          <a href="/kyr-immigration-raids-0" class="flex px-4 py-2 hover:bg-uh-black/5" data-drupal-link-system-path="node/1002862">KYR Immigration Raids</a>
+      
+      
+        </li>
+  
+  
+  
+</ul>
+
+      
+          </div>
+      </li>
+      <li class="menu-item menu-item--expanded grid grid-cols-6   relative"  x-data="{selected:null}" >
+
+        <a href="/contact-us" class="flex px-4 py-1 col-span-5 hover:bg-uh-black/5" data-drupal-link-system-path="node/2908">Contact Us</a>
+    <div class="col-span-1 py-2 pl-2 pr-4">
+      <button type="button" class="block w-full h-full bg-uh-black border border-uh-black border-solid rounded-lg shadow-sm border-opacity-5 bg-opacity-5 hover:bg-opacity-10" x-on:click="selected !== 0 ? selected = 0 : selected = null" arial-label="Toggle menu" x-bind:aria-expanded="selected == 0 ? 'true' : 'false'">
+        <svg class="w-5 h-5 m-auto transform" x-description="Heroicon name: solid/chevron-right" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 20 20" fill="currentColor" aria-hidden="true" x-bind:class="selected == 0 ? 'rotate-180' : 'rotate-0'">
+          <path fill-rule="evenodd" d="M5.293 7.293a1 1 0 011.414 0L10 10.586l3.293-3.293a1 1 0 111.414 1.414l-4 4a1 1 0 01-1.414 0l-4-4a1 1 0 010-1.414z" clip-rule="evenodd"></path>
+        </svg>
+      </button>
+    </div>
+    <div class="relative col-span-6 overflow-hidden transition-all duration-700" x-ref="container0" x-bind:class="selected == 0 ? 'h-auto' : 'h-0'" x-bind:aria-hidden="selected == 0 ? 'false' : 'true'">
+      
+                                                  <ul class="block w-full bg-uh-black/5">
+  
+      <li class="menu-item    relative" >
+
+          <a href="/update-your-information" class="flex px-4 py-2 hover:bg-uh-black/5" data-drupal-link-system-path="node/27889">Update Your Information</a>
+      
+      
+        </li>
+  
+  
+  
+</ul>
+
+      
+          </div>
+      </li>
+      <li class="menu-item    relative" >
+
+          <a href="/usm" class="flex px-4 py-2 hover:bg-uh-black/5" data-drupal-link-system-path="node/1007009">USM Layoffs</a>
+      
+      
+        </li>
+  
+  
+    <div class="p-4 w-full h-full md:bg-uh-secondary">
+  <form action="/search" method="get">
+    <div class="flex rounded-2xl overflow-hidden">
+      <label class="sr-only" for="mobile-search-site">Search site</label>
+      <input x-ref="autoFocus" id="mobile-search-site" class="flex-grow p-2 text-sm text-uh-primary-dark border-none" type="search" placeholder="Search Site" name="keywords">
+      <button class="bg-uh-accent-1 hover:bg-uh-accent-1-dark text-uh-white text-sm p-2 pl-4 pr-4">
+        <i class="fa-lg fas fa-search"></i><span class="sr-only">Search</span>
+      </button>
+    </div>
+  </form>
+</div>
+
+  
+</ul>
+
+
+
+
+    </div>
+    <!-- ./site menu -->
+  </div>
+</div>
+
+
+
+
+  </div>
+
+  
+    <main>
+
+        <div id="page-content" class="flex items-center justify-start min-h-screen p-8 bg-gray-500 bg-cover bg-blend-multiply" style="background-image: url(/themes/custom/uh_tw/images/take.jpg);">
+      <div class="w-full p-6 text-center bg-uh-white shadow-xl text-branding-outer-space md:w-1/2 lg:w-1/3 xl:w-1/4">
+        <div class="flex w-full mb-6 opacity-70">
+          <img class="w-1/5 mr-6 transform -rotate-12" src="/themes/custom/uh_tw/images/404-2.svg" alt="404"/>
+          <img class="w-3/5"  src="/themes/custom/uh_tw/images/404.svg" alt="Sad face"/>
+        </div>
+        <div class="text-lg font-bold">
+          <div>
+    <div id="block-uh-tw-page-title">
+  
+    
+      
+  <h1 class="my-4">Page not found</h1>
+
+
+  </div>
+<div id="block-uh-tw-content">
+  
+    
+      The requested page could not be found.
+  </div>
+
+  </div>
+
+        </div>
+                  <a href="/" class="inline-flex items-center px-6 py-2 mt-6 text-sm font-bold bg-uh-white border border-gray-300 rounded-md shadow-sm button js-form-submit form-submit text-uh-accent-2 hover:bg-gray-300 focus:outline-none">
+            Go to Homepage
+          </a>
+              </div>
+    </div>
+    
+  </main>
+  
+</div>
+        <footer class="w-full antialiased footer" role="contentinfo">
+    <div class="footer">
+          <div>
+    <div id="site_footer">
+  
+    
+      
+
+<footer>
+  <div class="grid grid-cols-1 md:grid-cols-3 md:gap-0 text-uh-white">
+        <div class="col-span-1 bg-uh-secondary px-10 py-12">
+      <div class="text-uh-white text-sm prose prose-inverse prose-a:text-uh-white prose-img:w-20 md:prose-img:w-28 prose-img:mr-1 prose-img:my-1 max-w-none prose-strong:text-uh-white prose-h4:mt-0">
+                    <div class="location user-content"><p><strong>AFSCME Maryland Council 3</strong><br><em>We Make Maryland Happen</em></p><p>1410 Bush Street, Suite A<br>Baltimore, MD 21230</p></div>
+      
+      </div>
+
+      <div class="mt-6 social-media-links">
+        
+      </div>
+      
+    </div>
+    
+        <div class="col-span-2 bg-uh-primary px-10 py-12 lg:grid lg:grid-cols-2">
+      <div class="col-span-1 mb-6">
+        <h3>Quick Links</h3>
+        <div class="w-full text-uh-neutral-2 text-sm">
+          
+
+
+    
+      <ul class="menu justify-end w-full footer-menu relative border-0">
+                <li class="menu-item block">
+                <a href="/contracts" class="py-2 block" data-drupal-link-system-path="node/1002782">Contracts</a>
+      </li>
+                <li class="menu-item block">
+                <a href="/join-us" class="py-2 block" data-drupal-link-system-path="node/1004432">Join Us</a>
+      </li>
+                <li class="menu-item block">
+                <a href="/our-union" class="py-2 block" data-drupal-link-system-path="node/2902">Our Union</a>
+      </li>
+                <li class="menu-item block">
+                <a href="/updates" class="py-2 block" data-drupal-link-system-path="node/15772">Updates</a>
+      </li>
+                <li class="menu-item block">
+                <a href="/member-resources" class="py-2 block" data-drupal-link-system-path="node/1000956">Member Resources</a>
+      </li>
+                <li class="menu-item block">
+                <a href="/contact-us" class="py-2 block" data-drupal-link-system-path="node/2908">Contact Us</a>
+      </li>
+                <li class="menu-item block">
+                <a href="/usm" class="py-2 block" data-drupal-link-system-path="node/1007009">USM Layoffs</a>
+      </li>
+        </ul>
+  
+
+
+
+
+
+        </div>         
+      </div>
+	  <div class="col-span-1">
+		<div class="w-full">
+          
+<style>
+  .email-signup-wrapper form {
+    display: grid;
+    grid-template-columns: repeat(3,minmax(0,1fr));
+    gap: 0.25rem;
+  }
+  .email-signup-wrapper input {
+    width: 100%;
+    color: rgb(var(--uh-color-primary-dark));
+  }
+  .email-signup-wrapper input:focus {
+    box-shadow: 0 0 2px 3px rgb(var(--uh-color-secondary));
+    outline: 2px solid transparent;
+    outline-offset: 2px;
+    border-color: rgba(0,0,0,0.75);
+  }
+  .email-signup-wrapper button {
+    width: 100%;
+    padding-right: 0.5em;
+    padding-left: 0.5em;
+    text-transform: uppercase;
+  }
+  .email-signup-wrapper button:hover {
+    background-color: rgb(var(--uh-color-accent-1-dark));
+  }
+  .email-signup-wrapper button:focus {
+    outline: solid 2px rgb(var(--uh-color-accent-1));
+  }
+  .email-signup-wrapper .signup-form-message {
+    margin-top: 0.5rem;
+    color: rgb(var(--uh-color-accent-1));
+  }
+  .email-signup-wrapper form > div{
+    margin: 0 !important;
+  }
+  .email-signup-wrapper form > .form-item-email-address{
+    grid-column: span 3 / span 3;
+  }
+  .email-signup-wrapper form > .form-item-postal-code{
+    grid-column: span 2 / span 2;
+  }
+</style>
+<div class="email-signup-wrapper w-full py-4 max-w-4xl mx-auto">
+    <h3>Get Email Updates</h3>
+    <form class="email-signup-form" data-drupal-selector="email-signup-form" action="/sites/afscme/files/MD-State-Contract-2024-2026.pdf" method="post" id="email-signup-form" accept-charset="UTF-8">
+  
+<input data-drupal-selector="edit-config-wrapper" type="hidden" name="config[wrapper]" value="email-signup-wrapper" class="shadow-sm focus:ring-branding-outer-space focus:border-branding-outer-space w-full block border-gray-300 rounded-md p-2 md:text-sm" />
+
+
+
+
+<input data-drupal-selector="edit-config-api-endpoint" type="hidden" name="config[api_endpoint]" value="https://actionnetwork.org/api/v2/forms/af9c44a8-2b70-48c1-a09b-136bf483fb67/submissions" class="shadow-sm focus:ring-branding-outer-space focus:border-branding-outer-space w-full block border-gray-300 rounded-md p-2 md:text-sm" />
+
+
+
+
+<input data-drupal-selector="edit-config-tags" type="hidden" name="config[tags]" value="UnionHall," class="shadow-sm focus:ring-branding-outer-space focus:border-branding-outer-space w-full block border-gray-300 rounded-md p-2 md:text-sm" />
+
+
+
+
+<input data-drupal-selector="edit-config-thank-you" type="hidden" name="config[thank_you]" value="Thanks for signing up!" class="shadow-sm focus:ring-branding-outer-space focus:border-branding-outer-space w-full block border-gray-300 rounded-md p-2 md:text-sm" />
+
+
+
+<div class="js-form-item form-item js-form-type-email form-item-email-address js-form-item-email-address form-no-label flex-col my-1 md:mb-4 flex flex-wrap w-full">
+      <label for="edit-email-address" class="visually-hidden js-form-required form-required font-bold">Email Address</label>
+        
+<input placeholder="Email Address" data-drupal-selector="edit-email-address" type="email" id="edit-email-address" name="email_address" value="" size="60" maxlength="254" class="form-email required shadow-sm focus:ring-branding-outer-space focus:border-branding-outer-space w-full block border-gray-300 rounded-md p-2 md:text-sm" required="required" />
+
+
+
+
+        </div>
+<div class="js-form-item form-item js-form-type-textfield form-item-postal-code js-form-item-postal-code form-no-label flex-col my-1 md:mb-4 flex flex-wrap w-full">
+      <label for="edit-postal-code" class="visually-hidden js-form-required form-required font-bold">ZIP</label>
+        
+<input placeholder="ZIP" data-drupal-selector="edit-postal-code" type="text" id="edit-postal-code" name="postal_code" value="" size="10" maxlength="128" class="form-text required shadow-sm focus:ring-branding-outer-space focus:border-branding-outer-space w-full block border-gray-300 rounded-md p-2 md:text-sm" required="required" />
+
+
+
+
+        </div>
+
+<input autocomplete="off" data-drupal-selector="form-a1dcf-wnxs4hzjsjavb4nvo4-nawkx9khkusybxgcle" type="hidden" name="form_build_id" value="form-A1dCf_WnXs4hZJSjAvB4NVO4_NaWkX9khkuSYbXgCLE" class="shadow-sm focus:ring-branding-outer-space focus:border-branding-outer-space w-full block border-gray-300 rounded-md p-2 md:text-sm" />
+
+
+
+
+<input data-drupal-selector="edit-email-signup-form" type="hidden" name="form_id" value="email_signup_form" class="shadow-sm focus:ring-branding-outer-space focus:border-branding-outer-space w-full block border-gray-300 rounded-md p-2 md:text-sm" />
+
+
+
+<div data-drupal-selector="edit-actions" class="form-actions js-form-wrapper form-wrapper" id="edit-actions">
+
+  <button data-drupal-selector="an-submit" type="submit" id="an-submit" name="op" value="Sign Up" class="button js-form-submit form-submit px-8 py-2 inline-block border-0 font-bold text-uh-white transition-colors duration-300 bg-uh-accent-1 hover:bg-uh-accent-1-dark uppercase">Sign Up</button>
+
+
+
+
+</div>
+
+
+</form>
+<div class="signup-form-message text-branding-error"></div>
+</div>
+
+
+
+        </div> 
+      </div>
+      <div class="col-span-2">
+                <div class="mt-12 border-t border-uh-neutral-2 border-opacity-20 pt-8">
+                      <div class="footer-text user-content"><p><a href="https://afscme.org/privacy">Privacy Policy</a></p></div>
+      
+        </div>
+        
+                        <ul class="menu flex gap-2 divide-x text-xs underline leading-none mt-4">
+                    <li class="block pl-2 first:pl-0">
+            <a href="/login">Log In</a>
+          </li>
+                  </ul>
+                        
+        <p class="text-xs text-uh-neutral-2 mt-6">&copy; 2026 All rights reserved.</p>
+
+      </div>
+    </div>
+    
+  </div>
+</footer>
+
+
+
+
+  </div>
+
+  </div>
+
+    </div>
+    </footer>
+    
+
+  </div>
+
+    <script>dataLayer = [{"site_name":"AFSCME Maryland Council 3","site_id":"2901"}]</script>
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-PRPPGJW');</script>
+<noscript aria-hidden="true"><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-PRPPGJW"
+ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+    <script type="application/json" data-drupal-selector="drupal-settings-json">{"path":{"baseUrl":"\/","pathPrefix":"","currentPath":"","currentPathIsAdmin":false,"isFront":false,"currentLanguage":"en"},"pluralDelimiter":"\u0003","suppressDeprecationErrors":true,"ajaxPageState":{"libraries":"eJx9kF0OgzAMgy_UtUdCgYaSLW22JAy4_diftIeJN8efI1mG0YaKnU9YqZVk5LhQxpP5xmhhEMWUdb4Cx0zAUiKcYX371By17eR8m1G3OIrWgKsztcv36XOGUZrDgiYV04-Odi-xV2jZDiOKZWbQw4wJUw62mWNNPRiGeepgcJLWNfRFdG8FDgwb6h8mlqkbpNa9zRP7kq5ifiosPfBrkX2iB4zXeBk","theme":"uh_tw","theme_token":null},"ajaxTrustedUrl":{"form_action_p_pvdeGsVG5zNF_XLGPTvYSKCf43t8qZYSwcfZl2uzM":true,"\/email-signup\/signup":true},"data":{"extlink":{"extTarget":false,"extTargetAppendNewWindowDisplay":true,"extTargetAppendNewWindowLabel":"(opens in a new window)","extTargetNoOverride":false,"extNofollow":true,"extTitleNoOverride":false,"extNoreferrer":false,"extFollowNoOverride":true,"extClass":"0","extLabel":"(link is external)","extImgClass":false,"extSubdomains":true,"extExclude":"","extInclude":"","extCssExclude":"","extCssInclude":"","extCssExplicit":"","extAlert":false,"extAlertText":"This link will take you to an external web site. We are not responsible for their content.","extHideIcons":false,"mailtoClass":"0","telClass":"tel","mailtoLabel":"(link sends email)","telLabel":"(link is a phone number)","extUseFontAwesome":true,"extIconPlacement":"append","extPreventOrphan":false,"extFaLinkClasses":"fa fa-external-link","extFaMailtoClasses":"fa fa-envelope-o","extAdditionalLinkClasses":"","extAdditionalMailtoClasses":"","extAdditionalTelClasses":"","extFaTelClasses":"fa fa-phone","allowedDomains":["actionnetwork.org"],"extExcludeNoreferrer":""}},"ajax":{"an-submit":{"url":"\/email-signup\/signup","progress":{"type":"fullscreen"},"event":"mousedown","keypress":true,"prevent":"click","httpMethod":"POST","dialogType":"ajax","submit":{"_triggering_element_name":"op","_triggering_element_value":"Sign Up"}}},"user":{"uid":0,"permissionsHash":"be4e3f4eaa9c844953908bc0986a9f3ef969927776777eecf0a23c050d4b8c60"}}</script>
+<script src="/core/assets/vendor/jquery/jquery.min.js?v=4.0.0"></script>
+<script src="/sites/default/files/js/js_978s98TxopBjKM3lUc7Z517h1I1RBiDyf4rwOM-Iv2I.js?scope=footer&amp;delta=1&amp;language=en&amp;theme=uh_tw&amp;include=eJx9jlEOgzAMQy9UlSNVWRtYWJqwNB1w-4G0SfuY-LP9bMlZDYdifQGOhYB1ijDDFvKZkziaHGR-drQ9jmo14OZM8viOPjaMKg4rNq04_OjYXlO8GUhplxXDqTPYZacpUwn9niA7qSRBX9WOJ-DAsKP9YdoKpay1Hg9O3MhxAF5I8A1kE2Li"></script>
+
+  </body>
+</html>

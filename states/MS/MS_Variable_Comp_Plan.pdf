@@ -1,0 +1,1434 @@
+
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'html' -->
+<!-- FILE NAME SUGGESTIONS:
+   ▪️ html--front.html.twig
+   ▪️ html--node.html.twig
+   ✅ html.html.twig
+-->
+<!-- BEGIN OUTPUT from 'core/modules/system/templates/html.html.twig' -->
+<!DOCTYPE html>
+<html lang="en" dir="ltr" prefix="content: http://purl.org/rss/1.0/modules/content/  dc: http://purl.org/dc/terms/  foaf: http://xmlns.com/foaf/0.1/  og: http://ogp.me/ns#  rdfs: http://www.w3.org/2000/01/rdf-schema#  schema: http://schema.org/  sioc: http://rdfs.org/sioc/ns#  sioct: http://rdfs.org/sioc/types#  skos: http://www.w3.org/2004/02/skos/core#  xsd: http://www.w3.org/2001/XMLSchema# ">
+  <head>
+    <meta charset="utf-8" />
+<noscript><style>form.antibot > * { display: none !important; } form.antibot noscript { display: block !important; }</style>
+</noscript><script async src="https://www.googletagmanager.com/gtag/js?id=G-CT90DKXY0H"></script>
+<script>window.dataLayer = window.dataLayer || [];function gtag(){dataLayer.push(arguments)};gtag("js", new Date());gtag("set", "developer_id.dMDhkMT", true);gtag("config", "G-CT90DKXY0H", {"groups":"default","page_placeholder":"PLACEHOLDER_page_location"});</script>
+<meta name="Generator" content="Drupal 10 (https://www.drupal.org)" />
+<meta name="MobileOptimized" content="width" />
+<meta name="HandheldFriendly" content="true" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<link rel="icon" href="/themes/palmetto/favicon.ico" type="image/vnd.microsoft.icon" />
+
+    <title>Home | Mississippi State Personnel Board</title>
+    <link rel="stylesheet" media="all" href="/core/modules/system/css/components/align.module.css?thxs24" />
+<link rel="stylesheet" media="all" href="/core/modules/system/css/components/fieldgroup.module.css?thxs24" />
+<link rel="stylesheet" media="all" href="/core/modules/system/css/components/container-inline.module.css?thxs24" />
+<link rel="stylesheet" media="all" href="/core/modules/system/css/components/clearfix.module.css?thxs24" />
+<link rel="stylesheet" media="all" href="/core/modules/system/css/components/details.module.css?thxs24" />
+<link rel="stylesheet" media="all" href="/core/modules/system/css/components/hidden.module.css?thxs24" />
+<link rel="stylesheet" media="all" href="/core/modules/system/css/components/item-list.module.css?thxs24" />
+<link rel="stylesheet" media="all" href="/core/modules/system/css/components/js.module.css?thxs24" />
+<link rel="stylesheet" media="all" href="/core/modules/system/css/components/nowrap.module.css?thxs24" />
+<link rel="stylesheet" media="all" href="/core/modules/system/css/components/position-container.module.css?thxs24" />
+<link rel="stylesheet" media="all" href="/core/modules/system/css/components/reset-appearance.module.css?thxs24" />
+<link rel="stylesheet" media="all" href="/core/modules/system/css/components/resize.module.css?thxs24" />
+<link rel="stylesheet" media="all" href="/core/modules/system/css/components/system-status-counter.css?thxs24" />
+<link rel="stylesheet" media="all" href="/core/modules/system/css/components/system-status-report-counters.css?thxs24" />
+<link rel="stylesheet" media="all" href="/core/modules/system/css/components/system-status-report-general-info.css?thxs24" />
+<link rel="stylesheet" media="all" href="/core/modules/system/css/components/tablesort.module.css?thxs24" />
+<link rel="stylesheet" media="all" href="/core/modules/views/css/views.module.css?thxs24" />
+<link rel="stylesheet" media="all" href="/modules/contrib/ckeditor_accordion/css/accordion.frontend.css?thxs24" />
+<link rel="stylesheet" media="all" href="/sites/mspb/files/color/palmetto-20407fe1/colors.css?thxs24" />
+<link rel="stylesheet" media="all" href="//fonts.googleapis.com/css?family=Open+Sans:400,400i,700,700i|Oswald:400" />
+<link rel="stylesheet" media="all" href="//maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" />
+<link rel="stylesheet" media="all" href="//fonts.googleapis.com/css?family=Libre+Baskerville:400,400i|Open+Sans:400,400i,700,700i" />
+<link rel="stylesheet" media="all" href="/themes/palmetto/css/styles.css?thxs24" />
+
+    
+  </head>
+  <body>
+        <a href="#main-content" class="visually-hidden focusable">
+      Skip to main content
+    </a>
+    
+    
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'off_canvas_page_wrapper' -->
+<!-- BEGIN OUTPUT from 'core/modules/system/templates/off-canvas-page-wrapper.html.twig' -->
+  <div class="dialog-off-canvas-main-canvas" data-off-canvas-main-canvas>
+    
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'page' -->
+<!-- FILE NAME SUGGESTIONS:
+   ✅ page--front.html.twig
+   ▪️ page--node.html.twig
+   ▪️ page.html.twig
+-->
+<!-- 💡 BEGIN CUSTOM TEMPLATE OUTPUT from 'themes/palmetto/templates/page--front.html.twig' -->
+<script type="text/javascript" src="https://code.jquery.com/jquery-3.4.1.min.js" integrity="sha256-CSXorXvZcTkaix6Yvo6HppcZGetbYMGWSFlBw8HfCJo=" crossorigin="anonymous"></script>
+<!--<script type="text/javascript">
+   //$(document).ready(function(){
+//	$("#SearchTxt").keyup(function(event){
+//    	   if(event.keyCode == 13){
+//              $("#Searchbtn").click();
+//    	   }
+//	});
+//	   $("#Searchbtn").click(function()
+//           {
+//             // alert($(SearchTxt).val());
+//			  var txt=$('#SearchTxt').val();
+//			 // var searchUrl='https://sc.gov?q=' + txt;
+//			  var searchUrl='/searchresults?q=' + txt;
+//			  window.location.href = searchUrl;
+//           }
+//        );
+//
+//    })
+</script>-->
+
+<!--<div id="fb-root"></div>
+<script async defer crossorigin="anonymous" src="https://connect.facebook.net/en_US/sdk.js#xfbml=1&version=v4.0"></script>-->
+
+<div id="fb-root"></div>
+<script async defer crossorigin="anonymous" src="https://connect.facebook.net/en_US/sdk.js#xfbml=1&version=v10.0" nonce="1sTFrHFp"></script>
+
+<!--<div id="fb-root"></div>
+<script>
+//(function(d, s, id) {
+//  var js, fjs = d.getElementsByTagName(s)[0];
+//  if (d.getElementById(id)) return;
+//  js = d.createElement(s); js.id = id;
+//  js.src = "//connect.facebook.net/en_US/sdk.js#xfbml=1&version=v2.10&appId=1382814881787824";
+//  fjs.parentNode.insertBefore(js, fjs);
+//}(document, 'script', 'facebook-jssdk'));
+</script>-->
+<section class="msgov-topbar group">
+	<a href="https://www.ms.gov/" title="MS.gov – The official website of the State of Mississippi" class="msgov-logo">MS.GOV</a>
+  <span class="tagline printOnly">The official website of the State of Mississippi</span>
+  
+  <div class="msgov-links">
+    <ul>
+        <li><a href="https://www.ms.gov/services" title="MS.gov Online Services Listing">Online Services</a></li>
+        <li><a href="https://www.ms.gov/government/agency-directory" title="List of MS.gov Agencies">Agency Listing</a></li>
+    </ul>
+  </div>
+</section>
+<div class="partnerSite group">
+    <div class="headerAndQuickLinks">
+    <div class="horizontalQuickLinks group">
+    
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'region' -->
+<!-- FILE NAME SUGGESTIONS:
+   ▪️ region--quick-links.html.twig
+   ✅ region.html.twig
+-->
+<!-- BEGIN OUTPUT from 'core/modules/system/templates/region.html.twig' -->
+
+<!-- END OUTPUT from 'core/modules/system/templates/region.html.twig' -->
+
+
+  </div>
+    <header class="partnerBranding group">
+    <div class="brandingContainer group">
+        <div class="partnerName group">
+            
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'region' -->
+<!-- FILE NAME SUGGESTIONS:
+   ▪️ region--site-branding.html.twig
+   ✅ region.html.twig
+-->
+<!-- BEGIN OUTPUT from 'core/modules/system/templates/region.html.twig' -->
+  <div>
+    
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'block' -->
+<!-- FILE NAME SUGGESTIONS:
+   ✅ block--palmetto-branding.html.twig
+   ▪️ block--system-branding-block.html.twig
+   ▪️ block--system.html.twig
+   ▪️ block.html.twig
+-->
+<!-- 💡 BEGIN CUSTOM TEMPLATE OUTPUT from 'themes/palmetto/templates/block/block--palmetto-branding.html.twig' -->
+<div id="block-palmetto-branding" class="settings-tray-editable" data-drupal-settingstray="editable">
+  
+    
+    <div class="partnerLogo">
+      <a href="https://www.mspb.ms.gov/" title="Home" rel="home">
+                    <img src="/sites/mspb/files/full%20logo%20small.jpg" alt="Home" />
+                          </a>
+  </div>
+</div>
+
+<!-- END CUSTOM TEMPLATE OUTPUT from 'themes/palmetto/templates/block/block--palmetto-branding.html.twig' -->
+
+
+  </div>
+
+<!-- END OUTPUT from 'core/modules/system/templates/region.html.twig' -->
+
+
+                    </div>
+        <div id="SearchBar">
+			
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'region' -->
+<!-- FILE NAME SUGGESTIONS:
+   ▪️ region--search.html.twig
+   ✅ region.html.twig
+-->
+<!-- BEGIN OUTPUT from 'core/modules/system/templates/region.html.twig' -->
+  <div>
+    
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'block' -->
+<!-- FILE NAME SUGGESTIONS:
+   ▪️ block--palmetto-search.html.twig
+   ▪️ block--search-form-block.html.twig
+   ✅ block--search.html.twig
+   ▪️ block.html.twig
+-->
+<!-- 💡 BEGIN CUSTOM TEMPLATE OUTPUT from 'themes/palmetto/templates/block/block--search.html.twig' -->
+<div class="search-block-form settings-tray-editable block block-search block-search-form-block" data-drupal-selector="search-block-form" id="block-palmetto-search" role="search" data-drupal-settingstray="editable">
+  
+      <h2 class="visually-hidden">Search</h2>
+    
+      
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'form' -->
+<!-- BEGIN OUTPUT from 'core/modules/system/templates/form.html.twig' -->
+<form action="/search/content" method="get" id="search-block-form" accept-charset="UTF-8">
+  
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'form_element' -->
+<!-- BEGIN OUTPUT from 'core/modules/system/templates/form-element.html.twig' -->
+<div class="js-form-item form-item js-form-type-search form-item-keys js-form-item-keys form-no-label">
+      
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'form_element_label' -->
+<!-- BEGIN OUTPUT from 'core/modules/system/templates/form-element-label.html.twig' -->
+<label for="edit-keys" class="visually-hidden">Search</label>
+<!-- END OUTPUT from 'core/modules/system/templates/form-element-label.html.twig' -->
+
+
+        
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'input__search' -->
+<!-- FILE NAME SUGGESTIONS:
+   ▪️ input--search.html.twig
+   ✅ input.html.twig
+-->
+<!-- BEGIN OUTPUT from 'core/modules/system/templates/input.html.twig' -->
+<input title="Enter the terms you wish to search for." data-drupal-selector="edit-keys" type="search" id="edit-keys" name="keys" value="" size="15" maxlength="128" class="form-search" />
+
+<!-- END OUTPUT from 'core/modules/system/templates/input.html.twig' -->
+
+
+        </div>
+
+<!-- END OUTPUT from 'core/modules/system/templates/form-element.html.twig' -->
+
+
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'container' -->
+<!-- BEGIN OUTPUT from 'core/modules/system/templates/container.html.twig' -->
+<div data-drupal-selector="edit-actions" class="form-actions js-form-wrapper form-wrapper" id="edit-actions">
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'input__submit' -->
+<!-- FILE NAME SUGGESTIONS:
+   ▪️ input--submit.html.twig
+   ✅ input.html.twig
+-->
+<!-- BEGIN OUTPUT from 'core/modules/system/templates/input.html.twig' -->
+<input data-drupal-selector="edit-submit" type="submit" id="edit-submit" value="Search" class="button js-form-submit form-submit" />
+
+<!-- END OUTPUT from 'core/modules/system/templates/input.html.twig' -->
+
+</div>
+
+<!-- END OUTPUT from 'core/modules/system/templates/container.html.twig' -->
+
+
+</form>
+
+<!-- END OUTPUT from 'core/modules/system/templates/form.html.twig' -->
+
+
+  </div>
+
+<!-- END CUSTOM TEMPLATE OUTPUT from 'themes/palmetto/templates/block/block--search.html.twig' -->
+
+
+  </div>
+
+<!-- END OUTPUT from 'core/modules/system/templates/region.html.twig' -->
+
+	
+		</div>
+    </div>
+  </header>
+</div>
+<div class="mainNav group" id="mainNav">
+  <div class="container group">
+    <button title="Toggle Mobile Menu" class="mobileMenuButton" id="openMenuButton"><i class="fa fa-bars"></i>Menu</button>
+    
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'region' -->
+<!-- FILE NAME SUGGESTIONS:
+   ▪️ region--primary-menu.html.twig
+   ✅ region.html.twig
+-->
+<!-- BEGIN OUTPUT from 'core/modules/system/templates/region.html.twig' -->
+  <div>
+    
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'block' -->
+<!-- FILE NAME SUGGESTIONS:
+   ▪️ block--palmetto-main-menu.html.twig
+   ▪️ block--system-menu-block--main.html.twig
+   ✅ block--system-menu-block.html.twig
+   ▪️ block--system.html.twig
+   ▪️ block.html.twig
+-->
+<!-- BEGIN OUTPUT from 'core/modules/system/templates/block--system-menu-block.html.twig' -->
+<nav role="navigation" aria-labelledby="block-palmetto-main-menu-menu" id="block-palmetto-main-menu" class="settings-tray-editable" data-drupal-settingstray="editable">
+            
+  <h2 class="visually-hidden" id="block-palmetto-main-menu-menu">Main navigation</h2>
+  
+
+        
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'menu__main' -->
+<!-- FILE NAME SUGGESTIONS:
+   ✅ menu--main.html.twig
+   ✅ menu--main.html.twig
+   ▪️ menu.html.twig
+-->
+<!-- 💡 BEGIN CUSTOM TEMPLATE OUTPUT from 'themes/palmetto/templates/navigation/menu--main.html.twig' -->
+
+
+
+              <ul class="menu-firstLevel" aria-label="Main navigation">
+    
+          
+      
+      <li class="menu-item">
+        <a href="/" class="menu-link" data-drupal-link-system-path="&lt;front&gt;">Home</a>
+
+              </li>
+          
+      
+      <li class="menu-item">
+        <a href="https://www.governmentjobs.com/careers/mississippi" target="_blank" class="menu-link">Apply Now</a>
+
+              </li>
+          
+      
+      <li class="menu-item menu-item--collapsed">
+        <a href="/career-catalog" class="menu-link" data-drupal-link-system-path="node/415">Career Catalog</a>
+
+              </li>
+          
+      
+      <li class="menu-item menu-item--collapsed">
+        <a href="/employee-resources" class="menu-link" data-drupal-link-system-path="node/418">Employee Resources</a>
+
+              </li>
+          
+      
+      <li class="menu-item menu-item--collapsed">
+        <a href="/state-agency-resources" class="menu-link" data-drupal-link-system-path="node/419">State Agency Resources</a>
+
+              </li>
+          
+      
+      <li class="menu-item menu-item--collapsed">
+        <a href="/training-development" class="menu-link" data-drupal-link-system-path="node/422">Training &amp; Development</a>
+
+              </li>
+          
+      
+      <li class="menu-item">
+        <a href="/elearning" class="menu-link" data-drupal-link-system-path="node/49">eLearning</a>
+
+              </li>
+          
+      
+      <li class="menu-item menu-item--collapsed">
+        <a href="/about-mspb" class="menu-link" data-drupal-link-system-path="node/45">About MSPB</a>
+
+              </li>
+          
+      
+      <li class="menu-item">
+        <a href="https://www.eab.ms.gov/" target="_blank" class="menu-link">Employee Appeals Board</a>
+
+              </li>
+          
+      
+      <li class="menu-item">
+        <a href="/total-compensation-estimate" class="menu-link" data-drupal-link-system-path="node/617">Compensation Calculator</a>
+
+              </li>
+        </ul>
+  
+
+
+
+<!-- END CUSTOM TEMPLATE OUTPUT from 'themes/palmetto/templates/navigation/menu--main.html.twig' -->
+
+
+  </nav>
+
+<!-- END OUTPUT from 'core/modules/system/templates/block--system-menu-block.html.twig' -->
+
+
+  </div>
+
+<!-- END OUTPUT from 'core/modules/system/templates/region.html.twig' -->
+
+
+  </div>
+</div>
+      <div class="videoPanelContainer group">
+              <div class="cycleContainer group">
+          <div class="cycle-slideshow" data-cycle-pause-on-hover="false" data-cycle-speed="800" data-cycle-timeout="8000" data-cycle-slides="> div > div > div > div > div > img">
+  	        
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'region' -->
+<!-- FILE NAME SUGGESTIONS:
+   ▪️ region--image-rotator.html.twig
+   ✅ region.html.twig
+-->
+<!-- BEGIN OUTPUT from 'core/modules/system/templates/region.html.twig' -->
+  <div>
+    
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'block' -->
+<!-- FILE NAME SUGGESTIONS:
+   ▪️ block--views-block--image-rotator-view-block-1.html.twig
+   ▪️ block--views-block--image-rotator-view-block-1.html.twig
+   ▪️ block--views-block.html.twig
+   ▪️ block--views.html.twig
+   ✅ block.html.twig
+-->
+<!-- BEGIN OUTPUT from 'core/modules/block/templates/block.html.twig' -->
+<div class="views-element-container settings-tray-editable" id="block-views-block-image-rotator-view-block-1" data-drupal-settingstray="editable">
+  
+    
+      
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'container' -->
+<!-- BEGIN OUTPUT from 'core/modules/system/templates/container.html.twig' -->
+<div>
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'views_view' -->
+<!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view.html.twig' -->
+<div class="js-view-dom-id-58dd135b9e0e2e919312dfc8c3a26d46c7bb160ddfc2b607889c6748cbcd6d99">
+  
+  
+  
+
+  
+  
+  
+
+  
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'views_view_unformatted' -->
+<!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-unformatted.html.twig' -->
+    <div class="views-row">
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'views_view_fields' -->
+<!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->
+
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'views_view_field' -->
+<!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-field.html.twig' -->
+
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'image_formatter' -->
+<!-- BEGIN OUTPUT from 'core/modules/image/templates/image-formatter.html.twig' -->
+  
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'image_style' -->
+<!-- BEGIN OUTPUT from 'core/modules/image/templates/image-style.html.twig' -->
+
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'image' -->
+<!-- BEGIN OUTPUT from 'core/modules/system/templates/image.html.twig' -->
+<img loading="lazy" src="/sites/mspb/files/styles/rotator_image_1900_x_700_/public/2026-07/2026%20EIG%20Rotating%20Banner.jpg.jpeg?itok=bNG_bqsl" width="1900" height="700" alt="Excellence in Government Due September 1" typeof="foaf:Image" />
+
+<!-- END OUTPUT from 'core/modules/system/templates/image.html.twig' -->
+
+
+
+<!-- END OUTPUT from 'core/modules/image/templates/image-style.html.twig' -->
+
+
+
+<!-- END OUTPUT from 'core/modules/image/templates/image-formatter.html.twig' -->
+
+, 
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'image_formatter' -->
+<!-- BEGIN OUTPUT from 'core/modules/image/templates/image-formatter.html.twig' -->
+  
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'image_style' -->
+<!-- BEGIN OUTPUT from 'core/modules/image/templates/image-style.html.twig' -->
+
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'image' -->
+<!-- BEGIN OUTPUT from 'core/modules/system/templates/image.html.twig' -->
+<img loading="lazy" src="/sites/mspb/files/styles/rotator_image_1900_x_700_/public/2024-07/Hero%20Image%20flag%20no%20welcome%20alt%20language.jpg.jpeg?itok=98xEzvKt" width="1900" height="700" alt="Mississippi flag with MSPB mission " typeof="foaf:Image" />
+
+<!-- END OUTPUT from 'core/modules/system/templates/image.html.twig' -->
+
+
+
+<!-- END OUTPUT from 'core/modules/image/templates/image-style.html.twig' -->
+
+
+
+<!-- END OUTPUT from 'core/modules/image/templates/image-formatter.html.twig' -->
+
+
+<!-- END OUTPUT from 'core/modules/views/templates/views-view-field.html.twig' -->
+
+
+<!-- END OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->
+
+</div>
+
+<!-- END OUTPUT from 'core/modules/views/templates/views-view-unformatted.html.twig' -->
+
+
+    
+
+  
+  
+
+  
+  
+</div>
+
+<!-- END OUTPUT from 'core/modules/views/templates/views-view.html.twig' -->
+
+</div>
+
+<!-- END OUTPUT from 'core/modules/system/templates/container.html.twig' -->
+
+
+  </div>
+
+<!-- END OUTPUT from 'core/modules/block/templates/block.html.twig' -->
+
+
+  </div>
+
+<!-- END OUTPUT from 'core/modules/system/templates/region.html.twig' -->
+
+
+          </div>
+        </div>
+                    <div class="videoOverlayContainer group">
+              </div>
+      
+    </div>
+      
+        <div class="welcomeContainer group">
+        <main role="main" id="main-content" tabindex="-1">
+            <div class="welcomeOverlayContainer container group">
+                <div class="welcomeOverlayContent group">
+                    
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'region' -->
+<!-- FILE NAME SUGGESTIONS:
+   ▪️ region--content.html.twig
+   ✅ region.html.twig
+-->
+<!-- BEGIN OUTPUT from 'core/modules/system/templates/region.html.twig' -->
+  <div>
+    
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'block' -->
+<!-- FILE NAME SUGGESTIONS:
+   ▪️ block--palmetto-content.html.twig
+   ▪️ block--system-main-block.html.twig
+   ▪️ block--system.html.twig
+   ✅ block.html.twig
+-->
+<!-- BEGIN OUTPUT from 'core/modules/block/templates/block.html.twig' -->
+<div id="block-palmetto-content">
+  
+    
+      
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'container' -->
+<!-- BEGIN OUTPUT from 'core/modules/system/templates/container.html.twig' -->
+<div class="views-element-container">
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'views_view' -->
+<!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view.html.twig' -->
+<div class="js-view-dom-id-becaa33c51a1239d1676b3b1bdca1cc11da099c3e0a8c8e9a22de546f1c19f47">
+  
+  
+  
+
+  
+  
+  
+
+    
+
+  
+  
+
+  
+  
+</div>
+
+<!-- END OUTPUT from 'core/modules/views/templates/views-view.html.twig' -->
+
+</div>
+
+<!-- END OUTPUT from 'core/modules/system/templates/container.html.twig' -->
+
+
+  </div>
+
+<!-- END OUTPUT from 'core/modules/block/templates/block.html.twig' -->
+
+
+  </div>
+
+<!-- END OUTPUT from 'core/modules/system/templates/region.html.twig' -->
+
+
+                </div>
+            </div>
+        </main>
+    </div>
+      
+  <section class="featureBoxes group" aria-label="Featured Content">
+    <div class="featureBoxesContainer group">
+      <div class="container group">
+        
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'region' -->
+<!-- FILE NAME SUGGESTIONS:
+   ▪️ region--feature-box.html.twig
+   ✅ region.html.twig
+-->
+<!-- BEGIN OUTPUT from 'core/modules/system/templates/region.html.twig' -->
+  <div>
+    
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'block' -->
+<!-- FILE NAME SUGGESTIONS:
+   ▪️ block--views-block--featured-boxes-view-block-1.html.twig
+   ▪️ block--views-block--featured-boxes-view-block-1.html.twig
+   ▪️ block--views-block.html.twig
+   ▪️ block--views.html.twig
+   ✅ block.html.twig
+-->
+<!-- BEGIN OUTPUT from 'core/modules/block/templates/block.html.twig' -->
+<div class="views-element-container settings-tray-editable" id="block-views-block-featured-boxes-view-block-1" data-drupal-settingstray="editable">
+  
+    
+      
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'container' -->
+<!-- BEGIN OUTPUT from 'core/modules/system/templates/container.html.twig' -->
+<div>
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'views_view' -->
+<!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view.html.twig' -->
+<div class="js-view-dom-id-b1e0d246e0fe76979f59053272a359e631c15f490bb63cb9f9fce28f634721a6">
+  
+  
+  
+
+  
+  
+  
+
+  
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'views_view_unformatted' -->
+<!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-unformatted.html.twig' -->
+    <div class="views-row">
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'node' -->
+<!-- FILE NAME SUGGESTIONS:
+   ▪️ node--view--featured-boxes-view--block-1.html.twig
+   ▪️ node--view--featured-boxes-view.html.twig
+   ▪️ node--13--full.html.twig
+   ▪️ node--13.html.twig
+   ▪️ node--featured-boxes--full.html.twig
+   ▪️ node--featured-boxes.html.twig
+   ▪️ node--full.html.twig
+   ▪️ node.html.twig
+-->
+<!-- 💡 BEGIN CUSTOM TEMPLATE OUTPUT from 'themes/palmetto/templates/node--featured_boxes.html.twig' -->
+
+
+<article data-history-node-id="13" about="/index%2Ephp/node/13" class="featureBox">
+        
+    <a href="https://www.governmentjobs.com/careers/mississippi">
+        <h2 id="feature-title-13-1">
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'field' -->
+<!-- FILE NAME SUGGESTIONS:
+   ▪️ field--node--field-box-1-header--featured-boxes.html.twig
+   ▪️ field--node--field-box-1-header.html.twig
+   ▪️ field--node--featured-boxes.html.twig
+   ▪️ field--field-box-1-header.html.twig
+   ▪️ field--string.html.twig
+   ✅ field.html.twig
+-->
+<!-- BEGIN OUTPUT from 'core/modules/system/templates/field.html.twig' -->
+
+            <div>Job   Seekers</div>
+      
+<!-- END OUTPUT from 'core/modules/system/templates/field.html.twig' -->
+
+</h2>
+        <div class="featureBoxDescription">
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'field' -->
+<!-- FILE NAME SUGGESTIONS:
+   ▪️ field--node--field-box-1-description--featured-boxes.html.twig
+   ▪️ field--node--field-box-1-description.html.twig
+   ▪️ field--node--featured-boxes.html.twig
+   ▪️ field--field-box-1-description.html.twig
+   ▪️ field--string.html.twig
+   ✅ field.html.twig
+-->
+<!-- BEGIN OUTPUT from 'core/modules/system/templates/field.html.twig' -->
+
+            <div>View and apply for open positions in state government.</div>
+      
+<!-- END OUTPUT from 'core/modules/system/templates/field.html.twig' -->
+
+</div>
+        <span class="featureBoxButton" aria-hidden="true">Open Positions</span>
+    </a>
+    </article>
+
+<article data-history-node-id="13" about="/index%2Ephp/node/13" class="featureBox">
+        
+    <a href="/index%2Ephp/employee-resources">
+        <h2 id="feature-title-13-2">
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'field' -->
+<!-- FILE NAME SUGGESTIONS:
+   ▪️ field--node--field-box-2-header--featured-boxes.html.twig
+   ▪️ field--node--field-box-2-header.html.twig
+   ▪️ field--node--featured-boxes.html.twig
+   ▪️ field--field-box-2-header.html.twig
+   ▪️ field--string.html.twig
+   ✅ field.html.twig
+-->
+<!-- BEGIN OUTPUT from 'core/modules/system/templates/field.html.twig' -->
+
+            <div>Employees</div>
+      
+<!-- END OUTPUT from 'core/modules/system/templates/field.html.twig' -->
+
+</h2>
+        <div class="featureBoxDescription">
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'field' -->
+<!-- FILE NAME SUGGESTIONS:
+   ▪️ field--node--field-box-2-description--featured-boxes.html.twig
+   ▪️ field--node--field-box-2-description.html.twig
+   ▪️ field--node--featured-boxes.html.twig
+   ▪️ field--field-box-2-description.html.twig
+   ▪️ field--string.html.twig
+   ✅ field.html.twig
+-->
+<!-- BEGIN OUTPUT from 'core/modules/system/templates/field.html.twig' -->
+
+            <div>Find information for current employees like policies, benefits, and performance reviews.</div>
+      
+<!-- END OUTPUT from 'core/modules/system/templates/field.html.twig' -->
+
+</div>
+        <span class="featureBoxButton" aria-hidden="true">Employee Resources</span>
+    </a>
+    </article>
+
+<article data-history-node-id="13" about="/index%2Ephp/node/13" class="featureBox">
+        
+    <a href="/index%2Ephp/state-agency-resources">
+        <h2 id="feature-title-13-3">
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'field' -->
+<!-- FILE NAME SUGGESTIONS:
+   ▪️ field--node--field-box-3-header--featured-boxes.html.twig
+   ▪️ field--node--field-box-3-header.html.twig
+   ▪️ field--node--featured-boxes.html.twig
+   ▪️ field--field-box-3-header.html.twig
+   ▪️ field--string.html.twig
+   ✅ field.html.twig
+-->
+<!-- BEGIN OUTPUT from 'core/modules/system/templates/field.html.twig' -->
+
+            <div>Agencies</div>
+      
+<!-- END OUTPUT from 'core/modules/system/templates/field.html.twig' -->
+
+</h2>
+        <div class="featureBoxDescription">
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'field' -->
+<!-- FILE NAME SUGGESTIONS:
+   ▪️ field--node--field-box-3-description--featured-boxes.html.twig
+   ▪️ field--node--field-box-3-description.html.twig
+   ▪️ field--node--featured-boxes.html.twig
+   ▪️ field--field-box-3-description.html.twig
+   ▪️ field--string.html.twig
+   ✅ field.html.twig
+-->
+<!-- BEGIN OUTPUT from 'core/modules/system/templates/field.html.twig' -->
+
+            <div>Access HR resources such as templates, compliance reports, and HR policies.</div>
+      
+<!-- END OUTPUT from 'core/modules/system/templates/field.html.twig' -->
+
+</div>
+        <span class="featureBoxButton" aria-hidden="true">State Agency Resources</span>
+    </a>
+    </article>
+
+<!-- END CUSTOM TEMPLATE OUTPUT from 'themes/palmetto/templates/node--featured_boxes.html.twig' -->
+
+</div>
+
+<!-- END OUTPUT from 'core/modules/views/templates/views-view-unformatted.html.twig' -->
+
+
+    
+
+  
+  
+
+  
+  
+</div>
+
+<!-- END OUTPUT from 'core/modules/views/templates/views-view.html.twig' -->
+
+</div>
+
+<!-- END OUTPUT from 'core/modules/system/templates/container.html.twig' -->
+
+
+  </div>
+
+<!-- END OUTPUT from 'core/modules/block/templates/block.html.twig' -->
+
+
+  </div>
+
+<!-- END OUTPUT from 'core/modules/system/templates/region.html.twig' -->
+
+
+      </div>
+    </div>
+  </section>
+
+  <section class="mainFeatures group">
+          <article class="mainNewsBlock">
+        <h2>Recent News</h2>
+        <div class="mainNewsBlock-content">
+          
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'region' -->
+<!-- FILE NAME SUGGESTIONS:
+   ▪️ region--news-block.html.twig
+   ✅ region.html.twig
+-->
+<!-- BEGIN OUTPUT from 'core/modules/system/templates/region.html.twig' -->
+  <div>
+    
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'block' -->
+<!-- FILE NAME SUGGESTIONS:
+   ▪️ block--views-block--news-block-1.html.twig
+   ▪️ block--views-block--news-block-1.html.twig
+   ▪️ block--views-block.html.twig
+   ▪️ block--views.html.twig
+   ✅ block.html.twig
+-->
+<!-- BEGIN OUTPUT from 'core/modules/block/templates/block.html.twig' -->
+<div class="views-element-container settings-tray-editable" id="block-views-block-news-block-1" data-drupal-settingstray="editable">
+  
+    
+      
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'container' -->
+<!-- BEGIN OUTPUT from 'core/modules/system/templates/container.html.twig' -->
+<div>
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'views_view' -->
+<!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view.html.twig' -->
+<div class="js-view-dom-id-318246acfaac9ed1a7cf942c6a4226eba2714b671c73c8f20c73f8fd4753751e">
+  
+  
+  
+
+  
+  
+  
+
+  
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'views_view_unformatted' -->
+<!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-unformatted.html.twig' -->
+    <div class="views-row">
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'views_view_fields' -->
+<!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->
+<h3 class="field-content mainNewsBlock-content-title">
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'views_view_field' -->
+<!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-field.html.twig' -->
+<a href="/index%2Ephp/news/mississippi-state-personnel-director-elected-president-national-association-state-personnel" hreflang="en">Mississippi State Personnel Director Elected President of National Association of State Personnel Executives</a>
+<!-- END OUTPUT from 'core/modules/views/templates/views-view-field.html.twig' -->
+
+</h3>
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'views_view_field' -->
+<!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-field.html.twig' -->
+<p class="text-align-justify">State Personnel Director Kelly Hardwick was recently named president of the <a href="https://www.naspe.net/">National Association of State Personnel E</a></p>
+<!-- END OUTPUT from 'core/modules/views/templates/views-view-field.html.twig' -->
+
+
+<!-- END OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->
+
+</div>
+    <div class="views-row">
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'views_view_fields' -->
+<!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->
+<h3 class="field-content mainNewsBlock-content-title">
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'views_view_field' -->
+<!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-field.html.twig' -->
+<a href="/index%2Ephp/news/mspb-calls-2026-excellence-government-awards-nominations" hreflang="en">MSPB Calls For 2026 Excellence In Government Awards Nominations</a>
+<!-- END OUTPUT from 'core/modules/views/templates/views-view-field.html.twig' -->
+
+</h3>
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'views_view_field' -->
+<!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-field.html.twig' -->
+<p>The Mississippi State Personnel Board will accept nominations for the 2026 Excellence in Government Awards until September 1, 2026.</p>
+<!-- END OUTPUT from 'core/modules/views/templates/views-view-field.html.twig' -->
+
+
+<!-- END OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->
+
+</div>
+
+<!-- END OUTPUT from 'core/modules/views/templates/views-view-unformatted.html.twig' -->
+
+
+    
+
+  
+  
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'container' -->
+<!-- FILE NAME SUGGESTIONS:
+   ▪️ container--more-link--news--block-1.html.twig
+   ▪️ container--more-link--block-1.html.twig
+   ▪️ container--more-link--news--block.html.twig
+   ▪️ container--more-link--block.html.twig
+   ▪️ container--more-link--news.html.twig
+   ▪️ container--more-link.html.twig
+   ✅ container.html.twig
+-->
+<!-- BEGIN OUTPUT from 'core/modules/system/templates/container.html.twig' -->
+<div class="more-link"><a href="/news">More Recent News</a></div>
+
+<!-- END OUTPUT from 'core/modules/system/templates/container.html.twig' -->
+
+
+
+  
+  
+</div>
+
+<!-- END OUTPUT from 'core/modules/views/templates/views-view.html.twig' -->
+
+</div>
+
+<!-- END OUTPUT from 'core/modules/system/templates/container.html.twig' -->
+
+
+  </div>
+
+<!-- END OUTPUT from 'core/modules/block/templates/block.html.twig' -->
+
+
+  </div>
+
+<!-- END OUTPUT from 'core/modules/system/templates/region.html.twig' -->
+
+
+        </div>
+      </article>
+              <article class="calendarBlock">
+        <h2>Calendar</h2>
+        <div class="calendarBlock-content">
+          
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'region' -->
+<!-- FILE NAME SUGGESTIONS:
+   ▪️ region--calendar-block.html.twig
+   ✅ region.html.twig
+-->
+<!-- BEGIN OUTPUT from 'core/modules/system/templates/region.html.twig' -->
+  <div>
+    
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'block' -->
+<!-- FILE NAME SUGGESTIONS:
+   ▪️ block--palmetto-views-block--event-calendar-block-1.html.twig
+   ▪️ block--views-block--event-calendar-block-1.html.twig
+   ▪️ block--views-block.html.twig
+   ▪️ block--views.html.twig
+   ✅ block.html.twig
+-->
+<!-- BEGIN OUTPUT from 'core/modules/block/templates/block.html.twig' -->
+<div class="views-element-container settings-tray-editable" id="block-palmetto-views-block-event-calendar-block-1" data-drupal-settingstray="editable">
+  
+    
+      
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'container' -->
+<!-- BEGIN OUTPUT from 'core/modules/system/templates/container.html.twig' -->
+<div>
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'views_view' -->
+<!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view.html.twig' -->
+<div class="js-view-dom-id-b2574876d87d7e85ecb543f64a6c703b36bf615205694319a92fd2b52f76a10d">
+  
+  
+  
+
+  
+  
+  
+
+  
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'views_view_unformatted' -->
+<!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-unformatted.html.twig' -->
+    <div class="views-row">
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'views_view_fields' -->
+<!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->
+<h3 class="field-content home-calendar-title">
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'views_view_field' -->
+<!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-field.html.twig' -->
+<a href="/index%2Ephp/calendar/itpdc-september-2026-meeting" hreflang="en">ITPDC September 2026 Meeting</a>
+<!-- END OUTPUT from 'core/modules/views/templates/views-view-field.html.twig' -->
+
+</h3><div class="views-field views-field-field-cal-start-date"><span class="views-label views-label-field-cal-start-date">Begins: </span><span class="field-content">
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'views_view_field' -->
+<!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-field.html.twig' -->
+
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'time' -->
+<!-- BEGIN OUTPUT from 'core/modules/system/templates/time.html.twig' -->
+<time datetime="2026-09-08T20:30:00Z">3:30 pm, 09/8/2026</time>
+
+<!-- END OUTPUT from 'core/modules/system/templates/time.html.twig' -->
+
+
+<!-- END OUTPUT from 'core/modules/views/templates/views-view-field.html.twig' -->
+
+</span></div><div class="views-field views-field-field-cal-end-date"><span class="views-label views-label-field-cal-end-date">Ends: </span><span class="field-content">
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'views_view_field' -->
+<!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-field.html.twig' -->
+
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'time' -->
+<!-- BEGIN OUTPUT from 'core/modules/system/templates/time.html.twig' -->
+<time datetime="2026-09-08T21:30:00Z">4:30 pm, 09/8/2026</time>
+
+<!-- END OUTPUT from 'core/modules/system/templates/time.html.twig' -->
+
+
+<!-- END OUTPUT from 'core/modules/views/templates/views-view-field.html.twig' -->
+
+</span></div>
+<!-- END OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->
+
+</div>
+
+<!-- END OUTPUT from 'core/modules/views/templates/views-view-unformatted.html.twig' -->
+
+
+    
+
+  
+  
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'container' -->
+<!-- FILE NAME SUGGESTIONS:
+   ▪️ container--more-link--event-calendar--block-1.html.twig
+   ▪️ container--more-link--block-1.html.twig
+   ▪️ container--more-link--event-calendar--block.html.twig
+   ▪️ container--more-link--block.html.twig
+   ▪️ container--more-link--event-calendar.html.twig
+   ▪️ container--more-link.html.twig
+   ✅ container.html.twig
+-->
+<!-- BEGIN OUTPUT from 'core/modules/system/templates/container.html.twig' -->
+<div class="more-link"><a href="/event-calendar">View Full Calendar</a></div>
+
+<!-- END OUTPUT from 'core/modules/system/templates/container.html.twig' -->
+
+
+
+  
+  
+</div>
+
+<!-- END OUTPUT from 'core/modules/views/templates/views-view.html.twig' -->
+
+</div>
+
+<!-- END OUTPUT from 'core/modules/system/templates/container.html.twig' -->
+
+
+  </div>
+
+<!-- END OUTPUT from 'core/modules/block/templates/block.html.twig' -->
+
+
+  </div>
+
+<!-- END OUTPUT from 'core/modules/system/templates/region.html.twig' -->
+
+
+        </div>
+      </article>
+                      </section>
+
+<footer class="partnerFooter group" role="contentinfo" aria-label="Site footer">
+      <div class="social-box group">
+    
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'region' -->
+<!-- FILE NAME SUGGESTIONS:
+   ▪️ region--social-media.html.twig
+   ✅ region.html.twig
+-->
+<!-- BEGIN OUTPUT from 'core/modules/system/templates/region.html.twig' -->
+  <div>
+    
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'block' -->
+<!-- FILE NAME SUGGESTIONS:
+   ▪️ block--socialmediafooter.html.twig
+   ▪️ block--block-content--0da489f5-3556-4a4b-b1b6-aef3db54a404.html.twig
+   ▪️ block--block-content--id-view--socialmediafooter--full.html.twig
+   ▪️ block--block-content--id--socialmediafooter.html.twig
+   ▪️ block--block-content--view-type--basic--full.html.twig
+   ▪️ block--block-content--type--basic.html.twig
+   ▪️ block--block-content--view--full.html.twig
+   ▪️ block--bundle--basic.html.twig
+   ▪️ block--block-content.html.twig
+   ✅ block.html.twig
+-->
+<!-- BEGIN OUTPUT from 'core/modules/block/templates/block.html.twig' -->
+<div id="block-socialmediafooter" class="settings-tray-editable" data-drupal-settingstray="editable">
+  
+    
+      
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'field' -->
+<!-- FILE NAME SUGGESTIONS:
+   ▪️ field--block-content--body--basic.html.twig
+   ▪️ field--block-content--body.html.twig
+   ▪️ field--block-content--basic.html.twig
+   ▪️ field--body.html.twig
+   ▪️ field--text-with-summary.html.twig
+   ✅ field.html.twig
+-->
+<!-- BEGIN OUTPUT from 'core/modules/system/templates/field.html.twig' -->
+
+            <div><ul><li data-list-item-id="edad68f81bb70b1777b8c41efac481482"><a class="faceb-link" href="https://www.facebook.com/mspersonnelboard"><span class="visually-hidden">Click to visit our Facebook page</span></a></li><li data-list-item-id="e09113d8ff7f0bd52a7cebc51b3832e04"><a class="insta-link" href="https://www.instagram.com/mississippi_spb/"><span class="visually-hidden">Click to visit our Instagram page</span></a></li><li data-list-item-id="e4465cbe7b3c454b2140eebb98b12e800"><a class="twitter-link" href="https://twitter.com/mississippi_spb/"><span class="visually-hidden">Click to visit our X page</span></a></li><li data-list-item-id="eff27b7a80d3b574c06b1da3601945b57"><a class="youtube-link" href="https://www.youtube.com/@mississippistatepersonnelboard/featured"><span class="visually-hidden">Click to visit our YouTube channel</span></a></li><li data-list-item-id="e0ca6deb17395c135672691435f5acf27"><a class="linkedin-link" href="https://www.linkedin.com/company/mississippi-state-personnel-board"><span class="visually-hidden">Click to visit our LinkedIn page</span></a></li></ul></div>
+      
+<!-- END OUTPUT from 'core/modules/system/templates/field.html.twig' -->
+
+
+  </div>
+
+<!-- END OUTPUT from 'core/modules/block/templates/block.html.twig' -->
+
+
+  </div>
+
+<!-- END OUTPUT from 'core/modules/system/templates/region.html.twig' -->
+
+
+  </div>
+  <div class="partnerFooterContainer container group">
+
+    <div class="footerLeft">
+        
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'region' -->
+<!-- FILE NAME SUGGESTIONS:
+   ▪️ region--footer-left.html.twig
+   ✅ region.html.twig
+-->
+<!-- BEGIN OUTPUT from 'core/modules/system/templates/region.html.twig' -->
+  <div>
+    
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'block' -->
+<!-- FILE NAME SUGGESTIONS:
+   ▪️ block--footercontent.html.twig
+   ▪️ block--block-content--1e181166-643e-4a85-9bad-6cdd8f9314b6.html.twig
+   ▪️ block--block-content--id-view--footercontent--full.html.twig
+   ▪️ block--block-content--id--footercontent.html.twig
+   ▪️ block--block-content--view-type--partner-editable-block--full.html.twig
+   ▪️ block--block-content--type--partner-editable-block.html.twig
+   ▪️ block--block-content--view--full.html.twig
+   ▪️ block--bundle--partner-editable-block.html.twig
+   ▪️ block--block-content.html.twig
+   ✅ block.html.twig
+-->
+<!-- BEGIN OUTPUT from 'core/modules/block/templates/block.html.twig' -->
+<div id="block-footercontent" class="settings-tray-editable" data-drupal-settingstray="editable">
+  
+    
+      
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'field' -->
+<!-- FILE NAME SUGGESTIONS:
+   ▪️ field--block-content--body--partner-editable-block.html.twig
+   ▪️ field--block-content--body.html.twig
+   ▪️ field--block-content--partner-editable-block.html.twig
+   ▪️ field--body.html.twig
+   ▪️ field--text-with-summary.html.twig
+   ✅ field.html.twig
+-->
+<!-- BEGIN OUTPUT from 'core/modules/system/templates/field.html.twig' -->
+
+            <div><p>Mississippi State Personnel Board<br>210 East Capitol Street, Suite 800<br>Jackson, MS 39201<br><br>Phone: (601) 359-1406<br>Microsoft Teams: (769) 867-9001<br>&nbsp;</p><p><a href="/about-mspb/meet-our-team">Contact Us</a><br><a href="https://login.neogov.com/Signin?siteCode=IN">Agency Neogov Login</a></p></div>
+      
+<!-- END OUTPUT from 'core/modules/system/templates/field.html.twig' -->
+
+
+  </div>
+
+<!-- END OUTPUT from 'core/modules/block/templates/block.html.twig' -->
+
+
+  </div>
+
+<!-- END OUTPUT from 'core/modules/system/templates/region.html.twig' -->
+
+
+    </div>
+
+    <div class="footerRight group">
+      
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'region' -->
+<!-- FILE NAME SUGGESTIONS:
+   ▪️ region--footer-right.html.twig
+   ✅ region.html.twig
+-->
+<!-- BEGIN OUTPUT from 'core/modules/system/templates/region.html.twig' -->
+  <div>
+    
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'block' -->
+<!-- FILE NAME SUGGESTIONS:
+   ▪️ block--palmetto-footerrightcontent.html.twig
+   ▪️ block--block-content--912ab226-e9ee-439c-be38-915fb6b308bf.html.twig
+   ▪️ block--block-content--id-view--palmetto-footerrightcontent--full.html.twig
+   ▪️ block--block-content--id--palmetto-footerrightcontent.html.twig
+   ▪️ block--block-content--view-type--partner-editable-block--full.html.twig
+   ▪️ block--block-content--type--partner-editable-block.html.twig
+   ▪️ block--block-content--view--full.html.twig
+   ▪️ block--bundle--partner-editable-block.html.twig
+   ▪️ block--block-content.html.twig
+   ✅ block.html.twig
+-->
+<!-- BEGIN OUTPUT from 'core/modules/block/templates/block.html.twig' -->
+<div id="block-palmetto-footerrightcontent" class="settings-tray-editable" data-drupal-settingstray="editable">
+  
+    
+      
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'field' -->
+<!-- FILE NAME SUGGESTIONS:
+   ▪️ field--block-content--body--partner-editable-block.html.twig
+   ▪️ field--block-content--body.html.twig
+   ▪️ field--block-content--partner-editable-block.html.twig
+   ▪️ field--body.html.twig
+   ▪️ field--text-with-summary.html.twig
+   ✅ field.html.twig
+-->
+<!-- BEGIN OUTPUT from 'core/modules/system/templates/field.html.twig' -->
+
+            <div><p>Our Vision:<br>To ensure a quality workforce<br>for the State of Mississippi<br><br>Our Mission:<br>To lead the way in human capital<br>and workforce management</p><p>&nbsp;</p><p><a href="/information-veterans">Information for Veterans</a><br><a href="https://www.jobfairs.ms.gov/">Governor's Job Fair Network</a></p></div>
+      
+<!-- END OUTPUT from 'core/modules/system/templates/field.html.twig' -->
+
+
+  </div>
+
+<!-- END OUTPUT from 'core/modules/block/templates/block.html.twig' -->
+
+
+  </div>
+
+<!-- END OUTPUT from 'core/modules/system/templates/region.html.twig' -->
+
+
+    </div>
+  </div>
+  <section class="msgov-footer group">
+	<div class="footerContainer group">
+		<div class="links">
+			<span><a href="https://www.ms.gov/" title="ms.gov Portal">ms.gov Home</a></span>
+			<span><a href="https://www.ms.gov/privacy-policy" title="ms.gov Site Policies">ms.gov Site Policies</a></span>
+			<span><a href="https://www.ms.gov/msi/help_portal" title="ms.gov Help Center">ms.gov Help Center</a></span>
+			<span><a href="http://www.transparency.ms.gov/" title="Transparency.ms.gov">Transparency.ms.gov</a></span>
+		</div>
+		<div class="copyright">
+			Copyright &copy;
+			<script type="text/javascript">
+				var dteNow = new Date();
+				var intYear = dteNow.getFullYear();
+				document.write(intYear);
+			</script> State of Mississippi
+		</div>
+	</div>
+</section>
+</footer>
+</div>
+
+
+<!-- END CUSTOM TEMPLATE OUTPUT from 'themes/palmetto/templates/page--front.html.twig' -->
+
+
+  </div>
+
+<!-- END OUTPUT from 'core/modules/system/templates/off-canvas-page-wrapper.html.twig' -->
+
+
+    
+    <script type="application/json" data-drupal-selector="drupal-settings-json">{"path":{"baseUrl":"\/","pathPrefix":"","currentPath":"node","currentPathIsAdmin":false,"isFront":true,"currentLanguage":"en","currentQuery":{"\/VariableCompensationPlan_pdf":""}},"pluralDelimiter":"\u0003","suppressDeprecationErrors":true,"google_analytics":{"account":"G-CT90DKXY0H","trackOutbound":true,"trackMailto":true,"trackTel":true,"trackDownload":true,"trackDownloadExtensions":"7z|aac|arc|arj|asf|asx|avi|bin|csv|doc(x|m)?|dot(x|m)?|exe|flv|gif|gz|gzip|hqx|jar|jpe?g|js|mp(2|3|4|e?g)|mov(ie)?|msi|msp|pdf|phps|png|ppt(x|m)?|pot(x|m)?|pps(x|m)?|ppam|sld(x|m)?|thmx|qtm?|ra(m|r)?|sea|sit|tar|tgz|torrent|txt|wav|wma|wmv|wpd|xls(x|m|b)?|xlt(x|m)|xlam|xml|z|zip"},"ckeditorAccordion":{"accordionStyle":{"collapseAll":1,"keepRowsOpen":0,"animateAccordionOpenAndClose":1,"openTabsWithHash":0,"allowHtmlInTitles":0}},"ajaxTrustedUrl":{"\/search\/content":true},"user":{"uid":0,"permissionsHash":"51dd1e7841c390aaf2fadbc84d28b476b7f0e239bfcacfbb1dbac5814391b31c"}}</script>
+<script src="/core/assets/vendor/jquery/jquery.min.js?v=3.7.1"></script>
+<script src="/core/assets/vendor/once/once.min.js?v=1.0.1"></script>
+<script src="/core/misc/drupalSettingsLoader.js?v=10.6.11"></script>
+<script src="/core/misc/drupal.js?v=10.6.11"></script>
+<script src="/core/misc/drupal.init.js?v=10.6.11"></script>
+<script src="/modules/contrib/ckeditor_accordion/js/accordion.frontend.min.js?thxs24"></script>
+<script src="/modules/contrib/google_analytics/js/google_analytics.js?v=10.6.11"></script>
+<script src="/themes/palmetto/js/modernizr.js?v=10.6.11"></script>
+<script src="/themes/palmetto/js/custom.js?v=10.6.11"></script>
+<script src="/themes/palmetto/js/jquery.cycle2.min.js?v=10.6.11"></script>
+
+  </body>
+</html>
+
+<!-- END OUTPUT from 'core/modules/system/templates/html.html.twig' -->
+
