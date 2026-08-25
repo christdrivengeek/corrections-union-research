@@ -56,7 +56,7 @@ We are actively auditing the detailed policy manuals and union contracts for 10 
 **4. Seniority Bidding:** Historically heavily protected, though a 2017 Civil Service Commission ruling weakened it. However, the union still enforces localized policies heavily favoring seniority for shift preference.
 
 ## Minnesota (MN) - Union (AFSCME Unit 8)
-**1. Mandatory Overtime:** Limits on forcing back-to-back. The contract penalizes the state with a $100 grievance payout directly to the officer if management violates the forcing order.
+**1. Mandatory Overtime:** Limits on forcing back-to-back. While the AFSCME Master Contract penalizes the state with a $100 payout for improper forcing, **Unit 208 (Corrections) is explicitly excluded from this $100 penalty.** Management does not have to pay you the $100 if you are forced twice or out of order.
 **2. Assault / Line-of-Duty Injury Pay:** 100% Full Pay. The AFSCME contract guarantees that if assaulted by an inmate, the state pays the difference between workers comp and full base salary, without deducting from the officer's accrued sick leave or vacation time (up to 240 hours).
 **3. Job Security:** Strict "Just Cause". Protected from at-will firing. Disciplinary actions go to a neutral binding arbitrator.
 **4. Seniority Bidding:** Strict "Classification Seniority". Your time-in-service dictates priority for bidding on vacant posts, shift selection, shift exchanges, and vacation time.
