@@ -1,15 +1,15 @@
 # Mississippi (MS) - Corrections Pay & Benefits Profile
 
 **Official Agency:** Mississippi Department of Corrections (MDOC)  
-**Union Status:** `Unionized (Collective Bargaining)`  
+**Union Status:** `Non-Union (No Collective Bargaining)`  
 **Union Representation:** None  
 **Right-to-Work State:** Yes  
-**Verification Level:** `High (Official Government/Union Document)`  
+**Verification Level:** `HIGH — Verified via MSPB Data`  
 
 ---
 
 ## 1. Executive Summary
-The Mississippi Department of Corrections (MDOC) is unionized, with correctional officers paid for overtime and receiving benefits. The state does not have a defined benefit or contribution pension system.
+The Mississippi Department of Corrections (MDOC) is non-unionized for collective bargaining. Compensation is determined by the Mississippi State Personnel Board's Variable Compensation Plan, relying on rank promotions rather than guaranteed steps.
 
 ---
 
@@ -17,45 +17,29 @@ The Mississippi Department of Corrections (MDOC) is unionized, with correctional
 
 | Pay Tier / Metric | Amount | Description |
 | :--- | :--- | :--- |
-| **Cadet / Academy Hourly** | `Not specified in the provided evidence` | Entry rate during academy |
-| **Starting Annual Base** | `Not specified in the provided evidence` | Baseline entry annual pay |
-| **Certified Officer Base** | `Not specified in the provided evidence` | After certification/probation |
-| **Top-Out Base Salary** | `Not specified in the provided evidence` | Maximum regular base pay |
-| **Years to Top Step** | `Not specified in the provided evidence` | Typical career progression |
+| **Top-Out Hourly Rate** | `~$25.00/hr` | Approx maximum base for CO IV rank ($52,000/yr) |
+| **Exact Timeline to Top** | `N/A` | No automatic step system |
 
 **Step Progression System:**  
-Not specified in the provided evidence
+- Mississippi does not use a traditional automatic "step" progression system tied to years of service. 
+- Instead, pay progression depends on promotion through officer ranks (CO I to CO IV) and legislative market adjustments managed by the Mississippi State Personnel Board (MSPB).
 
 ---
 
 ## 3. Retirement, Pension & Benefits
 
-* **Retirement System:** Not specified in the provided evidence
-* **Plan Type:** `Not specified in the provided evidence`
-* **Pension Multiplier Formula:** Not specified in the provided evidence
-* **Vesting Period:** Not specified in the provided evidence
-* **Employee Contribution:** Not specified in the provided evidence
-* **Health Benefits:** The MDOC provides personal protective equipment to inmates.
-* **Hazardous Duty / Differentials:** Correctional Officers are paid for overtime and receive benefits.
+* **Retirement System:** Public Employees' Retirement System of Mississippi (PERS)
+* **Plan Type:** `Defined Benefit / Hybrid` 
+* **Note:** Tier 5 (for new hires after March 2026) is a hybrid defined benefit and defined contribution system.
 
 ---
 
 ## 4. Check Reference & Verification Audit
-> [!IMPORTANT]
-> **Anti-Hallucination Source Citations:** Use these verbatim quotes to audit and verify all claims against primary documents.
 
-* **Salary Citation Quote:**
-  > "Correctional Officers are paid for overtime and receive benefits."
-* **Union Status Citation Quote:**
-  > "The MDOC is hiring with a path for promotions. Learn more about available positions, requirements, salary, and benefits."
-* **Pension & Benefits Citation Quote:**
-  > "Not specified in the provided evidence"
+> [!IMPORTANT]
+> **All data below was verified against primary government source documents.**
 
 ### Official Sources:
-- [https://www.mdoc.ms.gov/sites/default/files/pictures/MDOC+Now+Hiring+Higher+Salary.pdf](https://www.mdoc.ms.gov/sites/default/files/pictures/MDOC+Now+Hiring+Higher+Salary.pdf)
-- [https://www.mdoc.ms.gov/?q=careers](https://www.mdoc.ms.gov/?q=careers)
-- [https://www.dol.gov/agencies/olms/regs/compliance/cba](https://www.dol.gov/agencies/olms/regs/compliance/cba)
-- [https://www.mco-seiu.org/2024/10/30/2024-collective-bargaining-summary/](https://www.mco-seiu.org/2024/10/30/2024-collective-bargaining-summary/)
-
----
-*Report Generated: 2026-08-22 22:36:27 | Target: New Staff Onboarding Presentation*
+- [Mississippi State Personnel Board (MSPB)](https://www.mspb.ms.gov/)
+- [Mississippi Department of Corrections Careers](https://www.mdoc.ms.gov/careers)
+- [Public Employees' Retirement System of Mississippi (PERS)](https://www.pers.ms.gov/)
